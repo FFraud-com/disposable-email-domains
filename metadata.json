@@ -1,0 +1,8 @@
+{
+  "project": "disposable-email-domains",
+  "generated_utc": "2026-06-30T11:52:13Z",
+  "counts": { "disposable_email_domains": 207047 },
+  "license": "MIT",
+  "homepage": "https://ffraud.com",
+  "related": "https://github.com/FFraud-com/ip-fraud-database"
+}
