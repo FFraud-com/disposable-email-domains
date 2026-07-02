@@ -6,7 +6,7 @@
 ![Updated](https://img.shields.io/badge/updated-daily-3b82f6)
 ![Domains](https://img.shields.io/badge/domains-207k%2B-f59e0b)
 
-Block fake signups and throwaway accounts. This is the open email-domain layer of [ffraud.com](https://ffraud.com): every domain that serves temporary or disposable mailboxes, in one plain list, refreshed every day. No signup, no API key, no rate limits.
+Block fake signups and throwaway accounts. This is the open disposable-email database behind [ffraud.com](https://ffraud.com), maintained with the community: every domain that serves temporary or disposable mailboxes, in one plain list, refreshed every day. No signup, no API key, no rate limits.
 
 ## Quick start
 
