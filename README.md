@@ -6,9 +6,9 @@
 ![Updated](https://img.shields.io/badge/updated-every%2030%20min-3b82f6)
 ![Domains](https://img.shields.io/badge/domains-207k%2B-f59e0b)
 
-Throwaway inboxes are how fake accounts get made at scale: sign up, grab the confirmation link, abuse the free tier, repeat. This is the open disposable-email database behind [ffraud.com](https://ffraud.com) — every temporary, disposable, and throwaway mail domain we can find, in one plain list.
+Throwaway inboxes are how fake accounts get made at scale: sign up, grab the confirmation link, abuse the free tier, repeat. This is the open disposable-email database behind [ffraud.com](https://ffraud.com), every temporary, disposable, and throwaway mail domain we can find, in one plain list.
 
-New throwaway services spin up every day, and so do we. Our honeypot sensor network and a global community of fraud fighters surface fresh domains around the clock, and the list is rebuilt **every 30 minutes** — so what you pull is what's live right now, not a stale snapshot from last week.
+New throwaway services spin up every day, and so do we. Our honeypot sensor network and a global community of fraud fighters surface fresh domains around the clock, and the list is rebuilt **every 30 minutes**, so what you pull is what's live right now, not a stale snapshot from last week.
 
 No signup. No API key. No rate limits. Just the biggest, freshest disposable-email list on the internet, free forever.
 
@@ -22,7 +22,7 @@ Drop it into your signup validation, CRM, or fraud pipeline and reject disposabl
 
 ## Check a single address
 
-Don't want to download the whole list? Check any email or domain instantly with the free checker at [ffraud.com](https://ffraud.com) — no key, no limits.
+Don't want to download the whole list? Check any email or domain instantly with the free checker at [ffraud.com](https://ffraud.com), no key, no limits.
 
 ## What's inside
 
@@ -34,11 +34,11 @@ Don't want to download the whole list? Check any email or domain instantly with 
 ## Related open data
 
 - **[IP Fraud Database](https://github.com/FFraud-com/ip-fraud-database)**: our open database of 750,000+ confirmed-malicious IPs and fraudulent networks, each scored and tagged with a threat category and infrastructure type.
-- **[ffraud.com](https://ffraud.com)**: free IP and email fraud intelligence — a fast API, live checkers, and open data, all with no limits.
+- **[ffraud.com](https://ffraud.com)**: free IP and email fraud intelligence, a fast API, live checkers, and open data, all with no limits.
 
 ## Help build it
 
-Found a disposable domain we're missing? Open an issue or report it at [ffraud.com/report](https://ffraud.com/report). Confirmed domains ship in the next build — within the half hour.
+Found a disposable domain we're missing? Open an issue or report it at [ffraud.com/report](https://ffraud.com/report). Confirmed domains ship in the next build, within the half hour.
 
 ## License
 
@@ -46,4 +46,4 @@ MIT. Use it anywhere, including commercial products. Fork it, redistribute it, b
 
 ---
 
-Built by [ffraud.com](https://ffraud.com) — free fraud intelligence for everyone.
+Built by [ffraud.com](https://ffraud.com), free fraud intelligence for everyone.
