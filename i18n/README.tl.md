@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788793251" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788795042" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,466 disposable at pansamantalang email domain. Isang payak na listahan, sinasariwa sa buong maghapon at magdamag.</b></p>
 <p align="center"><sub>Lisensyang MIT &middot; walang rehistro, walang API key, walang limitasyon sa kahilingan &middot; na-update 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/tl.svg?v=1788793251" alt="Suriin ang isang address nang libre sa ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/tl.svg?v=1788795042" alt="Suriin ang isang address nang libre sa ffraud.com" width="540"></a></p>
 
 Ang disposable na inbox mismo ang daan kung paano gumagawa ng pekeng account nang maramihan: magparehistro, kunin ang link ng kumpirmasyon, ubusin ang libreng alok, ulitin. Ito ang bukas na database ng disposable na email sa likod ng [ffraud.com](https://ffraud.com): bawat pansamantala at disposable na mail domain na makikita namin, sa isang file ng teksto. Araw-araw may bagong serbisyong sumusulpot, kaya muling binubuo ang listahan **kada 30 minuto**: buhay ngayon ang kinukuha mo, hindi larawan noong nakaraang linggo. Walang rehistro, walang key, walang limitasyon.
 
