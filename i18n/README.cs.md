@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788764923" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788765603" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Číst v jiném jazyce: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <b>Čeština</b> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.sv.md">Svenska</a></sub></p>
+<p align="center"><sub>Číst v jiném jazyce: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <b>Čeština</b> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.fi.md">Suomi</a></sub></p>
 
 # Jednorázové e-mailové domény, přestavované každých 30 minut
 
 <p align="center"><b>219 429 jednorázových a dočasných e-mailových domén. Jeden prostý seznam, obnovovaný nepřetržitě.</b></p>
 <p align="center"><sub>Licence MIT &middot; bez registrace, bez API klíče, bez limitů na dotazy &middot; aktualizováno 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/cs.svg?v=1788764923" alt="Ověřit adresu zdarma na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/cs.svg?v=1788765603" alt="Ověřit adresu zdarma na ffraud.com" width="540"></a></p>
 
 Jednorázové schránky jsou přesně ta cesta, kterou se ve velkém vyrábějí falešné účty: zaregistrovat se, sebrat potvrzovací odkaz, spálit bezplatný tarif, znovu. Tohle je otevřená databáze jednorázových e-mailů za [ffraud.com](https://ffraud.com): každá dočasná a jednorázová poštovní doména, kterou dokážeme najít, v jednom textovém souboru. Nové služby vznikají každý den, takže se seznam **každých 30 minut** přestavuje: co si stáhnete, žije právě teď, není to snímek z minulého týdne. Bez registrace, bez klíče, bez limitů.
 
