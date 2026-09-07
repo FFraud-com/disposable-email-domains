@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788795042" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788796833" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219.466 domenii de e-mail temporare și de unică folosință. O listă simplă, împrospătată non-stop.</b></p>
 <p align="center"><sub>Licență MIT &middot; fără înregistrare, fără cheie API, fără limite de cereri &middot; actualizat 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ro.svg?v=1788795042" alt="Verifică o adresă gratuit pe ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ro.svg?v=1788796833" alt="Verifică o adresă gratuit pe ffraud.com" width="540"></a></p>
 
 Căsuțele de unică folosință sunt exact drumul pe care se fabrică în masă conturi false: te înregistrezi, iei linkul de confirmare, arzi nivelul gratuit, o iei de la capăt. Aceasta este baza deschisă de e-mailuri de unică folosință din spatele [ffraud.com](https://ffraud.com): fiecare domeniu de poștă temporar și de unică folosință pe care îl putem găsi, într-un singur fișier text. Servicii noi apar în fiecare zi, așa că lista se reconstruiește **la fiecare 30 de minute**: ce descarci trăiește acum, nu e o poză de săptămâna trecută. Fără înregistrare, fără cheie, fără limite.
 
