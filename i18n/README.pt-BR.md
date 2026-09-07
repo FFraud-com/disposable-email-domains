@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788789643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788791455" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Site-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Site"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domínios_descartáveis-219.465-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domínios descartáveis"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domínios_descartáveis-219.466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domínios descartáveis"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IPs_maliciosos-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IPs maliciosos"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Reconstruído-a_cada_30_minutos-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Reconstruído"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_gratuita-sem_chave-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API gratuita"></a>
@@ -15,15 +15,15 @@
 
 # Domínios de e-mail descartável, reconstruídos a cada 30 minutos
 
-<p align="center"><b>219.465 domínios de e-mail descartáveis e temporários. Uma lista simples, atualizada o tempo todo.</b></p>
+<p align="center"><b>219.466 domínios de e-mail descartáveis e temporários. Uma lista simples, atualizada o tempo todo.</b></p>
 <p align="center"><sub>Licença MIT &middot; sem cadastro, sem chave de API, sem limite de requisições &middot; atualizado em 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/pt-BR.svg?v=1788789643" alt="Checar um endereço de graça no ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/pt-BR.svg?v=1788791455" alt="Checar um endereço de graça no ffraud.com" width="540"></a></p>
 
 Caixas descartáveis são exatamente o caminho pelo qual contas falsas são feitas em escala: cadastra, pega o link de confirmação, queima o plano gratuito, repete. Esta é a base aberta de e-mail descartável por trás do [ffraud.com](https://ffraud.com): todos os domínios de e-mail temporário e descartável que conseguimos encontrar, num único arquivo de texto. Serviços novos aparecem todo dia, então a lista é reconstruída **a cada 30 minutos**: o que você puxa está vivo agora, não é uma foto da semana passada. Sem cadastro, sem chave, sem limites.
 
 ## Em números
 
-- **219.465** domínios de e-mail descartável e temporário, um por linha, ordenados, prontos para carregar num `Set`
+- **219.466** domínios de e-mail descartável e temporário, um por linha, ordenados, prontos para carregar num `Set`
 - Reconstruída e publicada **a cada 30 minutos**. O histórico de commits é o registro de mudanças, e [`metadata.json`](metadata.json) traz a hora exata da build
 - A detecção vai além da lista: o motor por trás do [ffraud.com](https://ffraud.com) também reconhece serviços descartáveis pela **infraestrutura de e-mail**, o que pega um domínio novinho no dia em que ele aparece, antes de qualquer lista o conter
 - Provedores de e-mail populares e pagos ficam **de fora** de propósito, para que um cliente real no próprio domínio nunca seja confundido com um serviço descartável
@@ -34,7 +34,7 @@ Caixas descartáveis são exatamente o caminho pelo qual contas falsas são feit
 
 | Arquivo | Linhas | O que é |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.465 | Um domínio de e-mail descartável ou temporário por linha, em minúsculas e ordenado |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.466 | Um domínio de e-mail descartável ou temporário por linha, em minúsculas e ordenado |
 | [`metadata.json`](../metadata.json) | &mdash; | O contador atual e a hora da build em UTC, para um script saber o quão fresca está sua cópia |
 
 ## Começo rápido

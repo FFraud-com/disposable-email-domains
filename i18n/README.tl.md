@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788789643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788791455" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Website-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Website"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Disposable_na_domain-219,465-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Disposable na domain"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Disposable_na_domain-219,466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Disposable na domain"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Mapaminsalang_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Mapaminsalang IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Muling_binubuo-kada_30_minuto-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Muling binubuo"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Libreng_API-walang_key-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Libreng API"></a>
@@ -15,15 +15,15 @@
 
 # Disposable na email domain, muling binubuo kada 30 minuto
 
-<p align="center"><b>219,465 disposable at pansamantalang email domain. Isang payak na listahan, sinasariwa sa buong maghapon at magdamag.</b></p>
+<p align="center"><b>219,466 disposable at pansamantalang email domain. Isang payak na listahan, sinasariwa sa buong maghapon at magdamag.</b></p>
 <p align="center"><sub>Lisensyang MIT &middot; walang rehistro, walang API key, walang limitasyon sa kahilingan &middot; na-update 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/tl.svg?v=1788789643" alt="Suriin ang isang address nang libre sa ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/tl.svg?v=1788791455" alt="Suriin ang isang address nang libre sa ffraud.com" width="540"></a></p>
 
 Ang disposable na inbox mismo ang daan kung paano gumagawa ng pekeng account nang maramihan: magparehistro, kunin ang link ng kumpirmasyon, ubusin ang libreng alok, ulitin. Ito ang bukas na database ng disposable na email sa likod ng [ffraud.com](https://ffraud.com): bawat pansamantala at disposable na mail domain na makikita namin, sa isang file ng teksto. Araw-araw may bagong serbisyong sumusulpot, kaya muling binubuo ang listahan **kada 30 minuto**: buhay ngayon ang kinukuha mo, hindi larawan noong nakaraang linggo. Walang rehistro, walang key, walang limitasyon.
 
 ## Sa maikling salita
 
-- **219,465** disposable at pansamantalang email domain, isa bawat linya, nakaayos, handang ikarga sa isang `Set`
+- **219,466** disposable at pansamantalang email domain, isa bawat linya, nakaayos, handang ikarga sa isang `Set`
 - Muling binubuo at inilalathala **kada 30 minuto**. Ang kasaysayan ng commit ang talaan ng pagbabago, at nasa [`metadata.json`](metadata.json) ang eksaktong oras ng build
 - Hindi natatapos sa listahan ang pagtukoy: nakikilala rin ng makina sa likod ng [ffraud.com](https://ffraud.com) ang disposable na serbisyo mula sa kanilang **imprastraktura ng mail**, kaya nahuhuli nito ang bagong-bagong domain sa mismong araw ng paglitaw nito, bago pa ito mapasama sa anumang listahan
 - Sinasadyang **hindi isinasama** ang mga karaniwan at bayad na tagapagbigay ng mail, para hindi kailanman mapagkamalang disposable na serbisyo ang tunay na kliyente sa sarili niyang domain
@@ -34,7 +34,7 @@ Ang disposable na inbox mismo ang daan kung paano gumagawa ng pekeng account nan
 
 | File | Mga hilera | Ano ito |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,465 | Isang disposable o pansamantalang email domain bawat linya, maliliit na titik at nakaayos |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,466 | Isang disposable o pansamantalang email domain bawat linya, maliliit na titik at nakaayos |
 | [`metadata.json`](../metadata.json) | &mdash; | Ang kasalukuyang bilang at oras ng build sa UTC, para malaman ng isang script kung gaano kasariwa ang kopya nito |
 
 ## Mabilisang simula

@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788789643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788791455" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Weboldal-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Weboldal"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Eldobható_domainek-219 465-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Eldobható domainek"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Eldobható_domainek-219 466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Eldobható domainek"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Rosszindulatú_IP--k-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Rosszindulatú IP-k"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Újraépítés-30_percenként-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Újraépítés"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Ingyenes_API-kulcs_nélkül-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ingyenes API"></a>
@@ -15,15 +15,15 @@
 
 # Eldobható e-mail domainek, 30 percenként újraépítve
 
-<p align="center"><b>219 465 eldobható és ideiglenes e-mail domain. Egyetlen egyszerű lista, éjjel-nappal frissítve.</b></p>
+<p align="center"><b>219 466 eldobható és ideiglenes e-mail domain. Egyetlen egyszerű lista, éjjel-nappal frissítve.</b></p>
 <p align="center"><sub>MIT licenc &middot; regisztráció nélkül, API-kulcs nélkül, kéréskorlát nélkül &middot; frissítve 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hu.svg?v=1788789643" alt="Ellenőrizz egy címet ingyen a ffraud.com oldalon" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hu.svg?v=1788791455" alt="Ellenőrizz egy címet ingyen a ffraud.com oldalon" width="540"></a></p>
 
 Az eldobható postafiókok pontosan az az út, amin a hamis fiókokat tömegesen gyártják: regisztrálsz, elviszed a megerősítő linket, elégeted az ingyenes keretet, kezdheted elölről. Ez a [ffraud.com](https://ffraud.com) mögött álló nyílt eldobható e-mail adatbázis: minden ideiglenes és eldobható levelezési domain, amit meg tudunk találni, egyetlen szövegfájlban. Új szolgáltatások minden nap felbukkannak, ezért a lista **30 percenként** épül újra: amit lehúzol, most él, nem múlt heti pillanatkép. Regisztráció nélkül, kulcs nélkül, korlátok nélkül.
 
 ## Röviden
 
-- **219 465** eldobható és ideiglenes e-mail domain, soronként egy, rendezve, készen arra, hogy egy `Set`-be töltsd
+- **219 466** eldobható és ideiglenes e-mail domain, soronként egy, rendezve, készen arra, hogy egy `Set`-be töltsd
 - **30 percenként** épül újra és kerül publikálásra. A commit-előzmény maga a változásnapló, a [`metadata.json`](metadata.json) pedig a pontos build-időt hordozza
 - A felismerés nem áll meg a listánál: a [ffraud.com](https://ffraud.com) mögötti motor a **levelezési infrastruktúrájukról** is felismeri az eldobható szolgáltatásokat, így egy vadonatúj domaint már a felbukkanása napján elkap, mielőtt bármelyik lista tartalmazná
 - A nagy és a fizetős levelezőszolgáltatókat szándékosan **kihagyjuk**, hogy egy valódi ügyfelet a saját domainjén soha ne nézzenek eldobható szolgáltatásnak
@@ -34,7 +34,7 @@ Az eldobható postafiókok pontosan az az út, amin a hamis fiókokat tömegesen
 
 | Fájl | Sorok | Mi ez |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 465 | Soronként egy eldobható vagy ideiglenes e-mail domain, kisbetűsen és rendezve |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 466 | Soronként egy eldobható vagy ideiglenes e-mail domain, kisbetűsen és rendezve |
 | [`metadata.json`](../metadata.json) | &mdash; | Az aktuális darabszám és a build ideje UTC-ben, hogy egy szkript tudja, mennyire friss a példánya |
 
 ## Gyors kezdés

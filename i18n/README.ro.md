@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788789643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788791455" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Site-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Site"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domenii_de_unică_folosință-219.465-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domenii de unică folosință"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domenii_de_unică_folosință-219.466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domenii de unică folosință"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP--uri_rău_intenționate-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP-uri rău intenționate"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Reconstruit-la_fiecare_30_de_minute-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Reconstruit"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_gratuit-fără_cheie-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API gratuit"></a>
@@ -15,15 +15,15 @@
 
 # Domenii de e-mail de unică folosință, reconstruite la fiecare 30 de minute
 
-<p align="center"><b>219.465 domenii de e-mail temporare și de unică folosință. O listă simplă, împrospătată non-stop.</b></p>
+<p align="center"><b>219.466 domenii de e-mail temporare și de unică folosință. O listă simplă, împrospătată non-stop.</b></p>
 <p align="center"><sub>Licență MIT &middot; fără înregistrare, fără cheie API, fără limite de cereri &middot; actualizat 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ro.svg?v=1788789643" alt="Verifică o adresă gratuit pe ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ro.svg?v=1788791455" alt="Verifică o adresă gratuit pe ffraud.com" width="540"></a></p>
 
 Căsuțele de unică folosință sunt exact drumul pe care se fabrică în masă conturi false: te înregistrezi, iei linkul de confirmare, arzi nivelul gratuit, o iei de la capăt. Aceasta este baza deschisă de e-mailuri de unică folosință din spatele [ffraud.com](https://ffraud.com): fiecare domeniu de poștă temporar și de unică folosință pe care îl putem găsi, într-un singur fișier text. Servicii noi apar în fiecare zi, așa că lista se reconstruiește **la fiecare 30 de minute**: ce descarci trăiește acum, nu e o poză de săptămâna trecută. Fără înregistrare, fără cheie, fără limite.
 
 ## Pe scurt
 
-- **219.465** domenii de e-mail temporare și de unică folosință, câte unul pe rând, sortate, gata de încărcat într-un `Set`
+- **219.466** domenii de e-mail temporare și de unică folosință, câte unul pe rând, sortate, gata de încărcat într-un `Set`
 - Se reconstruiește și se publică **la fiecare 30 de minute**. Istoricul commit-urilor este jurnalul de modificări, iar [`metadata.json`](metadata.json) poartă ora exactă a construcției
 - Detecția nu se oprește la listă: motorul din spatele [ffraud.com](https://ffraud.com) recunoaște serviciile de unică folosință și după **infrastructura lor de poștă**, prinzând astfel un domeniu nou-nouț chiar în ziua în care apare, înainte ca vreo listă să îl conțină
 - Furnizorii mari și cei cu plată sunt **excluși** intenționat, ca un client adevărat cu domeniul lui să nu fie luat niciodată drept serviciu de unică folosință
@@ -34,7 +34,7 @@ Căsuțele de unică folosință sunt exact drumul pe care se fabrică în masă
 
 | Fișier | Rânduri | Ce este |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.465 | Câte un domeniu de e-mail temporar sau de unică folosință pe rând, cu litere mici și sortate |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.466 | Câte un domeniu de e-mail temporar sau de unică folosință pe rând, cu litere mici și sortate |
 | [`metadata.json`](../metadata.json) | &mdash; | Numărătoarea curentă și ora construcției în UTC, ca un script să știe cât de proaspătă îi este copia |
 
 ## Start rapid

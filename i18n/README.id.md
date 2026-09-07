@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788789643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788791455" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Situs-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Situs"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domain_sekali_pakai-219.465-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain sekali pakai"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domain_sekali_pakai-219.466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain sekali pakai"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP_berbahaya-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP berbahaya"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Dibangun_ulang-tiap_30_menit-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dibangun ulang"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_gratis-tanpa_kunci-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API gratis"></a>
@@ -15,15 +15,15 @@
 
 # Domain email sekali pakai, dibangun ulang tiap 30 menit
 
-<p align="center"><b>219.465 domain email sekali pakai dan sementara. Satu daftar sederhana, disegarkan sepanjang waktu.</b></p>
+<p align="center"><b>219.466 domain email sekali pakai dan sementara. Satu daftar sederhana, disegarkan sepanjang waktu.</b></p>
 <p align="center"><sub>Lisensi MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa batas permintaan &middot; diperbarui 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/id.svg?v=1788789643" alt="Periksa satu alamat gratis di ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/id.svg?v=1788791455" alt="Periksa satu alamat gratis di ffraud.com" width="540"></a></p>
 
 Kotak masuk sekali pakai justru jalur yang dipakai untuk membuat akun palsu secara massal: daftar, ambil tautan konfirmasi, habiskan jatah gratis, ulangi. Ini basis data email sekali pakai terbuka yang menopang [ffraud.com](https://ffraud.com): setiap domain email sementara dan sekali pakai yang bisa kami temukan, dalam satu berkas teks. Layanan baru bermunculan tiap hari, jadi daftarnya dibangun ulang **tiap 30 menit**: yang Anda tarik hidup saat ini, bukan potret minggu lalu. Tanpa pendaftaran, tanpa kunci, tanpa batas.
 
 ## Ringkasnya
 
-- **219.465** domain email sekali pakai dan sementara, satu per baris, terurut, siap dimuat ke sebuah `Set`
+- **219.466** domain email sekali pakai dan sementara, satu per baris, terurut, siap dimuat ke sebuah `Set`
 - Dibangun ulang dan diterbitkan **tiap 30 menit**. Riwayat commit adalah catatan perubahannya, dan [`metadata.json`](metadata.json) memuat waktu build yang persis
 - Deteksinya tidak berhenti di daftar: mesin di balik [ffraud.com](https://ffraud.com) juga mengenali layanan sekali pakai dari **infrastruktur emailnya**, sehingga menangkap domain yang baru lahir pada hari ia muncul, sebelum daftar mana pun memuatnya
 - Penyedia email arus utama dan berbayar sengaja **dikecualikan**, supaya pelanggan asli dengan domain sendiri tidak pernah dikira layanan sekali pakai
@@ -34,7 +34,7 @@ Kotak masuk sekali pakai justru jalur yang dipakai untuk membuat akun palsu seca
 
 | Berkas | Baris | Apa ini |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.465 | Satu domain email sekali pakai atau sementara per baris, huruf kecil dan terurut |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.466 | Satu domain email sekali pakai atau sementara per baris, huruf kecil dan terurut |
 | [`metadata.json`](../metadata.json) | &mdash; | Hitungan terkini dan waktu build dalam UTC, supaya skrip tahu seberapa segar salinannya |
 
 ## Mulai cepat
