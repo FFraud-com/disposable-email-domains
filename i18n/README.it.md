@@ -1,29 +1,29 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788759148" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788759807" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sito-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sito"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domini_usa_e_getta-219.404-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domini usa e getta"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domini_usa_e_getta-219.429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domini usa e getta"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP_malevoli-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP malevoli"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Ricostruito-ogni_30_minuti-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ricostruito"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_gratuita-senza_chiave-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API gratuita"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Leggi in un'altra lingua: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <b>Italiano</b> &middot; <a href="README.ar.md">العربية</a></sub></p>
+<p align="center"><sub>Leggi in un'altra lingua: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <b>Italiano</b> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a></sub></p>
 
 # Domini email usa e getta, ricostruiti ogni 30 minuti
 
-<p align="center"><b>219.404 domini di posta usa e getta e temporanei. Un elenco semplice, aggiornato senza sosta.</b></p>
+<p align="center"><b>219.429 domini di posta usa e getta e temporanei. Un elenco semplice, aggiornato senza sosta.</b></p>
 <p align="center"><sub>Licenza MIT &middot; senza registrazione, senza chiave API, senza limiti di richieste &middot; aggiornato il 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/it.svg?v=1788759148" alt="Controlla un indirizzo gratis su ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/it.svg?v=1788759807" alt="Controlla un indirizzo gratis su ffraud.com" width="540"></a></p>
 
 Le caselle usa e getta sono esattamente la via con cui si fabbricano account falsi su larga scala: ci si registra, si prende il link di conferma, si brucia il piano gratuito, si ricomincia. Questo è il database aperto delle email usa e getta dietro a [ffraud.com](https://ffraud.com): tutti i domini di posta temporanei e usa e getta che riusciamo a trovare, in un unico file di testo. Ogni giorno nascono nuovi servizi, quindi l'elenco viene ricostruito **ogni 30 minuti**: quello che scarichi è vivo adesso, non è una fotografia della settimana scorsa. Senza registrazione, senza chiave, senza limiti.
 
 ## In breve
 
-- **219.404** domini di posta usa e getta e temporanei, uno per riga, ordinati, pronti da caricare in un `Set`
+- **219.429** domini di posta usa e getta e temporanei, uno per riga, ordinati, pronti da caricare in un `Set`
 - Ricostruito e pubblicato **ogni 30 minuti**. La cronologia dei commit è il registro delle modifiche, e [`metadata.json`](metadata.json) contiene l'orario esatto della build
 - Il rilevamento non si ferma all'elenco: il motore dietro [ffraud.com](https://ffraud.com) riconosce i servizi usa e getta anche dalla loro **infrastruttura di posta**, e così intercetta un dominio nuovissimo il giorno stesso in cui compare, prima che finisca in qualsiasi elenco
 - I provider di posta diffusi e a pagamento sono **esclusi** di proposito, perché un cliente vero sul proprio dominio non venga mai scambiato per un servizio usa e getta
@@ -34,7 +34,7 @@ Le caselle usa e getta sono esattamente la via con cui si fabbricano account fal
 
 | File | Righe | Che cos'è |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.404 | Un dominio di posta usa e getta o temporaneo per riga, in minuscolo e ordinato |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.429 | Un dominio di posta usa e getta o temporaneo per riga, in minuscolo e ordinato |
 | [`metadata.json`](../metadata.json) | &mdash; | Il conteggio aggiornato e l'orario della build in UTC, così uno script sa quanto è fresca la sua copia |
 
 ## Avvio rapido

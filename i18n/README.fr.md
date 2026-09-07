@@ -1,29 +1,29 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788759148" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788759807" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Site-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Site"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domaines_jetables-219 404-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domaines jetables"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domaines_jetables-219 429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domaines jetables"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP_malveillantes-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP malveillantes"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Reconstruit-toutes_les_30_minutes-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Reconstruit"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_gratuite-sans_clé-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API gratuite"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>Lire dans une autre langue: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <b>Français</b> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.ar.md">العربية</a></sub></p>
+<p align="center"><sub>Lire dans une autre langue: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <b>Français</b> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a></sub></p>
 
 # Domaines d'e-mails jetables, reconstruits toutes les 30 minutes
 
-<p align="center"><b>219 404 domaines de messagerie jetables et temporaires. Une liste simple, rafraîchie en continu.</b></p>
+<p align="center"><b>219 429 domaines de messagerie jetables et temporaires. Une liste simple, rafraîchie en continu.</b></p>
 <p align="center"><sub>Licence MIT &middot; sans inscription, sans clé d'API, sans limite de requêtes &middot; mis à jour le 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fr.svg?v=1788759148" alt="Vérifier une adresse gratuitement sur ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fr.svg?v=1788759807" alt="Vérifier une adresse gratuitement sur ffraud.com" width="540"></a></p>
 
 Les boîtes jetables sont exactement la façon dont on fabrique des faux comptes à grande échelle : on s'inscrit, on récupère le lien de confirmation, on épuise l'offre gratuite, on recommence. Voici la base ouverte d'e-mails jetables derrière [ffraud.com](https://ffraud.com) : tous les domaines de messagerie temporaires et jetables que nous pouvons trouver, dans un seul fichier texte. De nouveaux services apparaissent chaque jour, donc la liste est reconstruite **toutes les 30 minutes** : ce que vous récupérez est vivant maintenant, pas une photo de la semaine dernière. Sans inscription, sans clé, sans limite.
 
 ## En bref
 
-- **219 404** domaines de messagerie jetables et temporaires, un par ligne, triés, prêts à charger dans un `Set`
+- **219 429** domaines de messagerie jetables et temporaires, un par ligne, triés, prêts à charger dans un `Set`
 - Reconstruite et publiée **toutes les 30 minutes**. L'historique des commits fait office de journal des modifications, et [`metadata.json`](metadata.json) contient l'heure exacte de construction
 - La détection ne s'arrête pas à la liste : le moteur derrière [ffraud.com](https://ffraud.com) reconnaît aussi les services jetables à leur **infrastructure de messagerie**, ce qui attrape un domaine tout neuf le jour de son apparition, avant qu'aucune liste ne le contienne
 - Les fournisseurs de messagerie grand public et payants sont délibérément **exclus**, pour qu'un vrai client sur son propre domaine ne soit jamais pris pour un service jetable
@@ -34,7 +34,7 @@ Les boîtes jetables sont exactement la façon dont on fabrique des faux comptes
 
 | Fichier | Lignes | De quoi il s'agit |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 404 | Un domaine de messagerie jetable ou temporaire par ligne, en minuscules et trié |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 429 | Un domaine de messagerie jetable ou temporaire par ligne, en minuscules et trié |
 | [`metadata.json`](../metadata.json) | &mdash; | Le compteur à jour et l'heure de construction en UTC, pour qu'un script sache si sa copie est fraîche |
 
 ## Démarrage rapide

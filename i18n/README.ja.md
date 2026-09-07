@@ -1,29 +1,29 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788759148" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788759807" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ウェブサイト-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ウェブサイト"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/使い捨てドメイン-219,404-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="使い捨てドメイン"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/使い捨てドメイン-219,429-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="使い捨てドメイン"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/悪性IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="悪性IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/再構築-30分ごと-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="再構築"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/無料API-キー不要-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="無料API"></a>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>他の言語で読む: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <b>日本語</b> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.ar.md">العربية</a></sub></p>
+<p align="center"><sub>他の言語で読む: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <b>日本語</b> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a></sub></p>
 
 # 使い捨てメールドメイン、30分ごとに再構築
 
-<p align="center"><b>使い捨て・一時利用・捨てアドレス用のメールドメイン 219,404 件。素の一覧を1つ、24時間体制で更新しています。</b></p>
+<p align="center"><b>使い捨て・一時利用・捨てアドレス用のメールドメイン 219,429 件。素の一覧を1つ、24時間体制で更新しています。</b></p>
 <p align="center"><sub>MITライセンス &middot; 登録不要、APIキー不要、レート制限なし &middot; 更新日 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ja.svg?v=1788759148" alt="ffraud.com でアドレスを無料でチェック" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ja.svg?v=1788759807" alt="ffraud.com でアドレスを無料でチェック" width="540"></a></p>
 
 使い捨ての受信箱は、偽アカウントが量産される経路そのものです。登録して、確認リンクを受け取り、無料枠を使い切り、また繰り返す。これは [ffraud.com](https://ffraud.com) を支えているオープンな使い捨てメールデータベースで、見つけられる限りの一時利用・使い捨てメールドメインが、1つのテキストファイルに入っています。新しい使い捨てサービスは毎日生まれるので、この一覧は**30分ごと**に再構築されます。取得したものは今この瞬間に生きているもので、先週のスナップショットではありません。登録不要、APIキー不要、レート制限なし。
 
 ## 主要な数字
 
-- **219,404** 件の使い捨て・一時利用メールドメイン。1行に1つ、ソート済みで、そのまま `Set` に読み込めます
+- **219,429** 件の使い捨て・一時利用メールドメイン。1行に1つ、ソート済みで、そのまま `Set` に読み込めます
 - **30分ごと**に再構築してプッシュ。コミット履歴がそのまま変更履歴で、[`metadata.json`](metadata.json) に正確なビルド時刻が入っています
 - 検出は一覧だけに頼りません。[ffraud.com](https://ffraud.com) のエンジンは**メールインフラ**からも使い捨てサービスを見分けるので、どの一覧にも載る前、出現したその日に新しいドメインを捕まえられます
 - 主要なメール事業者と有料サービスは意図的に**除外**しているので、自社ドメインを使う本物の顧客が使い捨てと取り違えられることはありません
@@ -34,7 +34,7 @@
 
 | ファイル | 行数 | 内容 |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,404 | 1行に1つの使い捨て・一時利用メールドメイン。小文字化してソート済み |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,429 | 1行に1つの使い捨て・一時利用メールドメイン。小文字化してソート済み |
 | [`metadata.json`](../metadata.json) | &mdash; | 現在の件数とUTCのビルド時刻。スクリプトが手元のコピーの新しさを判断できます |
 
 ## クイックスタート
