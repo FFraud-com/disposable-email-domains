@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788759807" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788760169" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
   <a href="../LICENSE"><img src="https://img.shields.io/badge/License-MIT-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="License"></a>
 </p>
 
-<p align="center"><sub>In einer anderen Sprache lesen: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <b>Deutsch</b> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a></sub></p>
+<p align="center"><sub>In einer anderen Sprache lesen: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <b>Deutsch</b> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a></sub></p>
 
 # Wegwerf-E-Mail-Domains, alle 30 Minuten neu gebaut
 
 <p align="center"><b>219.429 Wegwerf-, Einweg- und Temporär-E-Mail-Domains. Eine schlichte Liste, rund um die Uhr aufgefrischt.</b></p>
 <p align="center"><sub>MIT-Lizenz &middot; keine Anmeldung, kein API-Schlüssel, kein Limit &middot; aktualisiert am 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/de.svg?v=1788759807" alt="Eine Adresse kostenlos auf ffraud.com prüfen" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/de.svg?v=1788760169" alt="Eine Adresse kostenlos auf ffraud.com prüfen" width="540"></a></p>
 
 Wegwerf-Postfächer sind der Weg, auf dem gefälschte Konten in Masse entstehen: anmelden, Bestätigungslink abgreifen, Gratiskontingent verbrennen, von vorn. Das ist die offene Wegwerf-E-Mail-Datenbank hinter [ffraud.com](https://ffraud.com), jede temporäre und Wegwerf-Maildomain, die wir finden können, in einer schlichten Textdatei. Neue Wegwerfdienste entstehen jeden Tag, deshalb wird die Liste **alle 30 Minuten** neu gebaut: Was Sie ziehen, ist gerade jetzt aktiv, keine Momentaufnahme von letzter Woche. Keine Anmeldung, kein API-Schlüssel, kein Limit.
 
