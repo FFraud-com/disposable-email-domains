@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788760847" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788762638" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,429 个一次性、临时、用完即弃的邮箱域名。一份纯粹的清单，全天候刷新。</b></p>
 <p align="center"><sub>MIT 许可 &middot; 无需注册、无需密钥、没有速率限制 &middot; 更新于 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/zh-CN.svg?v=1788760847" alt="在 ffraud.com 上免费检测一个邮箱" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/zh-CN.svg?v=1788762638" alt="在 ffraud.com 上免费检测一个邮箱" width="540"></a></p>
 
 临时收件箱正是批量制造假账号的那条路：注册、拿到确认链接、烧掉免费额度、再来一遍。这是 [ffraud.com](https://ffraud.com) 背后的开放一次性邮箱数据库，我们能找到的每一个临时、一次性、用完即弃的邮件域名，都在一个纯文本文件里。新的临时邮箱服务每天都在冒出来，所以这份清单**每 30 分钟**重建一次：你拉到的是此刻还活着的，不是上周的快照。无需注册、无需密钥、没有速率限制。
 
