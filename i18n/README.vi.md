@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788787841" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788789643" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219.465 tên miền email dùng một lần và tạm thời. Một danh sách đơn giản, làm mới suốt ngày đêm.</b></p>
 <p align="center"><sub>Giấy phép MIT &middot; không cần đăng ký, không cần khóa API, không giới hạn truy vấn &middot; cập nhật 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/vi.svg?v=1788787841" alt="Kiểm tra một địa chỉ miễn phí trên ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/vi.svg?v=1788789643" alt="Kiểm tra một địa chỉ miễn phí trên ffraud.com" width="540"></a></p>
 
 Hộp thư dùng một lần chính là con đường để chế tài khoản giả ở quy mô lớn: đăng ký, lấy liên kết xác nhận, đốt hết gói miễn phí, rồi lặp lại. Đây là cơ sở dữ liệu email dùng một lần mở nằm sau [ffraud.com](https://ffraud.com): mọi tên miền thư tạm thời và dùng một lần mà chúng tôi tìm được, gói trong một tệp văn bản. Dịch vụ mới mọc lên mỗi ngày, nên danh sách được dựng lại **mỗi 30 phút**: thứ bạn kéo về đang sống ngay lúc này, không phải ảnh chụp từ tuần trước. Không đăng ký, không khóa, không giới hạn.
 
