@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788908444" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788910241" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219.506 dominios de correo desechable y temporal. Una lista sencilla, actualizada a todas horas.</b></p>
 <p align="center"><sub>Licencia MIT &middot; sin registro, sin clave de API, sin límite de peticiones &middot; actualizado el 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/es.svg?v=1788908444" alt="Comprobar una dirección gratis en ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/es.svg?v=1788910241" alt="Comprobar una dirección gratis en ffraud.com" width="540"></a></p>
 
 Los buzones desechables son justamente el camino por el que se fabrican cuentas falsas a escala: te registras, coges el enlace de confirmación, quemas el plan gratuito y vuelta a empezar. Esta es la base abierta de correo desechable que hay detrás de [ffraud.com](https://ffraud.com): todos los dominios de correo temporal y desechable que somos capaces de encontrar, en un solo archivo de texto. Cada día aparecen servicios nuevos, así que la lista se reconstruye **cada 30 minutos**: lo que descargas está vivo ahora, no es una foto de la semana pasada. Sin registro, sin clave, sin límites.
 
