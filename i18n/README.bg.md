@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788870719" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788872517" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Сайт-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Сайт"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Еднократни_домейни-219 468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Еднократни домейни"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Еднократни_домейни-219 506-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Еднократни домейни"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Зловредни_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Зловредни IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Пресъздава_се-на_всеки_30_минути-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Пресъздава се"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Безплатен_API-без_ключ-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Безплатен API"></a>
@@ -15,15 +15,15 @@
 
 # Еднократни имейл домейни, пресъздавани на всеки 30 минути
 
-<p align="center"><b>219 468 еднократни и временни имейл домейна. Един прост списък, освежаван денонощно.</b></p>
+<p align="center"><b>219 506 еднократни и временни имейл домейна. Един прост списък, освежаван денонощно.</b></p>
 <p align="center"><sub>Лиценз MIT &middot; без регистрация, без API ключ, без ограничения на заявките &middot; обновено 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/bg.svg?v=1788870719" alt="Проверете адрес безплатно на ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/bg.svg?v=1788872517" alt="Проверете адрес безплатно на ffraud.com" width="540"></a></p>
 
 Еднократните пощенски кутии са точно пътят, по който фалшивите профили се произвеждат масово: регистрирай се, вземи връзката за потвърждение, изгори безплатния план, повтори. Това е отворената база за еднократна поща зад [ffraud.com](https://ffraud.com): всеки временен и еднократен пощенски домейн, който успяваме да намерим, в един текстов файл. Нови услуги се появяват всеки ден, затова списъкът се пресъздава **на всеки 30 минути**: това, което теглите, е живо сега, а не снимка от миналата седмица. Без регистрация, без ключ, без ограничения.
 
 ## Накратко
 
-- **219 468** еднократни и временни имейл домейна, по един на ред, подредени, готови за зареждане в `Set`
+- **219 506** еднократни и временни имейл домейна, по един на ред, подредени, готови за зареждане в `Set`
 - Пресъздава се и се публикува **на всеки 30 минути**. Историята на комитите е дневникът на промените, а [`metadata.json`](metadata.json) носи точния час на сглобяване
 - Разпознаването не спира до списъка: двигателят зад [ffraud.com](https://ffraud.com) разпознава еднократните услуги и по тяхната **пощенска инфраструктура**, и така хваща съвсем нов домейн в деня, в който се появи, преди който и да е списък да го съдържа
 - Масовите и платените пощенски доставчици са нарочно **изключени**, за да не бъде истински клиент със собствен домейн взет за еднократна услуга
@@ -34,7 +34,7 @@
 
 | Файл | Редове | Какво е |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 468 | По един еднократен или временен имейл домейн на ред, с малки букви и подредени |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 506 | По един еднократен или временен имейл домейн на ред, с малки букви и подредени |
 | [`metadata.json`](../metadata.json) | &mdash; | Актуалният брояч и часът на сглобяване в UTC, за да знае един скрипт колко е прясно копието му |
 
 ## Бърз старт

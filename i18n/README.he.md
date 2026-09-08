@@ -1,12 +1,12 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788870719" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788872517" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/אתר-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="אתר"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/דומיינים_חד־פעמיים-219,468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="דומיינים חד־פעמיים"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/דומיינים_חד־פעמיים-219,506-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="דומיינים חד־פעמיים"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/כתובות_זדוניות-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="כתובות זדוניות"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/נבנה_מחדש-כל_30_דקות-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="נבנה מחדש"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_חינמי-בלי_מפתח-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API חינמי"></a>
@@ -17,15 +17,15 @@
 
 # דומייני דוא"ל חד־פעמיים, נבנים מחדש כל 30 דקות
 
-<p align="center"><b>219,468 דומייני דואר חד־פעמיים וזמניים. רשימה פשוטה אחת, מתרעננת מסביב לשעון.</b></p>
+<p align="center"><b>219,506 דומייני דואר חד־פעמיים וזמניים. רשימה פשוטה אחת, מתרעננת מסביב לשעון.</b></p>
 <p align="center"><sub>רישיון MIT &middot; בלי הרשמה, בלי מפתח API, בלי הגבלת בקשות &middot; עודכן 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/he.svg?v=1788870719" alt="בדקו כתובת בחינם ב‑ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/he.svg?v=1788872517" alt="בדקו כתובת בחינם ב‑ffraud.com" width="540"></a></p>
 
 תיבות חד־פעמיות הן בדיוק הדרך שבה מייצרים חשבונות מזויפים בהיקף גדול: נרשמים, אוספים את קישור האישור, שורפים את המכסה החינמית וחוזר חלילה. זהו מסד הדוא"ל החד־פעמי הפתוח שמאחורי [ffraud.com](https://ffraud.com): כל דומיין דואר זמני וחד־פעמי שהצלחנו למצוא, בקובץ טקסט אחד. שירותים חדשים צצים כל יום, ולכן הרשימה נבנית מחדש **כל 30 דקות**: מה שאתם מושכים חי עכשיו, זה לא צילום מהשבוע שעבר. בלי הרשמה, בלי מפתח, בלי הגבלות.
 
 ## בקצרה
 
-- **219,468** דומייני דואר חד־פעמיים וזמניים, אחד בכל שורה, ממוינים, מוכנים לטעינה ל‑`Set`
+- **219,506** דומייני דואר חד־פעמיים וזמניים, אחד בכל שורה, ממוינים, מוכנים לטעינה ל‑`Set`
 - נבנה מחדש ומתפרסם **כל 30 דקות**. היסטוריית הקומיטים היא יומן השינויים, ו‑[`metadata.json`](metadata.json) נושא את זמן הבנייה המדויק
 - הזיהוי לא נעצר ברשימה: המנוע שמאחורי [ffraud.com](https://ffraud.com) מזהה שירותים חד־פעמיים גם לפי **תשתית הדואר** שלהם, וכך תופס דומיין חדש לגמרי ביום שבו הוא מופיע, לפני שהוא נמצא באיזו רשימה שהיא
 - ספקי דואר מרכזיים ובתשלום **מוחרגים** בכוונה, כדי שלקוח אמיתי עם דומיין משלו לעולם לא ייחשב לשירות חד־פעמי
@@ -36,7 +36,7 @@
 
 | קובץ | שורות | מה זה |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,468 | דומיין דואר חד־פעמי או זמני אחד בכל שורה, באותיות קטנות וממוין |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,506 | דומיין דואר חד־פעמי או זמני אחד בכל שורה, באותיות קטנות וממוין |
 | [`metadata.json`](../metadata.json) | &mdash; | הספירה העדכנית וזמן הבנייה ב‑UTC, כדי שסקריפט יידע כמה טרי העותק שלו |
 
 ## התחלה מהירה

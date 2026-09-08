@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788870719" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788872517" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/वेबसाइट-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="वेबसाइट"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/एकपटक_प्रयोग_हुने_डोमेन-219,468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="एकपटक प्रयोग हुने डोमेन"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/एकपटक_प्रयोग_हुने_डोमेन-219,506-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="एकपटक प्रयोग हुने डोमेन"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/हानिकारक_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="हानिकारक IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/पुनर्निर्माण-हरेक_३०_मिनेटमा-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="पुनर्निर्माण"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/निःशुल्क_API-साँचो_चाहिँदैन-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="निःशुल्क API"></a>
@@ -15,15 +15,15 @@
 
 # एकपटक प्रयोग हुने इमेल डोमेन, हरेक ३० मिनेटमा पुनर्निर्माण
 
-<p align="center"><b>219,468 एकपटक प्रयोग हुने र अस्थायी इमेल डोमेन। एउटै सरल सूची, चौबीसै घण्टा ताजा गरिन्छ।</b></p>
+<p align="center"><b>219,506 एकपटक प्रयोग हुने र अस्थायी इमेल डोमेन। एउटै सरल सूची, चौबीसै घण्टा ताजा गरिन्छ।</b></p>
 <p align="center"><sub>MIT इजाजतपत्र &middot; दर्ता छैन, API साँचो छैन, अनुरोध सीमा छैन &middot; अद्यावधिक 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ne.svg?v=1788870719" alt="ffraud.com मा एउटा ठेगाना निःशुल्क जाँच्नुहोस्" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ne.svg?v=1788872517" alt="ffraud.com मा एउटा ठेगाना निःशुल्क जाँच्नुहोस्" width="540"></a></p>
 
 फालिने इनबक्सहरू नै नक्कली खाता ठूलो सङ्ख्यामा बनाइने बाटो हुन्: दर्ता गर, पुष्टि लिंक टिप, निःशुल्क सीमा जलाऊ, फेरि सुरु गर। यो [ffraud.com](https://ffraud.com) पछाडि उभिएको खुला एकपटक प्रयोग हुने इमेल डेटाबेस हो: हामीले भेट्टाउन सक्ने हरेक अस्थायी र फालिने मेल डोमेन, एउटै पाठ फाइलमा। नयाँ सेवाहरू हरेक दिन उम्रन्छन्, त्यसैले सूची **हरेक ३० मिनेटमा** पुनर्निर्माण हुन्छ: तपाईंले तान्ने कुरा अहिले जीवित छ, गत हप्ताको तस्बिर होइन। दर्ता छैन, साँचो छैन, सीमा छैन।
 
 ## छोटकरीमा
 
-- **219,468** एकपटक प्रयोग हुने र अस्थायी इमेल डोमेन, प्रति पङ्क्ति एउटा, क्रमबद्ध, सिधै `Set` मा हाल्न तयार
+- **219,506** एकपटक प्रयोग हुने र अस्थायी इमेल डोमेन, प्रति पङ्क्ति एउटा, क्रमबद्ध, सिधै `Set` मा हाल्न तयार
 - **हरेक ३० मिनेटमा** पुनर्निर्माण गरी प्रकाशित हुन्छ। commit को इतिहास नै परिवर्तनको अभिलेख हो, र [`metadata.json`](metadata.json) मा निर्माणको ठ्याक्कै समय हुन्छ
 - पहिचान सूचीमै रोकिँदैन: [ffraud.com](https://ffraud.com) पछाडिको इन्जिनले एकपटक प्रयोग हुने सेवाहरूलाई तिनको **मेल पूर्वाधारबाट** पनि चिन्छ, र त्यसैले बिल्कुल नयाँ डोमेनलाई देखा परेकै दिन समात्छ, कुनै पनि सूचीमा पर्नुअघि
 - मूलधारका र शुल्क लिने मेल सेवाहरूलाई जानाजान **छुटाइएको छ**, ताकि आफ्नै डोमेनमा रहेको साँचो ग्राहकलाई कहिल्यै एकपटक प्रयोग हुने सेवा नठानियोस्
@@ -34,7 +34,7 @@
 
 | फाइल | पङ्क्ति | यो के हो |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,468 | प्रति पङ्क्ति एउटा एकपटक प्रयोग हुने वा अस्थायी इमेल डोमेन, साना अक्षरमा र क्रमबद्ध |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,506 | प्रति पङ्क्ति एउटा एकपटक प्रयोग हुने वा अस्थायी इमेल डोमेन, साना अक्षरमा र क्रमबद्ध |
 | [`metadata.json`](../metadata.json) | &mdash; | हालको गणना र UTC मा निर्माणको समय, ताकि कुनै स्क्रिप्टले आफ्नो प्रति कति ताजा छ थाहा पाओस् |
 
 ## छिटो सुरुवात

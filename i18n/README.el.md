@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788870719" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788872517" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Ιστότοπος-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ιστότοπος"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Αναλώσιμοι_τομείς-219.468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Αναλώσιμοι τομείς"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Αναλώσιμοι_τομείς-219.506-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Αναλώσιμοι τομείς"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Κακόβουλες_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Κακόβουλες IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Ανακατασκευή-κάθε_30_λεπτά-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ανακατασκευή"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Δωρεάν_API-χωρίς_κλειδί-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Δωρεάν API"></a>
@@ -15,15 +15,15 @@
 
 # Αναλώσιμοι τομείς email, ανακατασκευάζονται κάθε 30 λεπτά
 
-<p align="center"><b>219.468 αναλώσιμοι και προσωρινοί τομείς email. Μία απλή λίστα, ανανεωμένη όλο το εικοσιτετράωρο.</b></p>
+<p align="center"><b>219.506 αναλώσιμοι και προσωρινοί τομείς email. Μία απλή λίστα, ανανεωμένη όλο το εικοσιτετράωρο.</b></p>
 <p align="center"><sub>Άδεια MIT &middot; χωρίς εγγραφή, χωρίς κλειδί API, χωρίς όρια αιτημάτων &middot; ενημερώθηκε 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/el.svg?v=1788870719" alt="Ελέγξτε μια διεύθυνση δωρεάν στο ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/el.svg?v=1788872517" alt="Ελέγξτε μια διεύθυνση δωρεάν στο ffraud.com" width="540"></a></p>
 
 Τα αναλώσιμα γραμματοκιβώτια είναι ακριβώς ο δρόμος με τον οποίο φτιάχνονται ψεύτικοι λογαριασμοί μαζικά: εγγραφή, αρπαγή του συνδέσμου επιβεβαίωσης, κάψιμο της δωρεάν βαθμίδας, επανάληψη. Αυτή είναι η ανοιχτή βάση αναλώσιμων email πίσω από το [ffraud.com](https://ffraud.com): κάθε προσωρινός και αναλώσιμος τομέας email που μπορούμε να βρούμε, σε ένα αρχείο κειμένου. Νέες υπηρεσίες εμφανίζονται κάθε μέρα, γι' αυτό η λίστα ανακατασκευάζεται **κάθε 30 λεπτά**: αυτό που κατεβάζετε ζει τώρα, δεν είναι στιγμιότυπο της περασμένης βδομάδας. Χωρίς εγγραφή, χωρίς κλειδί, χωρίς όρια.
 
 ## Με λίγα λόγια
 
-- **219.468** αναλώσιμοι και προσωρινοί τομείς email, ένας ανά γραμμή, ταξινομημένοι, έτοιμοι να φορτωθούν σε ένα `Set`
+- **219.506** αναλώσιμοι και προσωρινοί τομείς email, ένας ανά γραμμή, ταξινομημένοι, έτοιμοι να φορτωθούν σε ένα `Set`
 - Ανακατασκευάζεται και δημοσιεύεται **κάθε 30 λεπτά**. Το ιστορικό των commit είναι το ημερολόγιο αλλαγών και το [`metadata.json`](metadata.json) φέρει την ακριβή ώρα κατασκευής
 - Ο εντοπισμός δεν σταματά στη λίστα: η μηχανή πίσω από το [ffraud.com](https://ffraud.com) αναγνωρίζει τις αναλώσιμες υπηρεσίες και από την **υποδομή αλληλογραφίας** τους, πιάνοντας έτσι έναν ολοκαίνουργιο τομέα την ίδια μέρα που εμφανίζεται, πριν τον έχει οποιαδήποτε λίστα
 - Οι μεγάλοι και οι επί πληρωμή πάροχοι email εξαιρούνται **σκόπιμα**, ώστε ένας πραγματικός πελάτης στον δικό του τομέα να μην περαστεί ποτέ για αναλώσιμη υπηρεσία
@@ -34,7 +34,7 @@
 
 | Αρχείο | Γραμμές | Τι είναι |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.468 | Ένας αναλώσιμος ή προσωρινός τομέας email ανά γραμμή, με πεζά και ταξινομημένοι |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.506 | Ένας αναλώσιμος ή προσωρινός τομέας email ανά γραμμή, με πεζά και ταξινομημένοι |
 | [`metadata.json`](../metadata.json) | &mdash; | Η τρέχουσα μέτρηση και η ώρα κατασκευής σε UTC, ώστε ένα σενάριο να ξέρει πόσο φρέσκο είναι το αντίγραφό του |
 
 ## Γρήγορη εκκίνηση

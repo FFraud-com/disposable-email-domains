@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788870719" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788872517" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Сайт-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Сайт"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Одноразові_домени-219 468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Одноразові домени"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Одноразові_домени-219 506-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Одноразові домени"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Шкідливі_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Шкідливі IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Перезбирання-кожні_30_хвилин-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Перезбирання"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Безкоштовний_API-без_ключа-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Безкоштовний API"></a>
@@ -15,15 +15,15 @@
 
 # Одноразові поштові домени, перезбираються кожні 30 хвилин
 
-<p align="center"><b>219 468 одноразових і тимчасових поштових доменів. Один простий перелік, що оновлюється цілодобово.</b></p>
+<p align="center"><b>219 506 одноразових і тимчасових поштових доменів. Один простий перелік, що оновлюється цілодобово.</b></p>
 <p align="center"><sub>Ліцензія MIT &middot; без реєстрації, без ключа API, без обмежень на запити &middot; оновлено 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/uk.svg?v=1788870719" alt="Перевірити адресу безкоштовно на ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/uk.svg?v=1788872517" alt="Перевірити адресу безкоштовно на ffraud.com" width="540"></a></p>
 
 Одноразові скриньки — це і є той шлях, яким масово роблять фальшиві акаунти: зареєструватися, забрати посилання підтвердження, випалити безкоштовний тариф, повторити. Це відкрита база одноразової пошти, на якій працює [ffraud.com](https://ffraud.com): усі тимчасові й одноразові поштові домени, які ми змогли знайти, в одному текстовому файлі. Нові сервіси з'являються щодня, тож перелік перезбирається **кожні 30 хвилин**: те, що ви забираєте, живе просто зараз, а не є знімком минулого тижня. Без реєстрації, без ключа, без обмежень.
 
 ## Коротко
 
-- **219 468** одноразових і тимчасових поштових доменів, по одному в рядку, відсортовані, готові до завантаження в `Set`
+- **219 506** одноразових і тимчасових поштових доменів, по одному в рядку, відсортовані, готові до завантаження в `Set`
 - Перезбирається й публікується **кожні 30 хвилин**. Історія комітів і є журналом змін, а точний час збирання лежить у [`metadata.json`](metadata.json)
 - Виявлення не обмежується переліком: рушій за [ffraud.com](https://ffraud.com) розпізнає одноразові сервіси ще й за їхньою **поштовою інфраструктурою**, а отже ловить цілком новий домен у день його появи, ще до того, як він потрапить бодай до якогось переліку
 - Масові та платні поштові провайдери навмисно **виключені**, щоб справжній клієнт на власному домені ніколи не був прийнятий за одноразовий сервіс
@@ -34,7 +34,7 @@
 
 | Файл | Рядків | Що це |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 468 | По одному одноразовому чи тимчасовому поштовому домену в рядку, малими літерами й відсортовані |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 506 | По одному одноразовому чи тимчасовому поштовому домену в рядку, малими літерами й відсортовані |
 | [`metadata.json`](../metadata.json) | &mdash; | Поточний лічильник і час збирання в UTC, щоб скрипт розумів, наскільки свіжа його копія |
 
 ## Швидкий старт

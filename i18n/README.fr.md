@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788870719" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788872517" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Site-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Site"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domaines_jetables-219 468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domaines jetables"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domaines_jetables-219 506-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domaines jetables"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP_malveillantes-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP malveillantes"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Reconstruit-toutes_les_30_minutes-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Reconstruit"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_gratuite-sans_clé-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API gratuite"></a>
@@ -15,15 +15,15 @@
 
 # Domaines d'e-mails jetables, reconstruits toutes les 30 minutes
 
-<p align="center"><b>219 468 domaines de messagerie jetables et temporaires. Une liste simple, rafraîchie en continu.</b></p>
+<p align="center"><b>219 506 domaines de messagerie jetables et temporaires. Une liste simple, rafraîchie en continu.</b></p>
 <p align="center"><sub>Licence MIT &middot; sans inscription, sans clé d'API, sans limite de requêtes &middot; mis à jour le 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fr.svg?v=1788870719" alt="Vérifier une adresse gratuitement sur ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fr.svg?v=1788872517" alt="Vérifier une adresse gratuitement sur ffraud.com" width="540"></a></p>
 
 Les boîtes jetables sont exactement la façon dont on fabrique des faux comptes à grande échelle : on s'inscrit, on récupère le lien de confirmation, on épuise l'offre gratuite, on recommence. Voici la base ouverte d'e-mails jetables derrière [ffraud.com](https://ffraud.com) : tous les domaines de messagerie temporaires et jetables que nous pouvons trouver, dans un seul fichier texte. De nouveaux services apparaissent chaque jour, donc la liste est reconstruite **toutes les 30 minutes** : ce que vous récupérez est vivant maintenant, pas une photo de la semaine dernière. Sans inscription, sans clé, sans limite.
 
 ## En bref
 
-- **219 468** domaines de messagerie jetables et temporaires, un par ligne, triés, prêts à charger dans un `Set`
+- **219 506** domaines de messagerie jetables et temporaires, un par ligne, triés, prêts à charger dans un `Set`
 - Reconstruite et publiée **toutes les 30 minutes**. L'historique des commits fait office de journal des modifications, et [`metadata.json`](metadata.json) contient l'heure exacte de construction
 - La détection ne s'arrête pas à la liste : le moteur derrière [ffraud.com](https://ffraud.com) reconnaît aussi les services jetables à leur **infrastructure de messagerie**, ce qui attrape un domaine tout neuf le jour de son apparition, avant qu'aucune liste ne le contienne
 - Les fournisseurs de messagerie grand public et payants sont délibérément **exclus**, pour qu'un vrai client sur son propre domaine ne soit jamais pris pour un service jetable
@@ -34,7 +34,7 @@ Les boîtes jetables sont exactement la façon dont on fabrique des faux comptes
 
 | Fichier | Lignes | De quoi il s'agit |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 468 | Un domaine de messagerie jetable ou temporaire par ligne, en minuscules et trié |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 506 | Un domaine de messagerie jetable ou temporaire par ligne, en minuscules et trié |
 | [`metadata.json`](../metadata.json) | &mdash; | Le compteur à jour et l'heure de construction en UTC, pour qu'un script sache si sa copie est fraîche |
 
 ## Démarrage rapide
