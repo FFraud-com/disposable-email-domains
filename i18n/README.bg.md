@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788876091" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788877848" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219 506 еднократни и временни имейл домейна. Един прост списък, освежаван денонощно.</b></p>
 <p align="center"><sub>Лиценз MIT &middot; без регистрация, без API ключ, без ограничения на заявките &middot; обновено 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/bg.svg?v=1788876091" alt="Проверете адрес безплатно на ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/bg.svg?v=1788877848" alt="Проверете адрес безплатно на ffraud.com" width="540"></a></p>
 
 Еднократните пощенски кутии са точно пътят, по който фалшивите профили се произвеждат масово: регистрирай се, вземи връзката за потвърждение, изгори безплатния план, повтори. Това е отворената база за еднократна поща зад [ffraud.com](https://ffraud.com): всеки временен и еднократен пощенски домейн, който успяваме да намерим, в един текстов файл. Нови услуги се появяват всеки ден, затова списъкът се пресъздава **на всеки 30 минути**: това, което теглите, е живо сега, а не снимка от миналата седмица. Без регистрация, без ключ, без ограничения.
 
