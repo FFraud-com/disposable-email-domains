@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788890439" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788892269" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219 506 engångs- och tillfälliga e-postdomäner. En enkel lista, uppdaterad dygnet runt.</b></p>
 <p align="center"><sub>MIT-licens &middot; ingen registrering, ingen API-nyckel, inga anropsgränser &middot; uppdaterad 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sv.svg?v=1788890439" alt="Kontrollera en adress gratis på ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sv.svg?v=1788892269" alt="Kontrollera en adress gratis på ffraud.com" width="540"></a></p>
 
 Engångsinkorgar är precis vägen som falska konton tillverkas på i stor skala: registrera, hämta bekräftelselänken, bränn gratisnivån, upprepa. Det här är den öppna engångsmejldatabasen bakom [ffraud.com](https://ffraud.com): varje tillfällig och slit-och-släng-e-postdomän vi kan hitta, i en enda textfil. Nya tjänster dyker upp varje dag, så listan byggs om **var 30:e minut**: det du hämtar lever nu, det är ingen ögonblicksbild från förra veckan. Ingen registrering, ingen nyckel, inga gränser.
 
