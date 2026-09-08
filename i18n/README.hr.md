@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788843679" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788845503" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Web-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Web"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Jednokratne_domene-219.466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednokratne domene"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Jednokratne_domene-219.468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednokratne domene"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Zlonamjerni_IP--ovi-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zlonamjerni IP-ovi"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Ponovna_izgradnja-svakih_30_minuta-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ponovna izgradnja"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Besplatni_API-bez_ključa-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Besplatni API"></a>
@@ -15,15 +15,15 @@
 
 # Jednokratne e-mail domene, ponovno izgrađene svakih 30 minuta
 
-<p align="center"><b>219.466 jednokratnih i privremenih e-mail domena. Jedan jednostavan popis, osvježavan danonoćno.</b></p>
+<p align="center"><b>219.468 jednokratnih i privremenih e-mail domena. Jedan jednostavan popis, osvježavan danonoćno.</b></p>
 <p align="center"><sub>MIT licencija &middot; bez registracije, bez API ključa, bez ograničenja zahtjeva &middot; ažurirano 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hr.svg?v=1788843679" alt="Provjerite adresu besplatno na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hr.svg?v=1788845503" alt="Provjerite adresu besplatno na ffraud.com" width="540"></a></p>
 
 Jednokratni sandučići upravo su put kojim se lažni računi proizvode u velikom broju: registriraj se, uzmi poveznicu za potvrdu, potroši besplatni paket, ponovi. Ovo je otvorena baza jednokratnih e-adresa iza [ffraud.com](https://ffraud.com): svaka privremena i jednokratna poštanska domena koju uspijemo pronaći, u jednoj tekstualnoj datoteci. Nove usluge niču svaki dan, pa se popis **svakih 30 minuta** iznova gradi: ono što povučete živi sada, nije snimka od prošlog tjedna. Bez registracije, bez ključa, bez ograničenja.
 
 ## Ukratko
 
-- **219.466** jednokratnih i privremenih e-mail domena, jedna po retku, poredane, spremne za učitavanje u `Set`
+- **219.468** jednokratnih i privremenih e-mail domena, jedna po retku, poredane, spremne za učitavanje u `Set`
 - Ponovno se gradi i objavljuje **svakih 30 minuta**. Povijest commitova je zapisnik promjena, a [`metadata.json`](metadata.json) nosi točno vrijeme izgradnje
 - Otkrivanje ne staje na popisu: stroj iza [ffraud.com](https://ffraud.com) prepoznaje jednokratne usluge i po njihovoj **poštanskoj infrastrukturi**, pa hvata posve novu domenu onog dana kad se pojavi, prije nego je ijedan popis ima
 - Uobičajeni i plaćeni pružatelji pošte namjerno su **izostavljeni**, kako pravi klijent na vlastitoj domeni nikada ne bi bio zamijenjen za jednokratnu uslugu
@@ -34,7 +34,7 @@ Jednokratni sandučići upravo su put kojim se lažni računi proizvode u veliko
 
 | Datoteka | Redaka | Što je to |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.466 | Jedna jednokratna ili privremena e-mail domena po retku, malim slovima i poredane |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.468 | Jedna jednokratna ili privremena e-mail domena po retku, malim slovima i poredane |
 | [`metadata.json`](../metadata.json) | &mdash; | Trenutni broj i vrijeme izgradnje u UTC-u, kako bi skripta znala koliko joj je kopija svježa |
 
 ## Brzi početak

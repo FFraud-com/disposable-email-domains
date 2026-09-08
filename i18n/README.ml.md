@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788843679" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788845503" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/വെബ്‌സൈറ്റ്-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="വെബ്‌സൈറ്റ്"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ഒറ്റത്തവണ_ഡൊമെയ്‌നുകൾ-219,466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ഒറ്റത്തവണ ഡൊമെയ്‌നുകൾ"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ഒറ്റത്തവണ_ഡൊമെയ്‌നുകൾ-219,468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ഒറ്റത്തവണ ഡൊമെയ്‌നുകൾ"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/ദോഷകരമായ_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ദോഷകരമായ IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/പുനർനിർമ്മാണം-ഓരോ_30_മിനിറ്റിലും-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="പുനർനിർമ്മാണം"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/സൗജന്യ_API-കീ_വേണ്ട-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="സൗജന്യ API"></a>
@@ -15,15 +15,15 @@
 
 # ഒറ്റത്തവണ ഇമെയിൽ ഡൊമെയ്‌നുകൾ, ഓരോ 30 മിനിറ്റിലും പുനർനിർമ്മിക്കപ്പെടുന്നു
 
-<p align="center"><b>219,466 ഒറ്റത്തവണ, താൽക്കാലിക ഇമെയിൽ ഡൊമെയ്‌നുകൾ. ഒറ്റ ലളിതമായ പട്ടിക, രാവും പകലും പുതുക്കപ്പെടുന്നു.</b></p>
+<p align="center"><b>219,468 ഒറ്റത്തവണ, താൽക്കാലിക ഇമെയിൽ ഡൊമെയ്‌നുകൾ. ഒറ്റ ലളിതമായ പട്ടിക, രാവും പകലും പുതുക്കപ്പെടുന്നു.</b></p>
 <p align="center"><sub>MIT ലൈസൻസ് &middot; രജിസ്ട്രേഷനില്ല, API കീ ഇല്ല, അഭ്യർത്ഥനാ പരിധിയില്ല &middot; പുതുക്കിയത് 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ml.svg?v=1788843679" alt="ffraud.com ൽ ഒരു വിലാസം സൗജന്യമായി പരിശോധിക്കൂ" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ml.svg?v=1788845503" alt="ffraud.com ൽ ഒരു വിലാസം സൗജന്യമായി പരിശോധിക്കൂ" width="540"></a></p>
 
 വലിച്ചെറിയാവുന്ന ഇൻബോക്സുകളാണ് വ്യാജ അക്കൗണ്ടുകൾ കൂട്ടത്തോടെ ഉണ്ടാക്കുന്ന വഴി: രജിസ്റ്റർ ചെയ്യുക, സ്ഥിരീകരണ ലിങ്ക് എടുക്കുക, സൗജന്യ പരിധി കത്തിക്കുക, വീണ്ടും തുടങ്ങുക. ഇത് [ffraud.com](https://ffraud.com) ന് പിന്നിൽ നിൽക്കുന്ന തുറന്ന ഒറ്റത്തവണ ഇമെയിൽ ഡാറ്റാബേസാണ്: ഞങ്ങൾക്ക് കണ്ടെത്താനാകുന്ന എല്ലാ താൽക്കാലിക, വലിച്ചെറിയാവുന്ന മെയിൽ ഡൊമെയ്‌നും, ഒറ്റ ടെക്സ്റ്റ് ഫയലിൽ. പുതിയ സേവനങ്ങൾ ദിവസവും ഉയരുന്നു, അതിനാൽ പട്ടിക **ഓരോ 30 മിനിറ്റിലും** പുനർനിർമ്മിക്കപ്പെടുന്നു: നിങ്ങൾ വലിക്കുന്നത് ഇപ്പോൾ ജീവനുള്ളതാണ്, കഴിഞ്ഞ ആഴ്ചയിലെ ചിത്രമല്ല. രജിസ്ട്രേഷനില്ല, കീ ഇല്ല, പരിധിയില്ല.
 
 ## ചുരുക്കത്തിൽ
 
-- **219,466** ഒറ്റത്തവണ, താൽക്കാലിക ഇമെയിൽ ഡൊമെയ്‌നുകൾ, ഓരോ വരിയിലും ഒന്ന്, ക്രമീകരിച്ചത്, നേരിട്ട് ഒരു `Set` ലേക്ക് കയറ്റാൻ തയ്യാർ
+- **219,468** ഒറ്റത്തവണ, താൽക്കാലിക ഇമെയിൽ ഡൊമെയ്‌നുകൾ, ഓരോ വരിയിലും ഒന്ന്, ക്രമീകരിച്ചത്, നേരിട്ട് ഒരു `Set` ലേക്ക് കയറ്റാൻ തയ്യാർ
 - **ഓരോ 30 മിനിറ്റിലും** പുനർനിർമ്മിച്ച് പ്രസിദ്ധീകരിക്കുന്നു. commit ചരിത്രമാണ് മാറ്റങ്ങളുടെ രേഖ, [`metadata.json`](metadata.json) ൽ നിർമ്മാണത്തിന്റെ കൃത്യ സമയമുണ്ട്
 - കണ്ടെത്തൽ പട്ടികയിൽ അവസാനിക്കുന്നില്ല: [ffraud.com](https://ffraud.com) ന് പിന്നിലെ എൻജിൻ ഒറ്റത്തവണ സേവനങ്ങളെ അവരുടെ **മെയിൽ അടിസ്ഥാനസൗകര്യത്തിൽ** നിന്നും തിരിച്ചറിയുന്നു, അങ്ങനെ തീർത്തും പുതിയ ഒരു ഡൊമെയ്ൻ അത് പ്രത്യക്ഷപ്പെട്ട ദിവസംതന്നെ പിടിക്കുന്നു, ഏതെങ്കിലും പട്ടികയിൽ വരുന്നതിനു മുൻപ്
 - മുഖ്യധാരയിലെയും പണം വാങ്ങുന്നതുമായ മെയിൽ ദാതാക്കളെ മനഃപൂർവ്വം **ഒഴിവാക്കിയിരിക്കുന്നു**, സ്വന്തം ഡൊമെയ്‌നിലുള്ള യഥാർത്ഥ ഉപഭോക്താവിനെ ഒരിക്കലും ഒറ്റത്തവണ സേവനമായി തെറ്റിദ്ധരിക്കാതിരിക്കാൻ
@@ -34,7 +34,7 @@
 
 | ഫയൽ | വരികൾ | എന്താണിത് |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,466 | ഓരോ വരിയിലും ഒരു ഒറ്റത്തവണ അല്ലെങ്കിൽ താൽക്കാലിക ഇമെയിൽ ഡൊമെയ്ൻ, ചെറിയ അക്ഷരത്തിൽ, ക്രമീകരിച്ച് |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,468 | ഓരോ വരിയിലും ഒരു ഒറ്റത്തവണ അല്ലെങ്കിൽ താൽക്കാലിക ഇമെയിൽ ഡൊമെയ്ൻ, ചെറിയ അക്ഷരത്തിൽ, ക്രമീകരിച്ച് |
 | [`metadata.json`](../metadata.json) | &mdash; | നിലവിലെ എണ്ണവും UTC ലെ നിർമ്മാണ സമയവും, ഒരു സ്ക്രിപ്റ്റിന് തന്റെ പകർപ്പ് എത്ര പുതിയതാണെന്ന് അറിയാൻ |
 
 ## പെട്ടെന്നു തുടങ്ങാം

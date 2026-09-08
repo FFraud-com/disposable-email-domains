@@ -1,12 +1,12 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788843679" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788845503" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/وب‌سایت-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="وب‌سایت"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/دامنه‌های_یک‌بارمصرف-219,466-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="دامنه‌های یک‌بارمصرف"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/دامنه‌های_یک‌بارمصرف-219,468-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="دامنه‌های یک‌بارمصرف"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/آی‌پی‌های_مخرب-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="آی‌پی‌های مخرب"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/بازسازی-هر_۳۰_دقیقه-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="بازسازی"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_رایگان-بدون_کلید-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API رایگان"></a>
@@ -17,15 +17,15 @@
 
 # دامنه‌های ایمیل یک‌بارمصرف، هر ۳۰ دقیقه بازسازی می‌شوند
 
-<p align="center"><b>219,466 دامنهٔ ایمیل یک‌بارمصرف و موقت. یک فهرست ساده، شبانه‌روز تازه می‌شود.</b></p>
+<p align="center"><b>219,468 دامنهٔ ایمیل یک‌بارمصرف و موقت. یک فهرست ساده، شبانه‌روز تازه می‌شود.</b></p>
 <p align="center"><sub>پروانهٔ MIT &middot; بدون ثبت‌نام، بدون کلید API، بدون محدودیت درخواست &middot; به‌روزرسانی 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fa.svg?v=1788843679" alt="یک نشانی را رایگان در ffraud.com بررسی کنید" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fa.svg?v=1788845503" alt="یک نشانی را رایگان در ffraud.com بررسی کنید" width="540"></a></p>
 
 صندوق‌های یک‌بارمصرف دقیقاً همان راهی هستند که حساب‌های جعلی را انبوه می‌سازند: ثبت‌نام کن، پیوند تأیید را بردار، سهمیهٔ رایگان را بسوزان، دوباره از نو. این پایگاه دادهٔ باز ایمیل یک‌بارمصرف است که پشت [ffraud.com](https://ffraud.com) ایستاده: هر دامنهٔ ایمیل موقت و یک‌بارمصرفی که توانسته‌ایم پیدا کنیم، در یک فایل متنی. سرویس‌های تازه هر روز پیدا می‌شوند، پس فهرست **هر ۳۰ دقیقه** بازسازی می‌شود: آنچه می‌گیرید همین حالا زنده است، نه عکسی از هفتهٔ گذشته. بدون ثبت‌نام، بدون کلید، بدون محدودیت.
 
 ## در یک نگاه
 
-- **219,466** دامنهٔ ایمیل یک‌بارمصرف و موقت، هر سطر یکی، مرتب‌شده، آمادهٔ بارگذاری در یک `Set`
+- **219,468** دامنهٔ ایمیل یک‌بارمصرف و موقت، هر سطر یکی، مرتب‌شده، آمادهٔ بارگذاری در یک `Set`
 - **هر ۳۰ دقیقه** بازسازی و منتشر می‌شود. تاریخچهٔ کامیت‌ها همان گزارش تغییرات است و [`metadata.json`](metadata.json) زمان دقیق ساخت را دارد
 - تشخیص به همین فهرست ختم نمی‌شود: موتور پشت [ffraud.com](https://ffraud.com) سرویس‌های یک‌بارمصرف را از **زیرساخت ایمیلشان** هم می‌شناسد و به این ترتیب دامنه‌ای کاملاً تازه را همان روزی که پیدا می‌شود می‌گیرد، پیش از آنکه در هیچ فهرستی باشد
 - ارائه‌دهندگان بزرگ و پولی ایمیل عمداً **کنار گذاشته شده‌اند**، تا مشتری واقعی روی دامنهٔ خودش هرگز با یک سرویس یک‌بارمصرف اشتباه گرفته نشود
@@ -36,7 +36,7 @@
 
 | فایل | سطر | چیست |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,466 | هر سطر یک دامنهٔ ایمیل یک‌بارمصرف یا موقت، با حروف کوچک و مرتب‌شده |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,468 | هر سطر یک دامنهٔ ایمیل یک‌بارمصرف یا موقت، با حروف کوچک و مرتب‌شده |
 | [`metadata.json`](../metadata.json) | &mdash; | شمارش به‌روز و زمان ساخت به وقت UTC، تا یک اسکریپت بداند نسخه‌اش چقدر تازه است |
 
 ## شروع سریع
