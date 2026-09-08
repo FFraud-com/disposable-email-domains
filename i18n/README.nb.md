@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788823847" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788825644" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 # Engangsdomener for e-post, bygget om hvert 30. minutt
 
 <p align="center"><b>219 466 engangs- og midlertidige e-postdomener. Én enkel liste, oppdatert døgnet rundt.</b></p>
-<p align="center"><sub>MIT-lisens &middot; ingen registrering, ingen API-nøkkel, ingen kallgrenser &middot; oppdatert 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/nb.svg?v=1788823847" alt="Sjekk en adresse gratis på ffraud.com" width="540"></a></p>
+<p align="center"><sub>MIT-lisens &middot; ingen registrering, ingen API-nøkkel, ingen kallgrenser &middot; oppdatert 08.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/nb.svg?v=1788825644" alt="Sjekk en adresse gratis på ffraud.com" width="540"></a></p>
 
 Engangsinnbokser er nettopp veien falske kontoer lages på i stor skala: registrer deg, hent bekreftelseslenken, brenn gratisnivået, gjenta. Dette er den åpne engangs-e-postdatabasen bak [ffraud.com](https://ffraud.com): hvert midlertidige og engangs-e-postdomene vi klarer å finne, i én tekstfil. Nye tjenester dukker opp hver dag, så listen bygges om **hvert 30. minutt**: det du henter, lever nå, det er ikke et øyeblikksbilde fra forrige uke. Ingen registrering, ingen nøkkel, ingen grenser.
 

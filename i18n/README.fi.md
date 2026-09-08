@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788823847" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788825644" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 # Kertakäyttöiset sähköpostiverkkotunnukset, rakennetaan uudelleen 30 minuutin välein
 
 <p align="center"><b>219 466 kertakäyttöistä ja väliaikaista sähköpostiverkkotunnusta. Yksi yksinkertainen lista, päivitetään ympäri vuorokauden.</b></p>
-<p align="center"><sub>MIT-lisenssi &middot; ei rekisteröitymistä, ei API-avainta, ei kutsurajoja &middot; päivitetty 07.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fi.svg?v=1788823847" alt="Tarkista osoite ilmaiseksi osoitteessa ffraud.com" width="540"></a></p>
+<p align="center"><sub>MIT-lisenssi &middot; ei rekisteröitymistä, ei API-avainta, ei kutsurajoja &middot; päivitetty 08.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fi.svg?v=1788825644" alt="Tarkista osoite ilmaiseksi osoitteessa ffraud.com" width="540"></a></p>
 
 Kertakäyttöiset postilaatikot ovat juuri se reitti, jolla valetilejä valmistetaan suuressa mitassa: rekisteröidy, nappaa vahvistuslinkki, polta ilmaistaso, toista. Tämä on [ffraud.com](https://ffraud.com):n takana oleva avoin kertakäyttösähköpostien tietokanta: jokainen väliaikainen ja kertakäyttöinen postiverkkotunnus, jonka pystymme löytämään, yhdessä tekstitiedostossa. Uusia palveluita ilmestyy joka päivä, joten lista rakennetaan uudelleen **30 minuutin välein**: se, minkä haet, on elossa nyt, ei viime viikon tilannekuva. Ei rekisteröitymistä, ei avainta, ei rajoja.
 
