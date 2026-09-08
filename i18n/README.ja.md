@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788888634" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788890439" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>使い捨て・一時利用・捨てアドレス用のメールドメイン 219,506 件。素の一覧を1つ、24時間体制で更新しています。</b></p>
 <p align="center"><sub>MITライセンス &middot; 登録不要、APIキー不要、レート制限なし &middot; 更新日 08.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ja.svg?v=1788888634" alt="ffraud.com でアドレスを無料でチェック" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ja.svg?v=1788890439" alt="ffraud.com でアドレスを無料でチェック" width="540"></a></p>
 
 使い捨ての受信箱は、偽アカウントが量産される経路そのものです。登録して、確認リンクを受け取り、無料枠を使い切り、また繰り返す。これは [ffraud.com](https://ffraud.com) を支えているオープンな使い捨てメールデータベースで、見つけられる限りの一時利用・使い捨てメールドメインが、1つのテキストファイルに入っています。新しい使い捨てサービスは毎日生まれるので、この一覧は**30分ごと**に再構築されます。取得したものは今この瞬間に生きているもので、先週のスナップショットではありません。登録不要、APIキー不要、レート制限なし。
 
