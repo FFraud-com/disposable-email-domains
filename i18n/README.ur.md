@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788964248" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788966046" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <p align="center"><b>219,530 یک بار استعمال اور عارضی ای میل ڈومین۔ ایک ہی سادہ فہرست، چوبیس گھنٹے تازہ ہوتی ہوئی۔</b></p>
 <p align="center"><sub>MIT لائسنس &middot; رجسٹریشن نہیں، API کلید نہیں، درخواستوں کی حد نہیں &middot; تازہ کاری 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ur.svg?v=1788964248" alt="ffraud.com پر ایک پتہ مفت جانچیں" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ur.svg?v=1788966046" alt="ffraud.com پر ایک پتہ مفت جانچیں" width="540"></a></p>
 
 پھینک دینے والے ان باکس ہی وہ راستہ ہیں جس سے بڑے پیمانے پر جعلی اکاؤنٹ بنائے جاتے ہیں: سائن اپ کرو، تصدیقی لنک اٹھاؤ، مفت حد جلا دو، پھر سے شروع۔ یہ [ffraud.com](https://ffraud.com) کے پیچھے کھڑا کھلا یک بار استعمال ای میل ڈیٹابیس ہے: ہر عارضی اور پھینک دینے والا میل ڈومین جو ہمیں مل سکا، ایک ہی متن فائل میں۔ نئی خدمات ہر روز نکلتی ہیں، اس لیے فہرست **ہر 30 منٹ بعد** نئے سرے سے بنتی ہے: آپ جو کھینچتے ہیں وہ اسی وقت زندہ ہے، پچھلے ہفتے کی تصویر نہیں۔ نہ رجسٹریشن، نہ کلید، نہ کوئی حد۔
 
