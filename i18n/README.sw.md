@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788933644" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788935437" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>Vikoa 219,506 vya barua pepe za mara moja na vya muda. Orodha moja rahisi, huburudishwa mchana na usiku.</b></p>
 <p align="center"><sub>Leseni ya MIT &middot; bila kujisajili, bila ufunguo wa API, bila mipaka ya maombi &middot; imesasishwa 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sw.svg?v=1788933644" alt="Kagua anwani bure kwenye ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sw.svg?v=1788935437" alt="Kagua anwani bure kwenye ffraud.com" width="540"></a></p>
 
 Visanduku vya kutupwa ndiyo njia hasa ambayo akaunti bandia hutengenezwa kwa wingi: jisajili, chukua kiungo cha uthibitisho, teketeza kiwango cha bure, rudia. Hii ndiyo hifadhidata huria ya barua pepe za mara moja iliyo nyuma ya [ffraud.com](https://ffraud.com): kila kikoa cha barua cha muda na cha kutupwa tunachoweza kukipata, katika faili moja ya maandishi. Huduma mpya huibuka kila siku, hivyo orodha hujengwa upya **kila dakika 30**: unachovuta kiko hai sasa, si picha ya wiki iliyopita. Bila kujisajili, bila ufunguo, bila mipaka.
 
