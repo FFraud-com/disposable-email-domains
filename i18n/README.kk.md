@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788973254" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788975045" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219 530 бір реттік және уақытша пошта домені. Бір қарапайым тізім, тәулік бойы жаңартылады.</b></p>
 <p align="center"><sub>MIT лицензиясы &middot; тіркеусіз, API кілтісіз, сұраныс шегісіз &middot; жаңартылды 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/kk.svg?v=1788973254" alt="ffraud.com сайтында мекенжайды тегін тексеріңіз" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/kk.svg?v=1788975045" alt="ffraud.com сайтында мекенжайды тегін тексеріңіз" width="540"></a></p>
 
 Тастап кететін кіріс жәшіктері дәл жалған тіркелгілер жаппай жасалатын жол: тіркел, растау сілтемесін ал, тегін шекті жағып бітір, қайтала. Бұл [ffraud.com](https://ffraud.com) артында тұрған ашық бір реттік пошта дерекқоры: біз таба алатын әр уақытша және тастап кететін пошта домені, бір ғана мәтін файлында. Жаңа қызметтер күн сайын шығады, сондықтан тізім **әр 30 минут сайын** қайта құрылады: сіз тартқаныңыз дәл қазір тірі, өткен аптадағы сурет емес. Тіркеусіз, кілтсіз, шексіз.
 
