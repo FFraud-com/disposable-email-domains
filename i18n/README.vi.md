@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788939033" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788940851" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Trang_chủ-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Trang chủ"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Tên_miền_dùng_một_lần-219.506-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tên miền dùng một lần"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Tên_miền_dùng_một_lần-219.507-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tên miền dùng một lần"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP_độc_hại-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP độc hại"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Dựng_lại-mỗi_30_phút-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dựng lại"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_miễn_phí-không_cần_khóa-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API miễn phí"></a>
@@ -15,15 +15,15 @@
 
 # Tên miền email dùng một lần, dựng lại mỗi 30 phút
 
-<p align="center"><b>219.506 tên miền email dùng một lần và tạm thời. Một danh sách đơn giản, làm mới suốt ngày đêm.</b></p>
+<p align="center"><b>219.507 tên miền email dùng một lần và tạm thời. Một danh sách đơn giản, làm mới suốt ngày đêm.</b></p>
 <p align="center"><sub>Giấy phép MIT &middot; không cần đăng ký, không cần khóa API, không giới hạn truy vấn &middot; cập nhật 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/vi.svg?v=1788939033" alt="Kiểm tra một địa chỉ miễn phí trên ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/vi.svg?v=1788940851" alt="Kiểm tra một địa chỉ miễn phí trên ffraud.com" width="540"></a></p>
 
 Hộp thư dùng một lần chính là con đường để chế tài khoản giả ở quy mô lớn: đăng ký, lấy liên kết xác nhận, đốt hết gói miễn phí, rồi lặp lại. Đây là cơ sở dữ liệu email dùng một lần mở nằm sau [ffraud.com](https://ffraud.com): mọi tên miền thư tạm thời và dùng một lần mà chúng tôi tìm được, gói trong một tệp văn bản. Dịch vụ mới mọc lên mỗi ngày, nên danh sách được dựng lại **mỗi 30 phút**: thứ bạn kéo về đang sống ngay lúc này, không phải ảnh chụp từ tuần trước. Không đăng ký, không khóa, không giới hạn.
 
 ## Vài con số
 
-- **219.506** tên miền email dùng một lần và tạm thời, mỗi dòng một tên, đã sắp xếp, sẵn sàng nạp vào một `Set`
+- **219.507** tên miền email dùng một lần và tạm thời, mỗi dòng một tên, đã sắp xếp, sẵn sàng nạp vào một `Set`
 - Được dựng lại và đẩy lên **mỗi 30 phút**. Lịch sử commit chính là nhật ký thay đổi, còn [`metadata.json`](metadata.json) giữ thời điểm dựng chính xác
 - Việc phát hiện không dừng ở danh sách: động cơ sau [ffraud.com](https://ffraud.com) còn nhận ra dịch vụ dùng một lần qua **hạ tầng thư của chúng**, nhờ vậy bắt được một tên miền mới tinh ngay ngày nó xuất hiện, trước khi có bất kỳ danh sách nào chứa nó
 - Các nhà cung cấp thư phổ thông và trả phí được **loại trừ** có chủ ý, để một khách hàng thật dùng tên miền riêng không bao giờ bị nhầm là dịch vụ dùng một lần
@@ -34,7 +34,7 @@ Hộp thư dùng một lần chính là con đường để chế tài khoản g
 
 | Tệp | Dòng | Là gì |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.506 | Mỗi dòng một tên miền email dùng một lần hoặc tạm thời, viết thường và đã sắp xếp |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.507 | Mỗi dòng một tên miền email dùng một lần hoặc tạm thời, viết thường và đã sắp xếp |
 | [`metadata.json`](../metadata.json) | &mdash; | Số đếm hiện thời và thời điểm dựng theo UTC, để một script biết bản sao của mình mới đến đâu |
 
 ## Bắt đầu nhanh
