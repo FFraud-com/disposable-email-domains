@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788949879" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788951647" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219 507 birdəfəlik və müvəqqəti e-poçt domeni. Bir sadə siyahı, gecə-gündüz təzələnir.</b></p>
 <p align="center"><sub>MIT lisenziyası &middot; qeydiyyatsız, API açarısız, sorğu limitisiz &middot; yeniləndi 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/az.svg?v=1788949879" alt="ffraud.com-da bir ünvanı pulsuz yoxlayın" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/az.svg?v=1788951647" alt="ffraud.com-da bir ünvanı pulsuz yoxlayın" width="540"></a></p>
 
 Atılası gələnlər qutuları elə saxta hesabların kütləvi düzəldildiyi yoldur: qeydiyyatdan keç, təsdiq linkini götür, pulsuz həddi yandır, təzədən başla. Bu, [ffraud.com](https://ffraud.com) arxasında duran açıq birdəfəlik e-poçt bazasıdır: tapa bildiyimiz hər müvəqqəti və atılası poçt domeni, tək bir mətn faylında. Hər gün yeni xidmətlər çıxır, ona görə siyahı **hər 30 dəqiqədən bir** yenidən qurulur: çəkdiyiniz elə indi canlıdır, keçən həftədən qalma şəkil deyil. Qeydiyyatsız, açarsız, limitsiz.
 
