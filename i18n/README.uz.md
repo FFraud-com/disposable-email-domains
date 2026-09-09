@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788922841" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788924632" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219 506 bir martalik va vaqtinchalik pochta domeni. Bitta oddiy roʻyxat, kecha-kunduz yangilanadi.</b></p>
 <p align="center"><sub>MIT litsenziyasi &middot; roʻyxatdan oʻtmasdan, API kalitisiz, soʻrov chegarasisiz &middot; yangilandi 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/uz.svg?v=1788922841" alt="ffraud.com da manzilni bepul tekshiring" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/uz.svg?v=1788924632" alt="ffraud.com da manzilni bepul tekshiring" width="540"></a></p>
 
 Tashlab yuboriladigan kirish qutilari aynan soxta hisoblar ommaviy yasaladigan yoʻldir: roʻyxatdan oʻt, tasdiq havolasini ol, bepul chegarani yoqib yubor, yana boshla. Bu [ffraud.com](https://ffraud.com) ortida turgan ochiq bir martalik pochta bazasi: topa olganimiz har bir vaqtinchalik va tashlab yuboriladigan pochta domeni, bitta matn faylida. Yangi xizmatlar har kuni chiqadi, shu bois roʻyxat **har 30 daqiqada** qayta quriladi: siz tortayotgan narsa hozir tirik, oʻtgan haftadagi surat emas. Roʻyxatdan oʻtmasdan, kalitsiz, cheklovsiz.
 
