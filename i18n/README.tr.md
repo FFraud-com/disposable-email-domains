@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788955255" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788957119" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Site-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Site"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Tek_kullanımlık_alan_adı-219.507-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tek kullanımlık alan adı"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Tek_kullanımlık_alan_adı-219.530-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tek kullanımlık alan adı"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Kötü_niyetli_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kötü niyetli IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Yeniden_derleme-her_30_dakikada-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Yeniden derleme"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Ücretsiz_API-anahtar_yok-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ücretsiz API"></a>
@@ -15,15 +15,15 @@
 
 # Tek kullanımlık e-posta alan adları, her 30 dakikada yeniden derleniyor
 
-<p align="center"><b>219.507 tek kullanımlık ve geçici e-posta alan adı. Tek ve sade bir liste, gün boyu tazeleniyor.</b></p>
+<p align="center"><b>219.530 tek kullanımlık ve geçici e-posta alan adı. Tek ve sade bir liste, gün boyu tazeleniyor.</b></p>
 <p align="center"><sub>MIT lisansı &middot; kayıt yok, API anahtarı yok, istek sınırı yok &middot; güncellendi 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/tr.svg?v=1788955255" alt="Bir adresi ffraud.com'da ücretsiz kontrol edin" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/tr.svg?v=1788957119" alt="Bir adresi ffraud.com'da ücretsiz kontrol edin" width="540"></a></p>
 
 Tek kullanımlık gelen kutuları, sahte hesapların toplu üretildiği yolun ta kendisidir: kaydol, onay bağlantısını al, ücretsiz hakkı yak, baştan başla. Bu, [ffraud.com](https://ffraud.com) arkasındaki açık tek kullanımlık e-posta veri tabanıdır: bulabildiğimiz her geçici ve tek kullanımlık posta alan adı, tek bir metin dosyasında. Her gün yeni hizmetler çıkıyor, bu yüzden liste **her 30 dakikada** yeniden derleniyor: çektiğiniz şey şu anda canlı, geçen haftadan kalma bir görüntü değil. Kayıt yok, anahtar yok, sınır yok.
 
 ## Kısaca
 
-- **219.507** tek kullanımlık ve geçici e-posta alan adı, satır başına bir tane, sıralı, doğrudan bir `Set` içine yüklenmeye hazır
+- **219.530** tek kullanımlık ve geçici e-posta alan adı, satır başına bir tane, sıralı, doğrudan bir `Set` içine yüklenmeye hazır
 - **Her 30 dakikada** yeniden derlenip yayımlanır. Commit geçmişi değişiklik günlüğüdür ve [`metadata.json`](metadata.json) tam derleme zamanını taşır
 - Tespit listeyle sınırlı değil: [ffraud.com](https://ffraud.com) arkasındaki motor tek kullanımlık hizmetleri **posta altyapılarından** da tanır ve böylece yepyeni bir alan adını ortaya çıktığı gün, hiçbir listeye girmeden yakalar
 - Yaygın ve ücretli posta sağlayıcıları bilerek **dışarıda bırakılır**; böylece kendi alan adını kullanan gerçek bir müşteri asla tek kullanımlık bir hizmetle karıştırılmaz
@@ -34,7 +34,7 @@ Tek kullanımlık gelen kutuları, sahte hesapların toplu üretildiği yolun ta
 
 | Dosya | Satır | Nedir |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.507 | Satır başına bir tek kullanımlık veya geçici e-posta alan adı, küçük harfli ve sıralı |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.530 | Satır başına bir tek kullanımlık veya geçici e-posta alan adı, küçük harfli ve sıralı |
 | [`metadata.json`](../metadata.json) | &mdash; | Güncel sayım ve UTC derleme zamanı; bir betik kopyasının ne kadar taze olduğunu buradan anlar |
 
 ## Hızlı başlangıç

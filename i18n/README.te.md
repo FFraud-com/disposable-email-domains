@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788955255" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788957119" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/వెబ్‌సైట్-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="వెబ్‌సైట్"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ఒకసారి_వాడే_డొమైన్‌లు-219,507-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ఒకసారి వాడే డొమైన్‌లు"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ఒకసారి_వాడే_డొమైన్‌లు-219,530-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ఒకసారి వాడే డొమైన్‌లు"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/హానికర_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="హానికర IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/పునర్నిర్మాణం-ప్రతి_30_నిమిషాలకు-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="పునర్నిర్మాణం"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/ఉచిత_API-కీ_అవసరం_లేదు-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ఉచిత API"></a>
@@ -15,15 +15,15 @@
 
 # ఒకసారి వాడే ఇమెయిల్ డొమైన్‌లు, ప్రతి 30 నిమిషాలకు పునర్నిర్మాణం
 
-<p align="center"><b>219,507 ఒకసారి వాడే, తాత్కాలిక ఇమెయిల్ డొమైన్‌లు. ఒకే ఒక సాదా జాబితా, రేయింబవళ్లు తాజా చేయబడుతుంది.</b></p>
+<p align="center"><b>219,530 ఒకసారి వాడే, తాత్కాలిక ఇమెయిల్ డొమైన్‌లు. ఒకే ఒక సాదా జాబితా, రేయింబవళ్లు తాజా చేయబడుతుంది.</b></p>
 <p align="center"><sub>MIT లైసెన్స్ &middot; నమోదు లేదు, API కీ లేదు, అభ్యర్థన పరిమితి లేదు &middot; నవీకరించబడింది 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/te.svg?v=1788955255" alt="ffraud.com లో ఒక చిరునామాను ఉచితంగా తనిఖీ చేయండి" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/te.svg?v=1788957119" alt="ffraud.com లో ఒక చిరునామాను ఉచితంగా తనిఖీ చేయండి" width="540"></a></p>
 
 పారేసే ఇన్‌బాక్స్‌లే నకిలీ ఖాతాలను పెద్ద ఎత్తున తయారు చేసే దారి: నమోదు చేయి, నిర్ధారణ లింక్ తీసుకో, ఉచిత పరిమితిని కాల్చేయి, మళ్లీ మొదలుపెట్టు. ఇది [ffraud.com](https://ffraud.com) వెనుక నిలిచిన బహిరంగ ఒకసారి వాడే ఇమెయిల్ డేటాబేస్: మేము కనుగొనగలిగిన ప్రతి తాత్కాలిక, పారేసే మెయిల్ డొమైన్, ఒకే టెక్స్ట్ ఫైల్‌లో. కొత్త సేవలు ప్రతిరోజూ పుట్టుకొస్తాయి, కాబట్టి జాబితా **ప్రతి 30 నిమిషాలకు** తిరిగి నిర్మించబడుతుంది: మీరు లాగేది ఇప్పుడు బతికే ఉంది, గత వారపు చిత్రం కాదు. నమోదు లేదు, కీ లేదు, పరిమితి లేదు.
 
 ## క్లుప్తంగా
 
-- **219,507** ఒకసారి వాడే, తాత్కాలిక ఇమెయిల్ డొమైన్‌లు, ప్రతి వరుసకు ఒకటి, క్రమబద్ధీకరించబడినవి, నేరుగా ఒక `Set` లోకి ఎక్కించడానికి సిద్ధం
+- **219,530** ఒకసారి వాడే, తాత్కాలిక ఇమెయిల్ డొమైన్‌లు, ప్రతి వరుసకు ఒకటి, క్రమబద్ధీకరించబడినవి, నేరుగా ఒక `Set` లోకి ఎక్కించడానికి సిద్ధం
 - **ప్రతి 30 నిమిషాలకు** తిరిగి నిర్మించి ప్రచురించబడుతుంది. commit చరిత్రే మార్పుల నమోదు, [`metadata.json`](metadata.json) లో నిర్మాణ ఖచ్చిత సమయం ఉంటుంది
 - గుర్తింపు జాబితాతో ఆగదు: [ffraud.com](https://ffraud.com) వెనుక ఇంజిన్ ఒకసారి వాడే సేవలను వాటి **మెయిల్ మౌలిక వసతి** నుంచి కూడా గుర్తిస్తుంది, అలా సరికొత్త డొమైన్‌ను అది కనిపించిన రోజునే పట్టుకుంటుంది, ఏ జాబితాలోనూ చేరకముందే
 - ప్రధాన స్రవంతి, చెల్లింపు మెయిల్ సేవలు ఉద్దేశపూర్వకంగా **మినహాయించబడ్డాయి**, తన సొంత డొమైన్‌లో ఉన్న నిజమైన ఖాతాదారుడు ఎప్పుడూ ఒకసారి వాడే సేవగా పొరబడకుండా
@@ -34,7 +34,7 @@
 
 | ఫైల్ | వరుసలు | ఇది ఏమిటి |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,507 | ప్రతి వరుసకు ఒక ఒకసారి వాడే లేదా తాత్కాలిక ఇమెయిల్ డొమైన్, చిన్న అక్షరాల్లో, క్రమబద్ధీకరించబడి |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,530 | ప్రతి వరుసకు ఒక ఒకసారి వాడే లేదా తాత్కాలిక ఇమెయిల్ డొమైన్, చిన్న అక్షరాల్లో, క్రమబద్ధీకరించబడి |
 | [`metadata.json`](../metadata.json) | &mdash; | ప్రస్తుత లెక్క, UTC లో నిర్మాణ సమయం, ఒక స్క్రిప్ట్ తన కాపీ ఎంత తాజాదో తెలుసుకోవడానికి |
 
 ## త్వరిత ప్రారంభం

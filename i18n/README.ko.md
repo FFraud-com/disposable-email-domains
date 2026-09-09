@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788955255" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788957119" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/웹사이트-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="웹사이트"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/일회용_도메인-219,507-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="일회용 도메인"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/일회용_도메인-219,530-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="일회용 도메인"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/악성_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="악성 IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/재생성-30분마다-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="재생성"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/무료_API-키_불필요-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="무료 API"></a>
@@ -15,15 +15,15 @@
 
 # 일회용 이메일 도메인, 30분마다 재생성
 
-<p align="center"><b>일회용, 임시, 쓰고 버리는 이메일 도메인 219,507개. 단순한 목록 하나를 24시간 갱신합니다.</b></p>
+<p align="center"><b>일회용, 임시, 쓰고 버리는 이메일 도메인 219,530개. 단순한 목록 하나를 24시간 갱신합니다.</b></p>
 <p align="center"><sub>MIT 라이선스 &middot; 가입 불필요, API 키 불필요, 요청 제한 없음 &middot; 업데이트 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ko.svg?v=1788955255" alt="ffraud.com에서 주소를 무료로 검사" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ko.svg?v=1788957119" alt="ffraud.com에서 주소를 무료로 검사" width="540"></a></p>
 
 임시 메일함은 가짜 계정이 대량으로 만들어지는 바로 그 경로입니다. 가입하고, 확인 링크를 받고, 무료 한도를 태우고, 반복합니다. 이것은 [ffraud.com](https://ffraud.com)을 떠받치는 공개 일회용 이메일 데이터베이스로, 저희가 찾을 수 있는 모든 임시·일회용 메일 도메인이 하나의 텍스트 파일에 담겨 있습니다. 새 일회용 서비스는 매일 생기기 때문에 이 목록은 **30분마다** 다시 만들어집니다. 받아 가는 것은 지금 살아 있는 것이지 지난주의 스냅숏이 아닙니다. 가입도, API 키도, 요청 제한도 없습니다.
 
 ## 핵심 수치
 
-- 일회용·임시 이메일 도메인 **219,507개**. 한 줄에 하나, 정렬되어 있어 `Set`에 바로 넣을 수 있습니다
+- 일회용·임시 이메일 도메인 **219,530개**. 한 줄에 하나, 정렬되어 있어 `Set`에 바로 넣을 수 있습니다
 - **30분마다** 다시 만들어 푸시합니다. 커밋 기록이 곧 변경 기록이고, [`metadata.json`](metadata.json)에 정확한 빌드 시각이 있습니다
 - 탐지는 이 목록에서 끝나지 않습니다. [ffraud.com](https://ffraud.com)의 엔진은 **메일 인프라**로도 일회용 서비스를 알아보기 때문에, 어떤 목록에도 오르기 전, 등장한 그날 새 도메인을 잡아냅니다
 - 주요 메일 제공사와 유료 서비스는 의도적으로 **제외**되어 있어, 자기 도메인을 쓰는 실제 고객이 일회용으로 오인되는 일은 없습니다
@@ -34,7 +34,7 @@
 
 | 파일 | 행 수 | 설명 |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,507 | 한 줄에 하나씩, 소문자로 정규화하고 정렬한 일회용·임시 이메일 도메인 |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,530 | 한 줄에 하나씩, 소문자로 정규화하고 정렬한 일회용·임시 이메일 도메인 |
 | [`metadata.json`](../metadata.json) | &mdash; | 실시간 건수와 UTC 빌드 시각. 스크립트가 자기 사본이 얼마나 최신인지 알 수 있습니다 |
 
 ## 빠른 시작
