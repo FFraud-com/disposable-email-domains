@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788982235" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788984040" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,530 մեկանգամյա և ժամանակավոր էլփոստի տիրույթ։ Մեկ պարզ ցանկ, թարմացվում է շուրջօրյա։</b></p>
 <p align="center"><sub>MIT արտոնագիր &middot; առանց գրանցման, առանց API բանալու, առանց հարցումների սահմանի &middot; թարմացվել է 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hy.svg?v=1788982235" alt="Ստուգեք հասցեն անվճար ffraud.com-ում" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hy.svg?v=1788984040" alt="Ստուգեք հասցեն անվճար ffraud.com-ում" width="540"></a></p>
 
 Դեն նետվող մուտքի արկղերը հենց այն ճանապարհն են, որով կեղծ հաշիվները զանգվածաբար պատրաստվում են՝ գրանցվիր, վերցրու հաստատման հղումը, այրիր անվճար սահմանը, նորից սկսիր։ Սա [ffraud.com](https://ffraud.com)-ի հետևում կանգնած բաց մեկանգամյա էլփոստի շտեմարանն է՝ ամեն ժամանակավոր և դեն նետվող փոստային տիրույթ, որ կարողանում ենք գտնել, մեկ տեքստային ֆայլում։ Նոր ծառայություններ ամեն օր են ծլում, ուստի ցանկը **ամեն 30 րոպեն մեկ** վերակառուցվում է. այն, ինչ քաշում եք, հենց հիմա կենդանի է, և ոչ թե անցյալ շաբաթվա նկար։ Առանց գրանցման, առանց բանալու, առանց սահմանների։
 
