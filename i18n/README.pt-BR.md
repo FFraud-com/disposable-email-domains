@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789050642" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789052449" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219.573 domínios de e-mail descartáveis e temporários. Uma lista simples, atualizada o tempo todo.</b></p>
 <p align="center"><sub>Licença MIT &middot; sem cadastro, sem chave de API, sem limite de requisições &middot; atualizado em 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/pt-BR.svg?v=1789050642" alt="Checar um endereço de graça no ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/pt-BR.svg?v=1789052449" alt="Checar um endereço de graça no ffraud.com" width="540"></a></p>
 
 Caixas descartáveis são exatamente o caminho pelo qual contas falsas são feitas em escala: cadastra, pega o link de confirmação, queima o plano gratuito, repete. Esta é a base aberta de e-mail descartável por trás do [ffraud.com](https://ffraud.com): todos os domínios de e-mail temporário e descartável que conseguimos encontrar, num único arquivo de texto. Serviços novos aparecem todo dia, então a lista é reconstruída **a cada 30 minutos**: o que você puxa está vivo agora, não é uma foto da semana passada. Sem cadastro, sem chave, sem limites.
 
