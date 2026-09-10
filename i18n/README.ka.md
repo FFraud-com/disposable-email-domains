@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789016445" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789018237" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,530 ერთჯერადი და დროებითი ელფოსტის დომენი. ერთი მარტივი სია, განახლებული დღე-ღამის განმავლობაში.</b></p>
 <p align="center"><sub>MIT ლიცენზია &middot; რეგისტრაციის გარეშე, API გასაღების გარეშე, მოთხოვნების ლიმიტის გარეშე &middot; განახლდა 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ka.svg?v=1789016445" alt="შეამოწმეთ მისამართი უფასოდ ffraud.com-ზე" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ka.svg?v=1789018237" alt="შეამოწმეთ მისამართი უფასოდ ffraud.com-ზე" width="540"></a></p>
 
 გასაყრელი შემოსულების ყუთები სწორედ ის გზაა, რომლითაც ყალბი ანგარიშები მასობრივად კეთდება: დარეგისტრირდი, აიღე დადასტურების ბმული, დაწვი უფასო ლიმიტი, ისევ თავიდან. ეს არის ღია ერთჯერადი ელფოსტის ბაზა, რომელიც [ffraud.com](https://ffraud.com)-ს უდგას უკან: ყველა დროებითი და გასაყრელი საფოსტო დომენი, რომლის პოვნაც შეგვიძლია, ერთ ტექსტურ ფაილში. ახალი სერვისები ყოველდღე ჩნდება, ამიტომ სია **ყოველ 30 წუთში** ხელახლა შენდება: ის, რასაც იღებთ, ახლა ცოცხალია, და არა გასული კვირის სურათი. რეგისტრაციის გარეშე, გასაღების გარეშე, ლიმიტების გარეშე.
 

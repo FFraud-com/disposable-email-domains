@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789016445" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789018237" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219 530 eldobható és ideiglenes e-mail domain. Egyetlen egyszerű lista, éjjel-nappal frissítve.</b></p>
 <p align="center"><sub>MIT licenc &middot; regisztráció nélkül, API-kulcs nélkül, kéréskorlát nélkül &middot; frissítve 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hu.svg?v=1789016445" alt="Ellenőrizz egy címet ingyen a ffraud.com oldalon" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hu.svg?v=1789018237" alt="Ellenőrizz egy címet ingyen a ffraud.com oldalon" width="540"></a></p>
 
 Az eldobható postafiókok pontosan az az út, amin a hamis fiókokat tömegesen gyártják: regisztrálsz, elviszed a megerősítő linket, elégeted az ingyenes keretet, kezdheted elölről. Ez a [ffraud.com](https://ffraud.com) mögött álló nyílt eldobható e-mail adatbázis: minden ideiglenes és eldobható levelezési domain, amit meg tudunk találni, egyetlen szövegfájlban. Új szolgáltatások minden nap felbukkannak, ezért a lista **30 percenként** épül újra: amit lehúzol, most él, nem múlt heti pillanatkép. Regisztráció nélkül, kulcs nélkül, korlátok nélkül.
 
