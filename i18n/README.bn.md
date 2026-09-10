@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789045246" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789047038" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ওয়েবসাইট-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ওয়েবসাইট"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ব্যবহারযোগ্য--একবার_ডোমেইন-219,530-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ব্যবহারযোগ্য-একবার ডোমেইন"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ব্যবহারযোগ্য--একবার_ডোমেইন-219,573-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ব্যবহারযোগ্য-একবার ডোমেইন"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/ক্ষতিকর_আইপি-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ক্ষতিকর আইপি"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/পুনর্নির্মাণ-প্রতি_৩০_মিনিটে-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="পুনর্নির্মাণ"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/বিনামূল্যের_API-কি_লাগে_না-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="বিনামূল্যের API"></a>
@@ -15,15 +15,15 @@
 
 # একবার-ব্যবহারের ইমেইল ডোমেইন, প্রতি ৩০ মিনিটে পুনর্নির্মিত
 
-<p align="center"><b>219,530টি একবার-ব্যবহারের ও অস্থায়ী ইমেইল ডোমেইন। একটিমাত্র সরল তালিকা, চব্বিশ ঘণ্টাই তাজা করা হয়।</b></p>
+<p align="center"><b>219,573টি একবার-ব্যবহারের ও অস্থায়ী ইমেইল ডোমেইন। একটিমাত্র সরল তালিকা, চব্বিশ ঘণ্টাই তাজা করা হয়।</b></p>
 <p align="center"><sub>MIT লাইসেন্স &middot; নিবন্ধন নেই, API কি নেই, অনুরোধের সীমা নেই &middot; হালনাগাদ 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/bn.svg?v=1789045246" alt="ffraud.com-এ একটি ঠিকানা বিনামূল্যে যাচাই করুন" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/bn.svg?v=1789047038" alt="ffraud.com-এ একটি ঠিকানা বিনামূল্যে যাচাই করুন" width="540"></a></p>
 
 ফেলে দেওয়ার ইনবক্সই সেই পথ যেখান দিয়ে বিপুল সংখ্যায় ভুয়া অ্যাকাউন্ট বানানো হয়: সাইনআপ করো, নিশ্চিতকরণ লিংক নাও, বিনামূল্যের কোটা পুড়িয়ে দাও, আবার শুরু করো। এটি [ffraud.com](https://ffraud.com)-এর পেছনে থাকা উন্মুক্ত একবার-ব্যবহারের ইমেইল ডেটাবেস: আমরা খুঁজে পাওয়া প্রতিটি অস্থায়ী ও ফেলে দেওয়ার মেইল ডোমেইন, একটিমাত্র টেক্সট ফাইলে। প্রতিদিনই নতুন সেবা গজায়, তাই তালিকাটি **প্রতি ৩০ মিনিটে** নতুন করে তৈরি হয়: আপনি যা টানছেন তা এই মুহূর্তে জীবিত, গত সপ্তাহের ছবি নয়। নিবন্ধন নেই, কি নেই, সীমা নেই।
 
 ## সংক্ষেপে
 
-- **219,530**টি একবার-ব্যবহারের ও অস্থায়ী ইমেইল ডোমেইন, প্রতি সারিতে একটি, সাজানো, সরাসরি `Set`-এ তোলার মতো
+- **219,573**টি একবার-ব্যবহারের ও অস্থায়ী ইমেইল ডোমেইন, প্রতি সারিতে একটি, সাজানো, সরাসরি `Set`-এ তোলার মতো
 - **প্রতি ৩০ মিনিটে** নতুন করে তৈরি ও প্রকাশ হয়। কমিটের ইতিহাসই পরিবর্তনের নথি, আর [`metadata.json`](metadata.json)-এ নির্মাণের সঠিক সময় থাকে
 - শনাক্তকরণ কেবল তালিকাতেই থামে না: [ffraud.com](https://ffraud.com)-এর পেছনের ইঞ্জিন **মেইল অবকাঠামো** দেখেও একবার-ব্যবহারের সেবা চিনে ফেলে, ফলে একদম নতুন ডোমেইনকেও তার আবির্ভাবের দিনেই ধরে ফেলে, কোনো তালিকায় ওঠার আগেই
 - প্রচলিত ও সশুল্ক মেইল সরবরাহকারীদের ইচ্ছে করেই **বাদ রাখা হয়েছে**, যাতে নিজের ডোমেইনে থাকা সত্যিকারের গ্রাহককে কখনো একবার-ব্যবহারের সেবা বলে ভুল না হয়
@@ -34,7 +34,7 @@
 
 | ফাইল | সারি | এটি কী |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,530 | প্রতি সারিতে একটি একবার-ব্যবহারের বা অস্থায়ী ইমেইল ডোমেইন, ছোট হরফে ও সাজানো |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,573 | প্রতি সারিতে একটি একবার-ব্যবহারের বা অস্থায়ী ইমেইল ডোমেইন, ছোট হরফে ও সাজানো |
 | [`metadata.json`](../metadata.json) | &mdash; | সাম্প্রতিক গণনা ও UTC-তে নির্মাণের সময়, যাতে কোনো স্ক্রিপ্ট বুঝতে পারে তার কপি কতটা তাজা |
 
 ## দ্রুত শুরু

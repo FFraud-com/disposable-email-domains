@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789045246" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789047038" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/இணையதளம்-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="இணையதளம்"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ஒருமுறை_பயன்பாட்டு_டொமைன்கள்-219,530-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ஒருமுறை பயன்பாட்டு டொமைன்கள்"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ஒருமுறை_பயன்பாட்டு_டொமைன்கள்-219,573-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ஒருமுறை பயன்பாட்டு டொமைன்கள்"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/தீங்கிழைக்கும்_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="தீங்கிழைக்கும் IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/மீளக்_கட்டமைப்பு-ஒவ்வொரு_30_நிமிடமும்-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="மீளக் கட்டமைப்பு"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/இலவச_API-சாவி_தேவையில்லை-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="இலவச API"></a>
@@ -15,15 +15,15 @@
 
 # ஒருமுறை பயன்பாட்டு மின்னஞ்சல் டொமைன்கள், ஒவ்வொரு 30 நிமிடமும் மீளக் கட்டப்படுகின்றன
 
-<p align="center"><b>219,530 ஒருமுறை பயன்பாட்டு மற்றும் தற்காலிக மின்னஞ்சல் டொமைன்கள். ஒரே எளிய பட்டியல், இரவும் பகலும் புதுப்பிக்கப்படுகிறது.</b></p>
+<p align="center"><b>219,573 ஒருமுறை பயன்பாட்டு மற்றும் தற்காலிக மின்னஞ்சல் டொமைன்கள். ஒரே எளிய பட்டியல், இரவும் பகலும் புதுப்பிக்கப்படுகிறது.</b></p>
 <p align="center"><sub>MIT உரிமம் &middot; பதிவு இல்லை, API சாவி இல்லை, கோரிக்கை வரம்பு இல்லை &middot; புதுப்பிக்கப்பட்டது 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ta.svg?v=1789045246" alt="ffraud.com இல் ஒரு முகவரியை இலவசமாகச் சரிபார்க்கவும்" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ta.svg?v=1789047038" alt="ffraud.com இல் ஒரு முகவரியை இலவசமாகச் சரிபார்க்கவும்" width="540"></a></p>
 
 தூக்கி எறியும் இன்பாக்ஸ்கள்தான் போலி கணக்குகள் மொத்தமாகத் தயாரிக்கப்படும் வழி: பதிவு செய், உறுதிப்படுத்தல் இணைப்பை எடு, இலவச வரம்பை எரி, மீண்டும் தொடங்கு. இது [ffraud.com](https://ffraud.com) பின்னால் நிற்கும் திறந்த ஒருமுறை பயன்பாட்டு மின்னஞ்சல் தரவுத்தளம்: நாங்கள் கண்டுபிடிக்கக்கூடிய ஒவ்வொரு தற்காலிக மற்றும் தூக்கி எறியும் அஞ்சல் டொமைனும், ஒரே உரைக் கோப்பில். புதிய சேவைகள் தினமும் தோன்றுகின்றன, எனவே பட்டியல் **ஒவ்வொரு 30 நிமிடமும்** மீளக் கட்டப்படுகிறது: நீங்கள் இழுப்பது இப்போது உயிருடன் இருக்கிறது, கடந்த வாரத்துப் படம் அல்ல. பதிவு இல்லை, சாவி இல்லை, வரம்பு இல்லை.
 
 ## சுருக்கமாக
 
-- **219,530** ஒருமுறை பயன்பாட்டு மற்றும் தற்காலிக மின்னஞ்சல் டொமைன்கள், ஒரு வரிக்கு ஒன்று, வரிசைப்படுத்தப்பட்டவை, நேரடியாக ஒரு `Set` இல் ஏற்றத் தயார்
+- **219,573** ஒருமுறை பயன்பாட்டு மற்றும் தற்காலிக மின்னஞ்சல் டொமைன்கள், ஒரு வரிக்கு ஒன்று, வரிசைப்படுத்தப்பட்டவை, நேரடியாக ஒரு `Set` இல் ஏற்றத் தயார்
 - **ஒவ்வொரு 30 நிமிடமும்** மீளக் கட்டப்பட்டு வெளியிடப்படுகிறது. commit வரலாறே மாற்றப் பதிவு, மேலும் [`metadata.json`](metadata.json) கட்டமைப்பின் துல்லியமான நேரத்தைச் சுமக்கிறது
 - கண்டறிதல் பட்டியலோடு நிற்பதில்லை: [ffraud.com](https://ffraud.com) பின்னாலுள்ள இயந்திரம் ஒருமுறை பயன்பாட்டுச் சேவைகளை அவற்றின் **அஞ்சல் உள்கட்டமைப்பிலிருந்தும்** அடையாளம் காண்கிறது, அதனால் புத்தம் புதிய டொமைனை அது தோன்றிய அன்றே பிடிக்கிறது, எந்தப் பட்டியலிலும் சேர்வதற்கு முன்பே
 - பரவலான மற்றும் கட்டண அஞ்சல் வழங்குநர்கள் வேண்டுமென்றே **விலக்கப்பட்டுள்ளனர்**, சொந்த டொமைனில் இருக்கும் உண்மையான வாடிக்கையாளர் ஒருபோதும் ஒருமுறை பயன்பாட்டுச் சேவையாகத் தவறாகக் கருதப்படக் கூடாது என்பதற்காக
@@ -34,7 +34,7 @@
 
 | கோப்பு | வரிசைகள் | இது என்ன |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,530 | ஒரு வரிக்கு ஒரு ஒருமுறை பயன்பாட்டு அல்லது தற்காலிக மின்னஞ்சல் டொமைன், சிறிய எழுத்தில், வரிசைப்படுத்தப்பட்டு |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,573 | ஒரு வரிக்கு ஒரு ஒருமுறை பயன்பாட்டு அல்லது தற்காலிக மின்னஞ்சல் டொமைன், சிறிய எழுத்தில், வரிசைப்படுத்தப்பட்டு |
 | [`metadata.json`](../metadata.json) | &mdash; | தற்போதைய எண்ணிக்கையும் UTC இல் கட்டமைப்பு நேரமும், ஒரு ஸ்கிரிப்ட் தன் நகல் எவ்வளவு புதியது என்பதை அறிய |
 
 ## விரைவுத் தொடக்கம்
