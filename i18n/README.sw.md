@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789059640" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789061468" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Tovuti-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Tovuti"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Vikoa_vya_matumizi_ya_mara_moja-219,573-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Vikoa vya matumizi ya mara moja"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Vikoa_vya_matumizi_ya_mara_moja-219,575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Vikoa vya matumizi ya mara moja"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP_hatari-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP hatari"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Hujengwa_upya-kila_dakika_30-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Hujengwa upya"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_ya_bure-bila_ufunguo-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API ya bure"></a>
@@ -15,15 +15,15 @@
 
 # Vikoa vya barua pepe za mara moja, hujengwa upya kila dakika 30
 
-<p align="center"><b>Vikoa 219,573 vya barua pepe za mara moja na vya muda. Orodha moja rahisi, huburudishwa mchana na usiku.</b></p>
+<p align="center"><b>Vikoa 219,575 vya barua pepe za mara moja na vya muda. Orodha moja rahisi, huburudishwa mchana na usiku.</b></p>
 <p align="center"><sub>Leseni ya MIT &middot; bila kujisajili, bila ufunguo wa API, bila mipaka ya maombi &middot; imesasishwa 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sw.svg?v=1789059640" alt="Kagua anwani bure kwenye ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sw.svg?v=1789061468" alt="Kagua anwani bure kwenye ffraud.com" width="540"></a></p>
 
 Visanduku vya kutupwa ndiyo njia hasa ambayo akaunti bandia hutengenezwa kwa wingi: jisajili, chukua kiungo cha uthibitisho, teketeza kiwango cha bure, rudia. Hii ndiyo hifadhidata huria ya barua pepe za mara moja iliyo nyuma ya [ffraud.com](https://ffraud.com): kila kikoa cha barua cha muda na cha kutupwa tunachoweza kukipata, katika faili moja ya maandishi. Huduma mpya huibuka kila siku, hivyo orodha hujengwa upya **kila dakika 30**: unachovuta kiko hai sasa, si picha ya wiki iliyopita. Bila kujisajili, bila ufunguo, bila mipaka.
 
 ## Kwa kifupi
 
-- Vikoa **219,573** vya barua pepe za mara moja na vya muda, kimoja kwa kila mstari, vimepangwa, tayari kupakiwa kwenye `Set`
+- Vikoa **219,575** vya barua pepe za mara moja na vya muda, kimoja kwa kila mstari, vimepangwa, tayari kupakiwa kwenye `Set`
 - Hujengwa upya na kuchapishwa **kila dakika 30**. Historia ya commit ndiyo kumbukumbu ya mabadiliko, na [`metadata.json`](metadata.json) hubeba muda kamili wa ujenzi
 - Utambuzi hauishii kwenye orodha: injini iliyo nyuma ya [ffraud.com](https://ffraud.com) hutambua pia huduma za mara moja kutokana na **miundombinu yao ya barua**, hivyo hunasa kikoa kipya kabisa siku ile ile kinapotokea, kabla ya orodha yoyote kuwa nacho
 - Watoa huduma wakubwa na wanaolipiwa wa barua wameachwa nje **kwa makusudi**, ili mteja halisi aliye kwenye kikoa chake mwenyewe asichukuliwe kamwe kuwa huduma ya mara moja
@@ -34,7 +34,7 @@ Visanduku vya kutupwa ndiyo njia hasa ambayo akaunti bandia hutengenezwa kwa win
 
 | Faili | Safu | Ni nini |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,573 | Kikoa kimoja cha barua pepe cha mara moja au cha muda kwa kila mstari, kwa herufi ndogo na kimepangwa |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,575 | Kikoa kimoja cha barua pepe cha mara moja au cha muda kwa kila mstari, kwa herufi ndogo na kimepangwa |
 | [`metadata.json`](../metadata.json) | &mdash; | Hesabu ya sasa na muda wa ujenzi kwa UTC, ili hati ijue nakala yake ni mpya kiasi gani |
 
 ## Anza haraka

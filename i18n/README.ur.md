@@ -1,12 +1,12 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789059640" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789061468" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ویب_سائٹ-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ویب سائٹ"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/یک_بار_استعمال_ڈومین-219,573-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="یک بار استعمال ڈومین"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/یک_بار_استعمال_ڈومین-219,575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="یک بار استعمال ڈومین"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/نقصان_دہ_آئی_پی-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="نقصان دہ آئی پی"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/دوبارہ_تعمیر-ہر_30_منٹ_بعد-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="دوبارہ تعمیر"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/مفت_API-بغیر_کلید-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="مفت API"></a>
@@ -17,15 +17,15 @@
 
 # یک بار استعمال ای میل ڈومین، ہر 30 منٹ بعد دوبارہ تعمیر
 
-<p align="center"><b>219,573 یک بار استعمال اور عارضی ای میل ڈومین۔ ایک ہی سادہ فہرست، چوبیس گھنٹے تازہ ہوتی ہوئی۔</b></p>
+<p align="center"><b>219,575 یک بار استعمال اور عارضی ای میل ڈومین۔ ایک ہی سادہ فہرست، چوبیس گھنٹے تازہ ہوتی ہوئی۔</b></p>
 <p align="center"><sub>MIT لائسنس &middot; رجسٹریشن نہیں، API کلید نہیں، درخواستوں کی حد نہیں &middot; تازہ کاری 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ur.svg?v=1789059640" alt="ffraud.com پر ایک پتہ مفت جانچیں" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ur.svg?v=1789061468" alt="ffraud.com پر ایک پتہ مفت جانچیں" width="540"></a></p>
 
 پھینک دینے والے ان باکس ہی وہ راستہ ہیں جس سے بڑے پیمانے پر جعلی اکاؤنٹ بنائے جاتے ہیں: سائن اپ کرو، تصدیقی لنک اٹھاؤ، مفت حد جلا دو، پھر سے شروع۔ یہ [ffraud.com](https://ffraud.com) کے پیچھے کھڑا کھلا یک بار استعمال ای میل ڈیٹابیس ہے: ہر عارضی اور پھینک دینے والا میل ڈومین جو ہمیں مل سکا، ایک ہی متن فائل میں۔ نئی خدمات ہر روز نکلتی ہیں، اس لیے فہرست **ہر 30 منٹ بعد** نئے سرے سے بنتی ہے: آپ جو کھینچتے ہیں وہ اسی وقت زندہ ہے، پچھلے ہفتے کی تصویر نہیں۔ نہ رجسٹریشن، نہ کلید، نہ کوئی حد۔
 
 ## مختصراً
 
-- **219,573** یک بار استعمال اور عارضی ای میل ڈومین، فی سطر ایک، ترتیب شدہ، سیدھا `Set` میں لادنے کے لیے تیار
+- **219,575** یک بار استعمال اور عارضی ای میل ڈومین، فی سطر ایک، ترتیب شدہ، سیدھا `Set` میں لادنے کے لیے تیار
 - **ہر 30 منٹ بعد** نئے سرے سے بن کر شائع ہوتا ہے۔ کمٹ کی تاریخ ہی تبدیلیوں کا ریکارڈ ہے، اور [`metadata.json`](metadata.json) میں تعمیر کا درست وقت ہوتا ہے
 - شناخت صرف فہرست پر نہیں رکتی: [ffraud.com](https://ffraud.com) کے پیچھے والا انجن یک بار استعمال خدمات کو ان کے **میل ڈھانچے** سے بھی پہچان لیتا ہے، اور یوں بالکل نیا ڈومین اسی دن پکڑ لیتا ہے جس دن وہ سامنے آئے، کسی فہرست میں آنے سے پہلے
 - عام اور ادائیگی والے میل فراہم کنندگان جان بوجھ کر **باہر رکھے گئے ہیں**، تاکہ اپنے ڈومین پر بیٹھے اصلی گاہک کو کبھی یک بار استعمال خدمت نہ سمجھا جائے
@@ -36,7 +36,7 @@
 
 | فائل | سطریں | یہ کیا ہے |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,573 | فی سطر ایک یک بار استعمال یا عارضی ای میل ڈومین، چھوٹے حروف میں اور ترتیب شدہ |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,575 | فی سطر ایک یک بار استعمال یا عارضی ای میل ڈومین، چھوٹے حروف میں اور ترتیب شدہ |
 | [`metadata.json`](../metadata.json) | &mdash; | تازہ گنتی اور UTC میں تعمیر کا وقت، تاکہ کوئی اسکرپٹ جان سکے اس کی نقل کتنی تازہ ہے |
 
 ## فوری آغاز

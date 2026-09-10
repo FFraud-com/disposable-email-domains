@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789059640" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789061468" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ဝဘ်ဆိုက်-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ဝဘ်ဆိုက်"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/တစ်ကြိမ်သုံး_ဒိုမိန်းများ-219,573-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="တစ်ကြိမ်သုံး ဒိုမိန်းများ"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/တစ်ကြိမ်သုံး_ဒိုမိန်းများ-219,575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="တစ်ကြိမ်သုံး ဒိုမိန်းများ"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/အန္တရာယ်ရှိ_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="အန္တရာယ်ရှိ IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/ပြန်တည်ဆောက်-မိနစ်_၃၀_တိုင်း-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ပြန်တည်ဆောက်"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/အခမဲ့_API-သော့မလို-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="အခမဲ့ API"></a>
@@ -15,15 +15,15 @@
 
 # တစ်ကြိမ်သုံး အီးမေးလ် ဒိုမိန်းများ၊ မိနစ် ၃၀ တိုင်း ပြန်တည်ဆောက်သည်
 
-<p align="center"><b>တစ်ကြိမ်သုံးနှင့် ယာယီ အီးမေးလ် ဒိုမိန်း 219,573 ခု။ ရိုးရှင်းသော စာရင်းတစ်ခုတည်း၊ တစ်နေကုန်တစ်နေခန်း လတ်ဆတ်အောင် ပြုလုပ်သည်။</b></p>
+<p align="center"><b>တစ်ကြိမ်သုံးနှင့် ယာယီ အီးမေးလ် ဒိုမိန်း 219,575 ခု။ ရိုးရှင်းသော စာရင်းတစ်ခုတည်း၊ တစ်နေကုန်တစ်နေခန်း လတ်ဆတ်အောင် ပြုလုပ်သည်။</b></p>
 <p align="center"><sub>MIT လိုင်စင် &middot; မှတ်ပုံတင်စရာမလို၊ API သော့မလို၊ တောင်းဆိုမှု ကန့်သတ်ချက်မရှိ &middot; မွမ်းမံပြီး 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/my.svg?v=1789059640" alt="ffraud.com တွင် လိပ်စာတစ်ခုကို အခမဲ့ စစ်ဆေးပါ" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/my.svg?v=1789061468" alt="ffraud.com တွင် လိပ်စာတစ်ခုကို အခမဲ့ စစ်ဆေးပါ" width="540"></a></p>
 
 စွန့်ပစ်စာဝင်ပုံးများသည် အတုအယောင် အကောင့်များကို အစုလိုက် ထုတ်လုပ်သည့် လမ်းကြောင်းပင်ဖြစ်သည်- စာရင်းသွင်း၊ အတည်ပြုလင့်ခ်ယူ၊ အခမဲ့ကန့်သတ်ချက်ကို ကုန်အောင်သုံး၊ ပြန်စ။ ဤသည်မှာ [ffraud.com](https://ffraud.com) နောက်ကွယ်တွင် ရပ်တည်နေသော ပွင့်လင်း တစ်ကြိမ်သုံး အီးမေးလ် ဒေတာဘေ့စ်ဖြစ်သည်- ကျွန်ုပ်တို့ ရှာဖွေတွေ့ရှိနိုင်သမျှ ယာယီနှင့် စွန့်ပစ်စာတိုက် ဒိုမိန်းတိုင်း၊ စာသားဖိုင်တစ်ခုတည်းထဲတွင်။ ဝန်ဆောင်မှုအသစ်များ နေ့စဉ် ပေါ်လာသဖြင့် စာရင်းကို **မိနစ် ၃၀ တိုင်း** ပြန်တည်ဆောက်သည်- သင်ဆွဲယူသည့်အရာသည် ယခုအချိန်တွင် အသက်ရှင်နေဆဲဖြစ်ပြီး၊ ပြီးခဲ့သောအပတ်က ဓာတ်ပုံ မဟုတ်ပါ။ မှတ်ပုံတင်စရာမလို၊ သော့မလို၊ ကန့်သတ်ချက်မရှိ။
 
 ## အကျဉ်းချုပ်
 
-- တစ်ကြိမ်သုံးနှင့် ယာယီ အီးမေးလ် ဒိုမိန်း **219,573** ခု၊ တစ်ကြောင်းလျှင် တစ်ခု၊ စီထားပြီး၊ `Set` ထဲသို့ တိုက်ရိုက် ထည့်ရန် အသင့်
+- တစ်ကြိမ်သုံးနှင့် ယာယီ အီးမေးလ် ဒိုမိန်း **219,575** ခု၊ တစ်ကြောင်းလျှင် တစ်ခု၊ စီထားပြီး၊ `Set` ထဲသို့ တိုက်ရိုက် ထည့်ရန် အသင့်
 - **မိနစ် ၃၀ တိုင်း** ပြန်တည်ဆောက်ပြီး ထုတ်ဝေသည်။ commit မှတ်တမ်းသည်ပင် ပြောင်းလဲမှု မှတ်တမ်းဖြစ်ပြီး [`metadata.json`](metadata.json) တွင် တည်ဆောက်ချိန် အတိအကျ ပါဝင်သည်
 - ရှာဖွေတွေ့ရှိမှုသည် စာရင်းတွင် အဆုံးမသတ်ပါ- [ffraud.com](https://ffraud.com) နောက်ကွယ်ရှိ အင်ဂျင်သည် တစ်ကြိမ်သုံး ဝန်ဆောင်မှုများကို ၎င်းတို့၏ **စာတိုက်အခြေခံအဆောက်အအုံ**မှလည်း သိရှိသဖြင့် လုံးဝအသစ်သော ဒိုမိန်းကို ပေါ်လာသည့်နေ့မှာပင် ဖမ်းမိပြီး၊ မည်သည့်စာရင်းတွင်မှ မပါမီ ဖြစ်သည်
 - လူသုံးများသောနှင့် အခကြေးငွေယူသော စာတိုက်ဝန်ဆောင်မှုများကို ရည်ရွယ်ချက်ရှိရှိ **ချန်လှပ်ထားသည်**၊ ကိုယ်ပိုင်ဒိုမိန်းရှိ စစ်မှန်သော ဖောက်သည်တစ်ဦးကို တစ်ကြိမ်သုံး ဝန်ဆောင်မှုဟု မည်သည့်အခါမျှ မမှားစေရန်
@@ -34,7 +34,7 @@
 
 | ဖိုင် | အတန်း | ဘာလဲ |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,573 | တစ်ကြောင်းလျှင် တစ်ကြိမ်သုံး သို့မဟုတ် ယာယီ အီးမေးလ် ဒိုမိန်း တစ်ခု၊ စာလုံးအသေးဖြင့် စီထားသည် |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,575 | တစ်ကြောင်းလျှင် တစ်ကြိမ်သုံး သို့မဟုတ် ယာယီ အီးမေးလ် ဒိုမိန်း တစ်ခု၊ စာလုံးအသေးဖြင့် စီထားသည် |
 | [`metadata.json`](../metadata.json) | &mdash; | လက်ရှိ အရေအတွက်နှင့် UTC အလိုက် တည်ဆောက်ချိန်၊ script တစ်ခုသည် မိမိမိတ္တူ မည်မျှ လတ်ဆတ်ကြောင်း သိနိုင်ရန် |
 
 ## အမြန်စတင်ရန်

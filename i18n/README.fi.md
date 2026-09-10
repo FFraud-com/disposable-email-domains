@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789059640" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789061468" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sivusto-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sivusto"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Kertakäyttöverkkotunnukset-219 573-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kertakäyttöverkkotunnukset"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Kertakäyttöverkkotunnukset-219 575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kertakäyttöverkkotunnukset"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Haitalliset_IP:t-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Haitalliset IP:t"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Rakennetaan-30_minuutin_välein-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Rakennetaan"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Ilmainen_API-ilman_avainta-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ilmainen API"></a>
@@ -15,15 +15,15 @@
 
 # Kertakäyttöiset sähköpostiverkkotunnukset, rakennetaan uudelleen 30 minuutin välein
 
-<p align="center"><b>219 573 kertakäyttöistä ja väliaikaista sähköpostiverkkotunnusta. Yksi yksinkertainen lista, päivitetään ympäri vuorokauden.</b></p>
+<p align="center"><b>219 575 kertakäyttöistä ja väliaikaista sähköpostiverkkotunnusta. Yksi yksinkertainen lista, päivitetään ympäri vuorokauden.</b></p>
 <p align="center"><sub>MIT-lisenssi &middot; ei rekisteröitymistä, ei API-avainta, ei kutsurajoja &middot; päivitetty 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fi.svg?v=1789059640" alt="Tarkista osoite ilmaiseksi osoitteessa ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fi.svg?v=1789061468" alt="Tarkista osoite ilmaiseksi osoitteessa ffraud.com" width="540"></a></p>
 
 Kertakäyttöiset postilaatikot ovat juuri se reitti, jolla valetilejä valmistetaan suuressa mitassa: rekisteröidy, nappaa vahvistuslinkki, polta ilmaistaso, toista. Tämä on [ffraud.com](https://ffraud.com):n takana oleva avoin kertakäyttösähköpostien tietokanta: jokainen väliaikainen ja kertakäyttöinen postiverkkotunnus, jonka pystymme löytämään, yhdessä tekstitiedostossa. Uusia palveluita ilmestyy joka päivä, joten lista rakennetaan uudelleen **30 minuutin välein**: se, minkä haet, on elossa nyt, ei viime viikon tilannekuva. Ei rekisteröitymistä, ei avainta, ei rajoja.
 
 ## Lyhyesti
 
-- **219 573** kertakäyttöistä ja väliaikaista sähköpostiverkkotunnusta, yksi riviä kohti, lajiteltuna, valmiina ladattavaksi `Set`iin
+- **219 575** kertakäyttöistä ja väliaikaista sähköpostiverkkotunnusta, yksi riviä kohti, lajiteltuna, valmiina ladattavaksi `Set`iin
 - Rakennetaan uudelleen ja julkaistaan **30 minuutin välein**. Committien historia on muutosloki, ja [`metadata.json`](metadata.json) kantaa tarkan koontiajan
 - Tunnistus ei pääty listaan: [ffraud.com](https://ffraud.com):n takana oleva moottori tunnistaa kertakäyttöpalvelut myös niiden **postiinfrastruktuurista**, jolloin se nappaa aivan uuden verkkotunnuksen samana päivänä kun se ilmestyy, ennen kuin mikään lista sisältää sen
 - Valtavirran ja maksulliset postipalveluntarjoajat on tarkoituksella **jätetty pois**, jotta oikeaa asiakasta omalla verkkotunnuksellaan ei koskaan luultaisi kertakäyttöpalveluksi
@@ -34,7 +34,7 @@ Kertakäyttöiset postilaatikot ovat juuri se reitti, jolla valetilejä valmiste
 
 | Tiedosto | Rivejä | Mikä se on |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 573 | Yksi kertakäyttöinen tai väliaikainen sähköpostiverkkotunnus riviä kohti, pienaakkosin ja lajiteltuna |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 575 | Yksi kertakäyttöinen tai väliaikainen sähköpostiverkkotunnus riviä kohti, pienaakkosin ja lajiteltuna |
 | [`metadata.json`](../metadata.json) | &mdash; | Ajantasainen lukumäärä ja koontiaika UTC-ajassa, jotta skripti tietää, kuinka tuore sen kopio on |
 
 ## Pikaopas

@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789059640" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789061468" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sitio_web-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sitio web"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Dominios_desechables-219.573-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dominios desechables"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Dominios_desechables-219.575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dominios desechables"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP_maliciosas-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP maliciosas"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Se_reconstruye-cada_30_minutos-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Se reconstruye"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_gratuita-sin_clave-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API gratuita"></a>
@@ -15,15 +15,15 @@
 
 # Dominios de correo desechable, reconstruidos cada 30 minutos
 
-<p align="center"><b>219.573 dominios de correo desechable y temporal. Una lista sencilla, actualizada a todas horas.</b></p>
+<p align="center"><b>219.575 dominios de correo desechable y temporal. Una lista sencilla, actualizada a todas horas.</b></p>
 <p align="center"><sub>Licencia MIT &middot; sin registro, sin clave de API, sin límite de peticiones &middot; actualizado el 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/es.svg?v=1789059640" alt="Comprobar una dirección gratis en ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/es.svg?v=1789061468" alt="Comprobar una dirección gratis en ffraud.com" width="540"></a></p>
 
 Los buzones desechables son justamente el camino por el que se fabrican cuentas falsas a escala: te registras, coges el enlace de confirmación, quemas el plan gratuito y vuelta a empezar. Esta es la base abierta de correo desechable que hay detrás de [ffraud.com](https://ffraud.com): todos los dominios de correo temporal y desechable que somos capaces de encontrar, en un solo archivo de texto. Cada día aparecen servicios nuevos, así que la lista se reconstruye **cada 30 minutos**: lo que descargas está vivo ahora, no es una foto de la semana pasada. Sin registro, sin clave, sin límites.
 
 ## En pocas cifras
 
-- **219.573** dominios de correo desechable y temporal, uno por línea, ordenados y listos para cargar en un `Set`
+- **219.575** dominios de correo desechable y temporal, uno por línea, ordenados y listos para cargar en un `Set`
 - Se reconstruye y se publica **cada 30 minutos**. El historial de commits es el registro de cambios, y [`metadata.json`](metadata.json) lleva la hora exacta de construcción
 - La detección va más allá de la lista: el motor detrás de [ffraud.com](https://ffraud.com) también reconoce los servicios desechables por su **infraestructura de correo**, lo que atrapa un dominio recién creado el mismo día en que aparece, antes de que ninguna lista lo tenga
 - Los proveedores de correo mayoritarios y de pago quedan **excluidos** a propósito, para que un cliente real con su propio dominio nunca se confunda con un servicio desechable
@@ -34,7 +34,7 @@ Los buzones desechables son justamente el camino por el que se fabrican cuentas 
 
 | Archivo | Filas | Qué es |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.573 | Un dominio de correo desechable o temporal por línea, en minúsculas y ordenados |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.575 | Un dominio de correo desechable o temporal por línea, en minúsculas y ordenados |
 | [`metadata.json`](../metadata.json) | &mdash; | El contador al día y la hora de construcción en UTC, para que un script sepa cómo de fresca es su copia |
 
 ## Inicio rápido

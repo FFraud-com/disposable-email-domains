@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789059640" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789061468" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Сайт-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Сайт"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Бір_реттік_домендер-219 573-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Бір реттік домендер"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Бір_реттік_домендер-219 575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Бір реттік домендер"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Зиянды_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Зиянды IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Қайта_құрылады-әр_30_минут_сайын-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Қайта құрылады"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Тегін_API-кілтсіз-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Тегін API"></a>
@@ -15,15 +15,15 @@
 
 # Бір реттік пошта домендері, әр 30 минут сайын қайта құрылады
 
-<p align="center"><b>219 573 бір реттік және уақытша пошта домені. Бір қарапайым тізім, тәулік бойы жаңартылады.</b></p>
+<p align="center"><b>219 575 бір реттік және уақытша пошта домені. Бір қарапайым тізім, тәулік бойы жаңартылады.</b></p>
 <p align="center"><sub>MIT лицензиясы &middot; тіркеусіз, API кілтісіз, сұраныс шегісіз &middot; жаңартылды 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/kk.svg?v=1789059640" alt="ffraud.com сайтында мекенжайды тегін тексеріңіз" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/kk.svg?v=1789061468" alt="ffraud.com сайтында мекенжайды тегін тексеріңіз" width="540"></a></p>
 
 Тастап кететін кіріс жәшіктері дәл жалған тіркелгілер жаппай жасалатын жол: тіркел, растау сілтемесін ал, тегін шекті жағып бітір, қайтала. Бұл [ffraud.com](https://ffraud.com) артында тұрған ашық бір реттік пошта дерекқоры: біз таба алатын әр уақытша және тастап кететін пошта домені, бір ғана мәтін файлында. Жаңа қызметтер күн сайын шығады, сондықтан тізім **әр 30 минут сайын** қайта құрылады: сіз тартқаныңыз дәл қазір тірі, өткен аптадағы сурет емес. Тіркеусіз, кілтсіз, шексіз.
 
 ## Қысқаша
 
-- **219 573** бір реттік және уақытша пошта домені, әр жолда біреуден, сұрыпталған, тікелей `Set` ішіне жүктеуге дайын
+- **219 575** бір реттік және уақытша пошта домені, әр жолда біреуден, сұрыпталған, тікелей `Set` ішіне жүктеуге дайын
 - **Әр 30 минут сайын** қайта құрылып жарияланады. Commit тарихы өзгерістер журналы, ал [`metadata.json`](metadata.json) құрастырудың нақты уақытын ұстайды
 - Анықтау тізіммен бітпейді: [ffraud.com](https://ffraud.com) артындағы қозғалтқыш бір реттік қызметтерді олардың **пошта инфрақұрылымынан** да таниды, сөйтіп мүлдем жаңа доменді пайда болған күні ұстайды, ол әлі ешқандай тізімге ілікпей тұрып
 - Кең тараған және ақылы пошта жеткізушілері әдейі **шығарылып тасталған**, өз доменіндегі шынайы клиент ешқашан бір реттік қызметпен шатастырылмауы үшін
@@ -34,7 +34,7 @@
 
 | Файл | Жол | Бұл не |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 573 | Әр жолда бір бір реттік немесе уақытша пошта домені, кіші әріппен және сұрыпталған |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 575 | Әр жолда бір бір реттік немесе уақытша пошта домені, кіші әріппен және сұрыпталған |
 | [`metadata.json`](../metadata.json) | &mdash; | Ағымдағы сан және UTC бойынша құрастыру уақыты, скрипт өз көшірмесінің қаншалықты жаңа екенін білуі үшін |
 
 ## Жылдам бастау
