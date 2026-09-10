@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789003848" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789005640" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219 530 jednorázových a dočasných e-mailových domén. Jeden prostý seznam, obnovovaný nepřetržitě.</b></p>
 <p align="center"><sub>Licence MIT &middot; bez registrace, bez API klíče, bez limitů na dotazy &middot; aktualizováno 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/cs.svg?v=1789003848" alt="Ověřit adresu zdarma na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/cs.svg?v=1789005640" alt="Ověřit adresu zdarma na ffraud.com" width="540"></a></p>
 
 Jednorázové schránky jsou přesně ta cesta, kterou se ve velkém vyrábějí falešné účty: zaregistrovat se, sebrat potvrzovací odkaz, spálit bezplatný tarif, znovu. Tohle je otevřená databáze jednorázových e-mailů za [ffraud.com](https://ffraud.com): každá dočasná a jednorázová poštovní doména, kterou dokážeme najít, v jednom textovém souboru. Nové služby vznikají každý den, takže se seznam **každých 30 minut** přestavuje: co si stáhnete, žije právě teď, není to snímek z minulého týdne. Bez registrace, bez klíče, bez limitů.
 
