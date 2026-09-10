@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789081238" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789083031" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,575 ஒருமுறை பயன்பாட்டு மற்றும் தற்காலிக மின்னஞ்சல் டொமைன்கள். ஒரே எளிய பட்டியல், இரவும் பகலும் புதுப்பிக்கப்படுகிறது.</b></p>
 <p align="center"><sub>MIT உரிமம் &middot; பதிவு இல்லை, API சாவி இல்லை, கோரிக்கை வரம்பு இல்லை &middot; புதுப்பிக்கப்பட்டது 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ta.svg?v=1789081238" alt="ffraud.com இல் ஒரு முகவரியை இலவசமாகச் சரிபார்க்கவும்" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ta.svg?v=1789083031" alt="ffraud.com இல் ஒரு முகவரியை இலவசமாகச் சரிபார்க்கவும்" width="540"></a></p>
 
 தூக்கி எறியும் இன்பாக்ஸ்கள்தான் போலி கணக்குகள் மொத்தமாகத் தயாரிக்கப்படும் வழி: பதிவு செய், உறுதிப்படுத்தல் இணைப்பை எடு, இலவச வரம்பை எரி, மீண்டும் தொடங்கு. இது [ffraud.com](https://ffraud.com) பின்னால் நிற்கும் திறந்த ஒருமுறை பயன்பாட்டு மின்னஞ்சல் தரவுத்தளம்: நாங்கள் கண்டுபிடிக்கக்கூடிய ஒவ்வொரு தற்காலிக மற்றும் தூக்கி எறியும் அஞ்சல் டொமைனும், ஒரே உரைக் கோப்பில். புதிய சேவைகள் தினமும் தோன்றுகின்றன, எனவே பட்டியல் **ஒவ்வொரு 30 நிமிடமும்** மீளக் கட்டப்படுகிறது: நீங்கள் இழுப்பது இப்போது உயிருடன் இருக்கிறது, கடந்த வாரத்துப் படம் அல்ல. பதிவு இல்லை, சாவி இல்லை, வரம்பு இல்லை.
 
