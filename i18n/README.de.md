@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789077665" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789079436" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219.575 Wegwerf-, Einweg- und Temporär-E-Mail-Domains. Eine schlichte Liste, rund um die Uhr aufgefrischt.</b></p>
 <p align="center"><sub>MIT-Lizenz &middot; keine Anmeldung, kein API-Schlüssel, kein Limit &middot; aktualisiert am 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/de.svg?v=1789077665" alt="Eine Adresse kostenlos auf ffraud.com prüfen" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/de.svg?v=1789079436" alt="Eine Adresse kostenlos auf ffraud.com prüfen" width="540"></a></p>
 
 Wegwerf-Postfächer sind der Weg, auf dem gefälschte Konten in Masse entstehen: anmelden, Bestätigungslink abgreifen, Gratiskontingent verbrennen, von vorn. Das ist die offene Wegwerf-E-Mail-Datenbank hinter [ffraud.com](https://ffraud.com), jede temporäre und Wegwerf-Maildomain, die wir finden können, in einer schlichten Textdatei. Neue Wegwerfdienste entstehen jeden Tag, deshalb wird die Liste **alle 30 Minuten** neu gebaut: Was Sie ziehen, ist gerade jetzt aktiv, keine Momentaufnahme von letzter Woche. Keine Anmeldung, kein API-Schlüssel, kein Limit.
 
