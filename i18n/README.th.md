@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789047038" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789048853" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>โดเมนอีเมลใช้แล้วทิ้งและชั่วคราว 219,573 รายการ รายการเดียวเรียบง่าย รีเฟรชตลอดทั้งวัน</b></p>
 <p align="center"><sub>สัญญาอนุญาต MIT &middot; ไม่ต้องสมัคร ไม่ต้องใช้คีย์ API ไม่จำกัดจำนวนคำขอ &middot; อัปเดตเมื่อ 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/th.svg?v=1789047038" alt="ตรวจสอบที่อยู่ฟรีบน ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/th.svg?v=1789048853" alt="ตรวจสอบที่อยู่ฟรีบน ffraud.com" width="540"></a></p>
 
 กล่องจดหมายใช้แล้วทิ้งคือเส้นทางที่ทำให้บัญชีปลอมถูกผลิตขึ้นเป็นจำนวนมาก: สมัคร รับลิงก์ยืนยัน เผาโควตาฟรี แล้วทำซ้ำ นี่คือฐานข้อมูลอีเมลใช้แล้วทิ้งแบบเปิดที่อยู่เบื้องหลัง [ffraud.com](https://ffraud.com) รวมทุกโดเมนอีเมลชั่วคราวและใช้แล้วทิ้งที่เราหาเจอ ไว้ในไฟล์ข้อความไฟล์เดียว บริการใหม่ผุดขึ้นทุกวัน รายการนี้จึงถูกสร้างใหม่**ทุก 30 นาที** สิ่งที่คุณดึงไปยังมีชีวิตอยู่ในขณะนี้ ไม่ใช่ภาพนิ่งจากสัปดาห์ที่แล้ว ไม่ต้องสมัคร ไม่ต้องใช้คีย์ ไม่มีขีดจำกัด
 
