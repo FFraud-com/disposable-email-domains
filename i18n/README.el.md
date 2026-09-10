@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788996636" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1788998439" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 # Αναλώσιμοι τομείς email, ανακατασκευάζονται κάθε 30 λεπτά
 
 <p align="center"><b>219.530 αναλώσιμοι και προσωρινοί τομείς email. Μία απλή λίστα, ανανεωμένη όλο το εικοσιτετράωρο.</b></p>
-<p align="center"><sub>Άδεια MIT &middot; χωρίς εγγραφή, χωρίς κλειδί API, χωρίς όρια αιτημάτων &middot; ενημερώθηκε 09.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/el.svg?v=1788996636" alt="Ελέγξτε μια διεύθυνση δωρεάν στο ffraud.com" width="540"></a></p>
+<p align="center"><sub>Άδεια MIT &middot; χωρίς εγγραφή, χωρίς κλειδί API, χωρίς όρια αιτημάτων &middot; ενημερώθηκε 10.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/el.svg?v=1788998439" alt="Ελέγξτε μια διεύθυνση δωρεάν στο ffraud.com" width="540"></a></p>
 
 Τα αναλώσιμα γραμματοκιβώτια είναι ακριβώς ο δρόμος με τον οποίο φτιάχνονται ψεύτικοι λογαριασμοί μαζικά: εγγραφή, αρπαγή του συνδέσμου επιβεβαίωσης, κάψιμο της δωρεάν βαθμίδας, επανάληψη. Αυτή είναι η ανοιχτή βάση αναλώσιμων email πίσω από το [ffraud.com](https://ffraud.com): κάθε προσωρινός και αναλώσιμος τομέας email που μπορούμε να βρούμε, σε ένα αρχείο κειμένου. Νέες υπηρεσίες εμφανίζονται κάθε μέρα, γι' αυτό η λίστα ανακατασκευάζεται **κάθε 30 λεπτά**: αυτό που κατεβάζετε ζει τώρα, δεν είναι στιγμιότυπο της περασμένης βδομάδας. Χωρίς εγγραφή, χωρίς κλειδί, χωρίς όρια.
 
