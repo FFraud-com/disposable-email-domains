@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789095641" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789097437" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <p align="center"><b>219,575 نطاق بريد مؤقت وعابر. قائمة واحدة بسيطة، تُحدَّث على مدار الساعة.</b></p>
 <p align="center"><sub>رخصة MIT &middot; بلا تسجيل، بلا مفتاح، بلا حدود &middot; آخر تحديث 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ar.svg?v=1789095641" alt="افحص عنوانًا مجانًا على ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ar.svg?v=1789097437" alt="افحص عنوانًا مجانًا على ffraud.com" width="540"></a></p>
 
 صناديق البريد المؤقتة هي الطريق الذي تُصنع به الحسابات المزيفة بالجملة: تسجيل، ثم التقاط رابط التأكيد، ثم استنفاد الباقة المجانية، ثم التكرار. هذه هي قاعدة البريد المؤقت المفتوحة التي يقوم عليها [ffraud.com](https://ffraud.com)، كل نطاق بريد مؤقت أو عابر نستطيع العثور عليه، في ملف نصي واحد. تظهر خدمات جديدة كل يوم، لذا يُعاد بناء القائمة **كل 30 دقيقة**: ما تسحبه حيّ الآن، لا لقطة من الأسبوع الماضي. بلا تسجيل، بلا مفتاح، بلا حدود.
 
