@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789129838" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789131642" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>တစ်ကြိမ်သုံးနှင့် ယာယီ အီးမေးလ် ဒိုမိန်း 219,575 ခု။ ရိုးရှင်းသော စာရင်းတစ်ခုတည်း၊ တစ်နေကုန်တစ်နေခန်း လတ်ဆတ်အောင် ပြုလုပ်သည်။</b></p>
 <p align="center"><sub>MIT လိုင်စင် &middot; မှတ်ပုံတင်စရာမလို၊ API သော့မလို၊ တောင်းဆိုမှု ကန့်သတ်ချက်မရှိ &middot; မွမ်းမံပြီး 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/my.svg?v=1789129838" alt="ffraud.com တွင် လိပ်စာတစ်ခုကို အခမဲ့ စစ်ဆေးပါ" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/my.svg?v=1789131642" alt="ffraud.com တွင် လိပ်စာတစ်ခုကို အခမဲ့ စစ်ဆေးပါ" width="540"></a></p>
 
 စွန့်ပစ်စာဝင်ပုံးများသည် အတုအယောင် အကောင့်များကို အစုလိုက် ထုတ်လုပ်သည့် လမ်းကြောင်းပင်ဖြစ်သည်- စာရင်းသွင်း၊ အတည်ပြုလင့်ခ်ယူ၊ အခမဲ့ကန့်သတ်ချက်ကို ကုန်အောင်သုံး၊ ပြန်စ။ ဤသည်မှာ [ffraud.com](https://ffraud.com) နောက်ကွယ်တွင် ရပ်တည်နေသော ပွင့်လင်း တစ်ကြိမ်သုံး အီးမေးလ် ဒေတာဘေ့စ်ဖြစ်သည်- ကျွန်ုပ်တို့ ရှာဖွေတွေ့ရှိနိုင်သမျှ ယာယီနှင့် စွန့်ပစ်စာတိုက် ဒိုမိန်းတိုင်း၊ စာသားဖိုင်တစ်ခုတည်းထဲတွင်။ ဝန်ဆောင်မှုအသစ်များ နေ့စဉ် ပေါ်လာသဖြင့် စာရင်းကို **မိနစ် ၃၀ တိုင်း** ပြန်တည်ဆောက်သည်- သင်ဆွဲယူသည့်အရာသည် ယခုအချိန်တွင် အသက်ရှင်နေဆဲဖြစ်ပြီး၊ ပြီးခဲ့သောအပတ်က ဓာတ်ပုံ မဟုတ်ပါ။ မှတ်ပုံတင်စရာမလို၊ သော့မလို၊ ကန့်သတ်ချက်မရှိ။
 

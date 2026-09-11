@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789129838" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789131642" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,575 डिस्पोजेबल और अस्थायी ईमेल डोमेन। एक सीधी-सादी सूची, चौबीसों घंटे ताज़ा होती हुई।</b></p>
 <p align="center"><sub>MIT लाइसेंस &middot; पंजीकरण नहीं, API कुंजी नहीं, अनुरोध सीमा नहीं &middot; अद्यतन 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hi.svg?v=1789129838" alt="ffraud.com पर एक पता मुफ़्त जाँचें" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hi.svg?v=1789131642" alt="ffraud.com पर एक पता मुफ़्त जाँचें" width="540"></a></p>
 
 फेंकने लायक इनबॉक्स ही वह रास्ता है जिससे बड़े पैमाने पर नक़ली खाते बनते हैं: साइनअप करो, पुष्टि लिंक उठाओ, मुफ़्त सीमा जला दो, फिर वही दोहराओ। यह [ffraud.com](https://ffraud.com) के पीछे खड़ा खुला डिस्पोजेबल ईमेल डेटाबेस है: हर अस्थायी और फेंकने लायक मेल डोमेन जो हमें मिल सका, एक ही टेक्स्ट फ़ाइल में। नई सेवाएँ रोज़ आती हैं, इसलिए सूची **हर 30 मिनट** में दोबारा बनती है: आप जो खींचते हैं वह इसी वक़्त ज़िंदा है, पिछले हफ़्ते की तस्वीर नहीं। न पंजीकरण, न कुंजी, न कोई सीमा।
 
