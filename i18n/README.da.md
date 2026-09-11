@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789106472" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789108232" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219.575 engangs- og midlertidige e-maildomæner. Én enkel liste, opdateret døgnet rundt.</b></p>
 <p align="center"><sub>MIT-licens &middot; ingen oprettelse, ingen API-nøgle, ingen kaldsgrænser &middot; opdateret 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/da.svg?v=1789106472" alt="Tjek en adresse gratis på ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/da.svg?v=1789108232" alt="Tjek en adresse gratis på ffraud.com" width="540"></a></p>
 
 Engangsindbakker er præcis den vej, falske konti fremstilles ad i stor stil: opret dig, hent bekræftelseslinket, brænd gratisniveauet af, gentag. Dette er den åbne engangsmaildatabase bag [ffraud.com](https://ffraud.com): hvert midlertidigt og engangs-maildomæne, vi kan finde, i én tekstfil. Nye tjenester dukker op hver dag, så listen genopbygges **hvert 30. minut**: det, du henter, lever nu, det er ikke et øjebliksbillede fra sidste uge. Ingen oprettelse, ingen nøgle, ingen grænser.
 
