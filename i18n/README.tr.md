@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789113659" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789115437" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219.575 tek kullanımlık ve geçici e-posta alan adı. Tek ve sade bir liste, gün boyu tazeleniyor.</b></p>
 <p align="center"><sub>MIT lisansı &middot; kayıt yok, API anahtarı yok, istek sınırı yok &middot; güncellendi 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/tr.svg?v=1789113659" alt="Bir adresi ffraud.com'da ücretsiz kontrol edin" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/tr.svg?v=1789115437" alt="Bir adresi ffraud.com'da ücretsiz kontrol edin" width="540"></a></p>
 
 Tek kullanımlık gelen kutuları, sahte hesapların toplu üretildiği yolun ta kendisidir: kaydol, onay bağlantısını al, ücretsiz hakkı yak, baştan başla. Bu, [ffraud.com](https://ffraud.com) arkasındaki açık tek kullanımlık e-posta veri tabanıdır: bulabildiğimiz her geçici ve tek kullanımlık posta alan adı, tek bir metin dosyasında. Her gün yeni hizmetler çıkıyor, bu yüzden liste **her 30 dakikada** yeniden derleniyor: çektiğiniz şey şu anda canlı, geçen haftadan kalma bir görüntü değil. Kayıt yok, anahtar yok, sınır yok.
 
