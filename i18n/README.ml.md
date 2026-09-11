@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789115437" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789117248" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,575 ഒറ്റത്തവണ, താൽക്കാലിക ഇമെയിൽ ഡൊമെയ്‌നുകൾ. ഒറ്റ ലളിതമായ പട്ടിക, രാവും പകലും പുതുക്കപ്പെടുന്നു.</b></p>
 <p align="center"><sub>MIT ലൈസൻസ് &middot; രജിസ്ട്രേഷനില്ല, API കീ ഇല്ല, അഭ്യർത്ഥനാ പരിധിയില്ല &middot; പുതുക്കിയത് 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ml.svg?v=1789115437" alt="ffraud.com ൽ ഒരു വിലാസം സൗജന്യമായി പരിശോധിക്കൂ" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ml.svg?v=1789117248" alt="ffraud.com ൽ ഒരു വിലാസം സൗജന്യമായി പരിശോധിക്കൂ" width="540"></a></p>
 
 വലിച്ചെറിയാവുന്ന ഇൻബോക്സുകളാണ് വ്യാജ അക്കൗണ്ടുകൾ കൂട്ടത്തോടെ ഉണ്ടാക്കുന്ന വഴി: രജിസ്റ്റർ ചെയ്യുക, സ്ഥിരീകരണ ലിങ്ക് എടുക്കുക, സൗജന്യ പരിധി കത്തിക്കുക, വീണ്ടും തുടങ്ങുക. ഇത് [ffraud.com](https://ffraud.com) ന് പിന്നിൽ നിൽക്കുന്ന തുറന്ന ഒറ്റത്തവണ ഇമെയിൽ ഡാറ്റാബേസാണ്: ഞങ്ങൾക്ക് കണ്ടെത്താനാകുന്ന എല്ലാ താൽക്കാലിക, വലിച്ചെറിയാവുന്ന മെയിൽ ഡൊമെയ്‌നും, ഒറ്റ ടെക്സ്റ്റ് ഫയലിൽ. പുതിയ സേവനങ്ങൾ ദിവസവും ഉയരുന്നു, അതിനാൽ പട്ടിക **ഓരോ 30 മിനിറ്റിലും** പുനർനിർമ്മിക്കപ്പെടുന്നു: നിങ്ങൾ വലിക്കുന്നത് ഇപ്പോൾ ജീവനുള്ളതാണ്, കഴിഞ്ഞ ആഴ്ചയിലെ ചിത്രമല്ല. രജിസ്ട്രേഷനില്ല, കീ ഇല്ല, പരിധിയില്ല.
 
