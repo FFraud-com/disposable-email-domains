@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789083031" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789084844" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 # एकदाच वापरायचे ईमेल डोमेन, दर 30 मिनिटांनी पुन्हा बांधले जातात
 
 <p align="center"><b>219,575 एकदाच वापरायचे आणि तात्पुरते ईमेल डोमेन. एकच साधी यादी, रात्रंदिवस ताजी केली जाते.</b></p>
-<p align="center"><sub>MIT परवाना &middot; नोंदणी नाही, API किल्ली नाही, विनंत्यांची मर्यादा नाही &middot; अद्ययावत 10.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/mr.svg?v=1789083031" alt="ffraud.com वर एक पत्ता मोफत तपासा" width="540"></a></p>
+<p align="center"><sub>MIT परवाना &middot; नोंदणी नाही, API किल्ली नाही, विनंत्यांची मर्यादा नाही &middot; अद्ययावत 11.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/mr.svg?v=1789084844" alt="ffraud.com वर एक पत्ता मोफत तपासा" width="540"></a></p>
 
 फेकून द्यायच्या इनबॉक्समधूनच बनावट खाती मोठ्या प्रमाणावर तयार होतात: नोंदणी कर, पडताळणीची दुवा उचल, मोफत मर्यादा जाळ, पुन्हा सुरू कर. हा [ffraud.com](https://ffraud.com) मागे उभा असलेला खुला एकदाच वापरायच्या ईमेलचा डेटाबेस आहे: आम्हाला सापडलेला प्रत्येक तात्पुरता आणि फेकून द्यायचा टपाल डोमेन, एकाच मजकूर फाइलमध्ये. नव्या सेवा रोज उगवतात, म्हणून यादी **दर 30 मिनिटांनी** पुन्हा बांधली जाते: तुम्ही जे ओढता ते आत्ता जिवंत आहे, गेल्या आठवड्याचे छायाचित्र नाही. नोंदणी नाही, किल्ली नाही, मर्यादा नाही.
 
