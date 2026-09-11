@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789135250" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789137038" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <p align="center"><b>219,575 دامنهٔ ایمیل یک‌بارمصرف و موقت. یک فهرست ساده، شبانه‌روز تازه می‌شود.</b></p>
 <p align="center"><sub>پروانهٔ MIT &middot; بدون ثبت‌نام، بدون کلید API، بدون محدودیت درخواست &middot; به‌روزرسانی 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fa.svg?v=1789135250" alt="یک نشانی را رایگان در ffraud.com بررسی کنید" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fa.svg?v=1789137038" alt="یک نشانی را رایگان در ffraud.com بررسی کنید" width="540"></a></p>
 
 صندوق‌های یک‌بارمصرف دقیقاً همان راهی هستند که حساب‌های جعلی را انبوه می‌سازند: ثبت‌نام کن، پیوند تأیید را بردار، سهمیهٔ رایگان را بسوزان، دوباره از نو. این پایگاه دادهٔ باز ایمیل یک‌بارمصرف است که پشت [ffraud.com](https://ffraud.com) ایستاده: هر دامنهٔ ایمیل موقت و یک‌بارمصرفی که توانسته‌ایم پیدا کنیم، در یک فایل متنی. سرویس‌های تازه هر روز پیدا می‌شوند، پس فهرست **هر ۳۰ دقیقه** بازسازی می‌شود: آنچه می‌گیرید همین حالا زنده است، نه عکسی از هفتهٔ گذشته. بدون ثبت‌نام، بدون کلید، بدون محدودیت.
 
