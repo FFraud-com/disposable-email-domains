@@ -1,12 +1,12 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789149648" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789151444" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/الموقع-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="الموقع"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/نطاقات_مؤقتة-219,575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="نطاقات مؤقتة"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/نطاقات_مؤقتة-219,608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="نطاقات مؤقتة"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/عناوين_خبيثة-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="عناوين خبيثة"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/يُعاد_بناؤها-كل_30_دقيقة-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="يُعاد بناؤها"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/واجهة_مجانية-بدون_مفتاح-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="واجهة مجانية"></a>
@@ -17,15 +17,15 @@
 
 # نطاقات البريد المؤقت، يُعاد بناؤها كل 30 دقيقة
 
-<p align="center"><b>219,575 نطاق بريد مؤقت وعابر. قائمة واحدة بسيطة، تُحدَّث على مدار الساعة.</b></p>
+<p align="center"><b>219,608 نطاق بريد مؤقت وعابر. قائمة واحدة بسيطة، تُحدَّث على مدار الساعة.</b></p>
 <p align="center"><sub>رخصة MIT &middot; بلا تسجيل، بلا مفتاح، بلا حدود &middot; آخر تحديث 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ar.svg?v=1789149648" alt="افحص عنوانًا مجانًا على ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ar.svg?v=1789151444" alt="افحص عنوانًا مجانًا على ffraud.com" width="540"></a></p>
 
 صناديق البريد المؤقتة هي الطريق الذي تُصنع به الحسابات المزيفة بالجملة: تسجيل، ثم التقاط رابط التأكيد، ثم استنفاد الباقة المجانية، ثم التكرار. هذه هي قاعدة البريد المؤقت المفتوحة التي يقوم عليها [ffraud.com](https://ffraud.com)، كل نطاق بريد مؤقت أو عابر نستطيع العثور عليه، في ملف نصي واحد. تظهر خدمات جديدة كل يوم، لذا يُعاد بناء القائمة **كل 30 دقيقة**: ما تسحبه حيّ الآن، لا لقطة من الأسبوع الماضي. بلا تسجيل، بلا مفتاح، بلا حدود.
 
 ## أرقام سريعة
 
-- **219,575** نطاق بريد مؤقت، نطاق في كل سطر، مرتبة وجاهزة للتحميل في `Set`
+- **219,608** نطاق بريد مؤقت، نطاق في كل سطر، مرتبة وجاهزة للتحميل في `Set`
 - يُعاد بناؤها وتُرفع **كل 30 دقيقة**. سجل الإيداعات هو سجل التغييرات، و[`metadata.json`](metadata.json) يحمل وقت البناء بدقة
 - الكشف يتجاوز القائمة نفسها: المحرك خلف [ffraud.com](https://ffraud.com) يتعرف على الخدمات المؤقتة من **بنيتها البريدية** أيضًا، فيلتقط نطاقًا جديدًا تمامًا يوم ظهوره قبل أن يصل إلى أي قائمة
 - مزوّدو البريد المعروفون والمدفوعون **مستبعدون** عمدًا، فلا يُخلط عميل حقيقي على نطاقه الخاص بخدمة مؤقتة أبدًا
@@ -36,7 +36,7 @@
 
 | الملف | الصفوف | ما هو |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,575 | نطاق بريد مؤقت أو عابر في كل سطر، بحروف صغيرة ومرتب |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,608 | نطاق بريد مؤقت أو عابر في كل سطر، بحروف صغيرة ومرتب |
 | [`metadata.json`](../metadata.json) | &mdash; | العدد الحي ووقت البناء بتوقيت UTC، ليعرف أي سكربت مدى حداثة نسخته |
 
 ## بداية سريعة

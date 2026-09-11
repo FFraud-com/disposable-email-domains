@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789149648" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789151444" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Webbplats-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Webbplats"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Engångsdomäner-219 575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Engångsdomäner"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Engångsdomäner-219 608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Engångsdomäner"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Skadliga_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Skadliga IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Byggs_om-var_30:e_minut-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Byggs om"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Gratis_API-utan_nyckel-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Gratis API"></a>
@@ -15,15 +15,15 @@
 
 # Engångsdomäner för e-post, ombyggda var 30:e minut
 
-<p align="center"><b>219 575 engångs- och tillfälliga e-postdomäner. En enkel lista, uppdaterad dygnet runt.</b></p>
+<p align="center"><b>219 608 engångs- och tillfälliga e-postdomäner. En enkel lista, uppdaterad dygnet runt.</b></p>
 <p align="center"><sub>MIT-licens &middot; ingen registrering, ingen API-nyckel, inga anropsgränser &middot; uppdaterad 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sv.svg?v=1789149648" alt="Kontrollera en adress gratis på ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sv.svg?v=1789151444" alt="Kontrollera en adress gratis på ffraud.com" width="540"></a></p>
 
 Engångsinkorgar är precis vägen som falska konton tillverkas på i stor skala: registrera, hämta bekräftelselänken, bränn gratisnivån, upprepa. Det här är den öppna engångsmejldatabasen bakom [ffraud.com](https://ffraud.com): varje tillfällig och slit-och-släng-e-postdomän vi kan hitta, i en enda textfil. Nya tjänster dyker upp varje dag, så listan byggs om **var 30:e minut**: det du hämtar lever nu, det är ingen ögonblicksbild från förra veckan. Ingen registrering, ingen nyckel, inga gränser.
 
 ## Kort och gott
 
-- **219 575** engångs- och tillfälliga e-postdomäner, en per rad, sorterade, redo att läsas in i ett `Set`
+- **219 608** engångs- och tillfälliga e-postdomäner, en per rad, sorterade, redo att läsas in i ett `Set`
 - Byggs om och publiceras **var 30:e minut**. Commit-historiken är ändringsloggen, och [`metadata.json`](metadata.json) bär den exakta byggtiden
 - Upptäckten stannar inte vid listan: motorn bakom [ffraud.com](https://ffraud.com) känner också igen engångstjänster på deras **e-postinfrastruktur**, vilket fångar en helt ny domän samma dag den dyker upp, innan någon lista har den
 - Vanliga och betalda e-postleverantörer är medvetet **uteslutna**, så att en riktig kund på sin egen domän aldrig förväxlas med en engångstjänst
@@ -34,7 +34,7 @@ Engångsinkorgar är precis vägen som falska konton tillverkas på i stor skala
 
 | Fil | Rader | Vad det är |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 575 | En engångs- eller tillfällig e-postdomän per rad, i gemener och sorterade |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 608 | En engångs- eller tillfällig e-postdomän per rad, i gemener och sorterade |
 | [`metadata.json`](../metadata.json) | &mdash; | Det aktuella antalet och byggtiden i UTC, så att ett skript vet hur färsk dess kopia är |
 
 ## Kom igång

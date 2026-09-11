@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789149648" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789151444" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Nettsted-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Nettsted"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Engangsdomener-219 575-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Engangsdomener"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Engangsdomener-219 608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Engangsdomener"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Ondsinnede_IP--er-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ondsinnede IP-er"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Bygges_om-hvert_30._minutt-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bygges om"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Gratis_API-uten_nøkkel-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Gratis API"></a>
@@ -15,15 +15,15 @@
 
 # Engangsdomener for e-post, bygget om hvert 30. minutt
 
-<p align="center"><b>219 575 engangs- og midlertidige e-postdomener. Én enkel liste, oppdatert døgnet rundt.</b></p>
+<p align="center"><b>219 608 engangs- og midlertidige e-postdomener. Én enkel liste, oppdatert døgnet rundt.</b></p>
 <p align="center"><sub>MIT-lisens &middot; ingen registrering, ingen API-nøkkel, ingen kallgrenser &middot; oppdatert 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/nb.svg?v=1789149648" alt="Sjekk en adresse gratis på ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/nb.svg?v=1789151444" alt="Sjekk en adresse gratis på ffraud.com" width="540"></a></p>
 
 Engangsinnbokser er nettopp veien falske kontoer lages på i stor skala: registrer deg, hent bekreftelseslenken, brenn gratisnivået, gjenta. Dette er den åpne engangs-e-postdatabasen bak [ffraud.com](https://ffraud.com): hvert midlertidige og engangs-e-postdomene vi klarer å finne, i én tekstfil. Nye tjenester dukker opp hver dag, så listen bygges om **hvert 30. minutt**: det du henter, lever nå, det er ikke et øyeblikksbilde fra forrige uke. Ingen registrering, ingen nøkkel, ingen grenser.
 
 ## Kort fortalt
 
-- **219 575** engangs- og midlertidige e-postdomener, ett per linje, sortert, klare til å leses inn i et `Set`
+- **219 608** engangs- og midlertidige e-postdomener, ett per linje, sortert, klare til å leses inn i et `Set`
 - Bygges om og publiseres **hvert 30. minutt**. Commit-historikken er endringsloggen, og [`metadata.json`](metadata.json) bærer det eksakte byggetidspunktet
 - Gjenkjenningen stopper ikke ved listen: motoren bak [ffraud.com](https://ffraud.com) kjenner også igjen engangstjenester på **e-postinfrastrukturen** deres, og fanger dermed et helt nytt domene samme dag det dukker opp, før noen liste har det
 - De store og de betalte e-postleverandørene er bevisst **utelatt**, slik at en ekte kunde på sitt eget domene aldri forveksles med en engangstjeneste
@@ -34,7 +34,7 @@ Engangsinnbokser er nettopp veien falske kontoer lages på i stor skala: registr
 
 | Fil | Rader | Hva det er |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 575 | Ett engangs- eller midlertidig e-postdomene per linje, med små bokstaver og sortert |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 608 | Ett engangs- eller midlertidig e-postdomene per linje, med små bokstaver og sortert |
 | [`metadata.json`](../metadata.json) | &mdash; | Det oppdaterte tallet og byggetidspunktet i UTC, så et skript vet hvor ferskt eksemplaret er |
 
 ## Kom raskt i gang
