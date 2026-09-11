@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789138843" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789140634" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,575 個拋棄式、臨時、用完即丟的信箱網域。一份純粹的清單，全天候更新。</b></p>
 <p align="center"><sub>MIT 授權 &middot; 免註冊、免金鑰、無流量限制 &middot; 更新於 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/zh-TW.svg?v=1789138843" alt="在 ffraud.com 上免費檢測一個信箱" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/zh-TW.svg?v=1789140634" alt="在 ffraud.com 上免費檢測一個信箱" width="540"></a></p>
 
 臨時收件匣正是大量製造假帳號的那條路：註冊、拿到確認連結、燒掉免費額度、再來一遍。這是 [ffraud.com](https://ffraud.com) 背後的開放拋棄式信箱資料庫，我們能找到的每一個臨時、拋棄式、用完即丟的郵件網域，都在一個純文字檔裡。新的臨時信箱服務每天都在冒出來，所以這份清單**每 30 分鐘**重建一次：你拉到的是此刻還活著的，不是上週的快照。免註冊、免金鑰、無流量限制。
 
