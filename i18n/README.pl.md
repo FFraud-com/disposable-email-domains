@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789174919" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789176635" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219 608 jednorazowych i tymczasowych domen pocztowych. Jedna prosta lista, odświeżana przez całą dobę.</b></p>
 <p align="center"><sub>Licencja MIT &middot; bez rejestracji, bez klucza API, bez limitów zapytań &middot; zaktualizowano 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/pl.svg?v=1789174919" alt="Sprawdź adres za darmo na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/pl.svg?v=1789176635" alt="Sprawdź adres za darmo na ffraud.com" width="540"></a></p>
 
 Jednorazowe skrzynki to dokładnie ta droga, którą masowo powstają fałszywe konta: rejestracja, odbiór linku potwierdzającego, wypalenie darmowego pakietu, od nowa. To otwarta baza poczty jednorazowej stojąca za [ffraud.com](https://ffraud.com): każda tymczasowa i jednorazowa domena pocztowa, jaką potrafimy znaleźć, w jednym pliku tekstowym. Nowe usługi pojawiają się codziennie, więc lista jest przebudowywana **co 30 minut**: to, co pobierasz, żyje teraz, a nie jest zdjęciem sprzed tygodnia. Bez rejestracji, bez klucza, bez limitów.
 
