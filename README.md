@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789180238" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789182043" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,608 disposable, temporary and throwaway email domains. One plain list, refreshed around the clock.</b></p>
 <p align="center"><sub>MIT licensed &middot; no signup, no API key, no rate limits &middot; updated 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/en.svg?v=1789180238" alt="Check an address free on ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/en.svg?v=1789182043" alt="Check an address free on ffraud.com" width="540"></a></p>
 
 Throwaway inboxes are how fake accounts get made at scale: sign up, grab the confirmation link, burn the free tier, repeat. This is the open disposable-email database behind [ffraud.com](https://ffraud.com), every temporary, disposable and throwaway mail domain we can find, in one plain text file. New throwaway services appear every single day, so the list is rebuilt **every 30 minutes**: what you pull is what is live right now, not a snapshot from last week. No signup, no API key, no rate limits.
 
