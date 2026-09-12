@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789173035" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789174919" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219.608 domini di posta usa e getta e temporanei. Un elenco semplice, aggiornato senza sosta.</b></p>
 <p align="center"><sub>Licenza MIT &middot; senza registrazione, senza chiave API, senza limiti di richieste &middot; aggiornato il 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/it.svg?v=1789173035" alt="Controlla un indirizzo gratis su ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/it.svg?v=1789174919" alt="Controlla un indirizzo gratis su ffraud.com" width="540"></a></p>
 
 Le caselle usa e getta sono esattamente la via con cui si fabbricano account falsi su larga scala: ci si registra, si prende il link di conferma, si brucia il piano gratuito, si ricomincia. Questo è il database aperto delle email usa e getta dietro a [ffraud.com](https://ffraud.com): tutti i domini di posta temporanei e usa e getta che riusciamo a trovare, in un unico file di testo. Ogni giorno nascono nuovi servizi, quindi l'elenco viene ricostruito **ogni 30 minuti**: quello che scarichi è vivo adesso, non è una fotografia della settimana scorsa. Senza registrazione, senza chiave, senza limiti.
 
