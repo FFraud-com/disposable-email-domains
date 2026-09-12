@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789218041" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789219835" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Կայք-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Կայք"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Մեկանգամյա_տիրույթներ-219,610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Մեկանգամյա տիրույթներ"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Մեկանգամյա_տիրույթներ-219,617-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Մեկանգամյա տիրույթներ"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Վնասաբեր_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Վնասաբեր IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Վերակառուցվում_է-ամեն_30_րոպեն_մեկ-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Վերակառուցվում է"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Անվճար_API-առանց_բանալու-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Անվճար API"></a>
@@ -15,15 +15,15 @@
 
 # Մեկանգամյա էլփոստի տիրույթներ, վերակառուցվում են ամեն 30 րոպեն մեկ
 
-<p align="center"><b>219,610 մեկանգամյա և ժամանակավոր էլփոստի տիրույթ։ Մեկ պարզ ցանկ, թարմացվում է շուրջօրյա։</b></p>
+<p align="center"><b>219,617 մեկանգամյա և ժամանակավոր էլփոստի տիրույթ։ Մեկ պարզ ցանկ, թարմացվում է շուրջօրյա։</b></p>
 <p align="center"><sub>MIT արտոնագիր &middot; առանց գրանցման, առանց API բանալու, առանց հարցումների սահմանի &middot; թարմացվել է 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hy.svg?v=1789218041" alt="Ստուգեք հասցեն անվճար ffraud.com-ում" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hy.svg?v=1789219835" alt="Ստուգեք հասցեն անվճար ffraud.com-ում" width="540"></a></p>
 
 Դեն նետվող մուտքի արկղերը հենց այն ճանապարհն են, որով կեղծ հաշիվները զանգվածաբար պատրաստվում են՝ գրանցվիր, վերցրու հաստատման հղումը, այրիր անվճար սահմանը, նորից սկսիր։ Սա [ffraud.com](https://ffraud.com)-ի հետևում կանգնած բաց մեկանգամյա էլփոստի շտեմարանն է՝ ամեն ժամանակավոր և դեն նետվող փոստային տիրույթ, որ կարողանում ենք գտնել, մեկ տեքստային ֆայլում։ Նոր ծառայություններ ամեն օր են ծլում, ուստի ցանկը **ամեն 30 րոպեն մեկ** վերակառուցվում է. այն, ինչ քաշում եք, հենց հիմա կենդանի է, և ոչ թե անցյալ շաբաթվա նկար։ Առանց գրանցման, առանց բանալու, առանց սահմանների։
 
 ## Համառոտ
 
-- **219,610** մեկանգամյա և ժամանակավոր էլփոստի տիրույթ, տողում մեկական, դասավորված, պատրաստ ուղղակի `Set`-ի մեջ բեռնելու
+- **219,617** մեկանգամյա և ժամանակավոր էլփոստի տիրույթ, տողում մեկական, դասավորված, պատրաստ ուղղակի `Set`-ի մեջ բեռնելու
 - **Ամեն 30 րոպեն մեկ** վերակառուցվում և հրապարակվում է։ Commit-ների պատմությունը փոփոխությունների գրանցամատյանն է, իսկ [`metadata.json`](metadata.json)-ը կրում է կառուցման ճշգրիտ ժամանակը
 - Հայտնաբերումը ցանկով չի ավարտվում. [ffraud.com](https://ffraud.com)-ի հետևում գտնվող շարժիչը մեկանգամյա ծառայությունները ճանաչում է նաև իրենց **փոստային ենթակառուցվածքով**, և այդպես բոլորովին նոր տիրույթը բռնում է հայտնվելու օրը, նախքան որևէ ցանկում հայտնվելը
 - Լայն տարածում ունեցող և վճարովի փոստային մատակարարները միտումնավոր **բացառված են**, որպեսզի սեփական տիրույթի վրա գտնվող իրական հաճախորդը երբեք մեկանգամյա ծառայության հետ չշփոթվի
@@ -34,7 +34,7 @@
 
 | Ֆայլ | Տողեր | Ինչ է սա |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,610 | Տողում մեկ մեկանգամյա կամ ժամանակավոր էլփոստի տիրույթ, փոքրատառերով և դասավորված |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,617 | Տողում մեկ մեկանգամյա կամ ժամանակավոր էլփոստի տիրույթ, փոքրատառերով և դասավորված |
 | [`metadata.json`](../metadata.json) | &mdash; | Ընթացիկ քանակը և կառուցման ժամանակը UTC-ով, որպեսզի սկրիպտն իմանա՝ որքան թարմ է իր օրինակը |
 
 ## Արագ մեկնարկ
