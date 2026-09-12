@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789169437" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789171252" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 # דומייני דוא"ל חד־פעמיים, נבנים מחדש כל 30 דקות
 
 <p align="center"><b>219,608 דומייני דואר חד־פעמיים וזמניים. רשימה פשוטה אחת, מתרעננת מסביב לשעון.</b></p>
-<p align="center"><sub>רישיון MIT &middot; בלי הרשמה, בלי מפתח API, בלי הגבלת בקשות &middot; עודכן 11.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/he.svg?v=1789169437" alt="בדקו כתובת בחינם ב‑ffraud.com" width="540"></a></p>
+<p align="center"><sub>רישיון MIT &middot; בלי הרשמה, בלי מפתח API, בלי הגבלת בקשות &middot; עודכן 12.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/he.svg?v=1789171252" alt="בדקו כתובת בחינם ב‑ffraud.com" width="540"></a></p>
 
 תיבות חד־פעמיות הן בדיוק הדרך שבה מייצרים חשבונות מזויפים בהיקף גדול: נרשמים, אוספים את קישור האישור, שורפים את המכסה החינמית וחוזר חלילה. זהו מסד הדוא"ל החד־פעמי הפתוח שמאחורי [ffraud.com](https://ffraud.com): כל דומיין דואר זמני וחד־פעמי שהצלחנו למצוא, בקובץ טקסט אחד. שירותים חדשים צצים כל יום, ולכן הרשימה נבנית מחדש **כל 30 דקות**: מה שאתם מושכים חי עכשיו, זה לא צילום מהשבוע שעבר. בלי הרשמה, בלי מפתח, בלי הגבלות.
 
