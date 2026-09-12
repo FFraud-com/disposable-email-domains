@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789183836" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789185643" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,608টি একবার-ব্যবহারের ও অস্থায়ী ইমেইল ডোমেইন। একটিমাত্র সরল তালিকা, চব্বিশ ঘণ্টাই তাজা করা হয়।</b></p>
 <p align="center"><sub>MIT লাইসেন্স &middot; নিবন্ধন নেই, API কি নেই, অনুরোধের সীমা নেই &middot; হালনাগাদ 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/bn.svg?v=1789183836" alt="ffraud.com-এ একটি ঠিকানা বিনামূল্যে যাচাই করুন" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/bn.svg?v=1789185643" alt="ffraud.com-এ একটি ঠিকানা বিনামূল্যে যাচাই করুন" width="540"></a></p>
 
 ফেলে দেওয়ার ইনবক্সই সেই পথ যেখান দিয়ে বিপুল সংখ্যায় ভুয়া অ্যাকাউন্ট বানানো হয়: সাইনআপ করো, নিশ্চিতকরণ লিংক নাও, বিনামূল্যের কোটা পুড়িয়ে দাও, আবার শুরু করো। এটি [ffraud.com](https://ffraud.com)-এর পেছনে থাকা উন্মুক্ত একবার-ব্যবহারের ইমেইল ডেটাবেস: আমরা খুঁজে পাওয়া প্রতিটি অস্থায়ী ও ফেলে দেওয়ার মেইল ডোমেইন, একটিমাত্র টেক্সট ফাইলে। প্রতিদিনই নতুন সেবা গজায়, তাই তালিকাটি **প্রতি ৩০ মিনিটে** নতুন করে তৈরি হয়: আপনি যা টানছেন তা এই মুহূর্তে জীবিত, গত সপ্তাহের ছবি নয়। নিবন্ধন নেই, কি নেই, সীমা নেই।
 
