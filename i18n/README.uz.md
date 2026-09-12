@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789187436" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789189303" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sayt-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sayt"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Bir_martalik_domenlar-219 608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bir martalik domenlar"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Bir_martalik_domenlar-219 610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bir martalik domenlar"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Zararli_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zararli IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Qayta_quriladi-har_30_daqiqada-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Qayta quriladi"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Bepul_API-kalitsiz-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bepul API"></a>
@@ -15,15 +15,15 @@
 
 # Bir martalik pochta domenlari, har 30 daqiqada qayta quriladi
 
-<p align="center"><b>219 608 bir martalik va vaqtinchalik pochta domeni. Bitta oddiy roʻyxat, kecha-kunduz yangilanadi.</b></p>
+<p align="center"><b>219 610 bir martalik va vaqtinchalik pochta domeni. Bitta oddiy roʻyxat, kecha-kunduz yangilanadi.</b></p>
 <p align="center"><sub>MIT litsenziyasi &middot; roʻyxatdan oʻtmasdan, API kalitisiz, soʻrov chegarasisiz &middot; yangilandi 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/uz.svg?v=1789187436" alt="ffraud.com da manzilni bepul tekshiring" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/uz.svg?v=1789189303" alt="ffraud.com da manzilni bepul tekshiring" width="540"></a></p>
 
 Tashlab yuboriladigan kirish qutilari aynan soxta hisoblar ommaviy yasaladigan yoʻldir: roʻyxatdan oʻt, tasdiq havolasini ol, bepul chegarani yoqib yubor, yana boshla. Bu [ffraud.com](https://ffraud.com) ortida turgan ochiq bir martalik pochta bazasi: topa olganimiz har bir vaqtinchalik va tashlab yuboriladigan pochta domeni, bitta matn faylida. Yangi xizmatlar har kuni chiqadi, shu bois roʻyxat **har 30 daqiqada** qayta quriladi: siz tortayotgan narsa hozir tirik, oʻtgan haftadagi surat emas. Roʻyxatdan oʻtmasdan, kalitsiz, cheklovsiz.
 
 ## Qisqacha
 
-- **219 608** bir martalik va vaqtinchalik pochta domeni, har qatorda bittadan, saralangan, bevosita `Set` ichiga yuklashga tayyor
+- **219 610** bir martalik va vaqtinchalik pochta domeni, har qatorda bittadan, saralangan, bevosita `Set` ichiga yuklashga tayyor
 - **Har 30 daqiqada** qayta qurilib chop etiladi. Commit tarixi oʻzgarishlar qaydnomasi, [`metadata.json`](metadata.json) esa aniq yigʻish vaqtini saqlaydi
 - Aniqlash roʻyxat bilan tugamaydi: [ffraud.com](https://ffraud.com) ortidagi dvigatel bir martalik xizmatlarni ularning **pochta infratuzilmasidan** ham taniydi va shu tariqa mutlaqo yangi domenni paydo boʻlgan kuniyoq ushlaydi, u hali biror roʻyxatga tushmasdan oldin
 - Ommaviy va pullik pochta taʼminotchilari ataylab **chetda qoldirilgan**, oʻz domenidagi haqiqiy mijoz hech qachon bir martalik xizmat bilan adashtirilmasligi uchun
@@ -34,7 +34,7 @@ Tashlab yuboriladigan kirish qutilari aynan soxta hisoblar ommaviy yasaladigan y
 
 | Fayl | Qator | Bu nima |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 608 | Har qatorda bitta bir martalik yoki vaqtinchalik pochta domeni, kichik harflarda va saralangan |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219 610 | Har qatorda bitta bir martalik yoki vaqtinchalik pochta domeni, kichik harflarda va saralangan |
 | [`metadata.json`](../metadata.json) | &mdash; | Joriy son va UTC boʻyicha yigʻish vaqti, skript oʻz nusxasining qanchalik yangi ekanini bilishi uchun |
 
 ## Tez boshlash

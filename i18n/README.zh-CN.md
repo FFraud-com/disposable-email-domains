@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789187436" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789189303" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/官网-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="官网"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/一次性域名-219,608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="一次性域名"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/一次性域名-219,610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="一次性域名"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/恶意_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="恶意 IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/重建频率-每_30_分钟-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="重建频率"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/免费_API-无需密钥-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="免费 API"></a>
@@ -15,15 +15,15 @@
 
 # 一次性邮箱域名，每 30 分钟重建一次
 
-<p align="center"><b>219,608 个一次性、临时、用完即弃的邮箱域名。一份纯粹的清单，全天候刷新。</b></p>
+<p align="center"><b>219,610 个一次性、临时、用完即弃的邮箱域名。一份纯粹的清单，全天候刷新。</b></p>
 <p align="center"><sub>MIT 许可 &middot; 无需注册、无需密钥、没有速率限制 &middot; 更新于 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/zh-CN.svg?v=1789187436" alt="在 ffraud.com 上免费检测一个邮箱" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/zh-CN.svg?v=1789189303" alt="在 ffraud.com 上免费检测一个邮箱" width="540"></a></p>
 
 临时收件箱正是批量制造假账号的那条路：注册、拿到确认链接、烧掉免费额度、再来一遍。这是 [ffraud.com](https://ffraud.com) 背后的开放一次性邮箱数据库，我们能找到的每一个临时、一次性、用完即弃的邮件域名，都在一个纯文本文件里。新的临时邮箱服务每天都在冒出来，所以这份清单**每 30 分钟**重建一次：你拉到的是此刻还活着的，不是上周的快照。无需注册、无需密钥、没有速率限制。
 
 ## 关键数字
 
-- **219,608** 个一次性与临时邮箱域名，每行一个，已排序，可直接读进 `Set`
+- **219,610** 个一次性与临时邮箱域名，每行一个，已排序，可直接读进 `Set`
 - **每 30 分钟**重建并推送一次。提交历史就是变更日志，[`metadata.json`](metadata.json) 记录了精确的构建时间
 - 识别能力不止这份清单：[ffraud.com](https://ffraud.com) 背后的引擎还会通过**邮件基础设施**认出临时邮箱服务，因此一个全新域名在出现的当天就能被抓到，比任何清单都早
 - 主流与付费邮件服务商被刻意**排除在外**，用自有域名的真实客户绝不会被误认成临时邮箱服务
@@ -34,7 +34,7 @@
 
 | 文件 | 行数 | 说明 |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,608 | 每行一个一次性或临时邮箱域名，全部小写并已排序 |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,610 | 每行一个一次性或临时邮箱域名，全部小写并已排序 |
 | [`metadata.json`](../metadata.json) | &mdash; | 实时计数与 UTC 构建时间，脚本据此判断自己这份副本有多新 |
 
 ## 快速开始

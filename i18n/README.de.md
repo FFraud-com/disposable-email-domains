@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789187436" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789189303" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Website-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Website"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Wegwerf--Domains-219.608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Wegwerf-Domains"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Wegwerf--Domains-219.610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Wegwerf-Domains"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Bösartige_IPs-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bösartige IPs"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Neu_gebaut-alle_30_Minuten-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Neu gebaut"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Kostenlose_API-ohne_Schlüssel-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kostenlose API"></a>
@@ -15,15 +15,15 @@
 
 # Wegwerf-E-Mail-Domains, alle 30 Minuten neu gebaut
 
-<p align="center"><b>219.608 Wegwerf-, Einweg- und Temporär-E-Mail-Domains. Eine schlichte Liste, rund um die Uhr aufgefrischt.</b></p>
+<p align="center"><b>219.610 Wegwerf-, Einweg- und Temporär-E-Mail-Domains. Eine schlichte Liste, rund um die Uhr aufgefrischt.</b></p>
 <p align="center"><sub>MIT-Lizenz &middot; keine Anmeldung, kein API-Schlüssel, kein Limit &middot; aktualisiert am 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/de.svg?v=1789187436" alt="Eine Adresse kostenlos auf ffraud.com prüfen" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/de.svg?v=1789189303" alt="Eine Adresse kostenlos auf ffraud.com prüfen" width="540"></a></p>
 
 Wegwerf-Postfächer sind der Weg, auf dem gefälschte Konten in Masse entstehen: anmelden, Bestätigungslink abgreifen, Gratiskontingent verbrennen, von vorn. Das ist die offene Wegwerf-E-Mail-Datenbank hinter [ffraud.com](https://ffraud.com), jede temporäre und Wegwerf-Maildomain, die wir finden können, in einer schlichten Textdatei. Neue Wegwerfdienste entstehen jeden Tag, deshalb wird die Liste **alle 30 Minuten** neu gebaut: Was Sie ziehen, ist gerade jetzt aktiv, keine Momentaufnahme von letzter Woche. Keine Anmeldung, kein API-Schlüssel, kein Limit.
 
 ## Die wichtigsten Zahlen
 
-- **219.608** Wegwerf- und Temporär-E-Mail-Domains, eine pro Zeile, sortiert, fertig für ein `Set`
+- **219.610** Wegwerf- und Temporär-E-Mail-Domains, eine pro Zeile, sortiert, fertig für ein `Set`
 - Wird **alle 30 Minuten** neu gebaut und hochgeladen. Die Commit-Historie ist das Änderungsprotokoll, und [`metadata.json`](metadata.json) trägt die genaue Bauzeit
 - Die Erkennung geht über die Liste hinaus: Die Engine hinter [ffraud.com](https://ffraud.com) erkennt Wegwerfdienste auch an ihrer **Mail-Infrastruktur**, und fängt damit eine brandneue Domain am Tag ihres Auftauchens ab, bevor sie auf irgendeiner Liste steht
 - Verbreitete und kostenpflichtige Mailanbieter sind bewusst **ausgeschlossen**, damit ein echter Kunde mit eigener Domain nie für einen Wegwerfdienst gehalten wird
@@ -34,7 +34,7 @@ Wegwerf-Postfächer sind der Weg, auf dem gefälschte Konten in Masse entstehen:
 
 | Datei | Zeilen | Was es ist |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.608 | Eine Wegwerf- oder Temporär-E-Mail-Domain pro Zeile, kleingeschrieben und sortiert |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219.610 | Eine Wegwerf- oder Temporär-E-Mail-Domain pro Zeile, kleingeschrieben und sortiert |
 | [`metadata.json`](../metadata.json) | &mdash; | Der aktuelle Zählerstand und die UTC-Bauzeit, damit ein Skript erkennt, wie frisch seine Kopie ist |
 
 ## Schnellstart

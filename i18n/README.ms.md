@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789187436" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789189303" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Laman_web-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Laman web"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domain_guna_buang-219,608-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain guna buang"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domain_guna_buang-219,610-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain guna buang"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP_berniat_jahat-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP berniat jahat"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Dibina_semula-setiap_30_minit-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dibina semula"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_percuma-tanpa_kunci-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API percuma"></a>
@@ -15,15 +15,15 @@
 
 # Domain e-mel guna buang, dibina semula setiap 30 minit
 
-<p align="center"><b>219,608 domain e-mel guna buang dan sementara. Satu senarai ringkas, disegarkan sepanjang masa.</b></p>
+<p align="center"><b>219,610 domain e-mel guna buang dan sementara. Satu senarai ringkas, disegarkan sepanjang masa.</b></p>
 <p align="center"><sub>Lesen MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa had permintaan &middot; dikemas kini 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ms.svg?v=1789187436" alt="Semak satu alamat percuma di ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ms.svg?v=1789189303" alt="Semak satu alamat percuma di ffraud.com" width="540"></a></p>
 
 Peti masuk guna buang ialah jalan sebenar yang digunakan untuk membuat akaun palsu secara besar-besaran: daftar, ambil pautan pengesahan, habiskan kuota percuma, ulang semula. Inilah pangkalan data e-mel guna buang terbuka di sebalik [ffraud.com](https://ffraud.com): setiap domain mel sementara dan guna buang yang dapat kami jumpai, dalam satu fail teks. Perkhidmatan baharu muncul setiap hari, jadi senarai ini dibina semula **setiap 30 minit**: apa yang anda tarik hidup sekarang, bukan gambaran minggu lepas. Tanpa pendaftaran, tanpa kunci, tanpa had.
 
 ## Ringkasnya
 
-- **219,608** domain e-mel guna buang dan sementara, satu setiap baris, disusun, sedia dimuatkan ke dalam satu `Set`
+- **219,610** domain e-mel guna buang dan sementara, satu setiap baris, disusun, sedia dimuatkan ke dalam satu `Set`
 - Dibina semula dan diterbitkan **setiap 30 minit**. Sejarah commit ialah log perubahannya, dan [`metadata.json`](metadata.json) membawa masa binaan yang tepat
 - Pengesanan tidak berhenti pada senarai: enjin di sebalik [ffraud.com](https://ffraud.com) turut mengenali perkhidmatan guna buang daripada **infrastruktur mel** mereka, lalu menangkap domain yang baharu sama sekali pada hari ia muncul, sebelum mana-mana senarai memilikinya
 - Pembekal mel arus perdana dan berbayar sengaja **dikecualikan**, supaya pelanggan sebenar pada domain sendiri tidak pernah disangka perkhidmatan guna buang
@@ -34,7 +34,7 @@ Peti masuk guna buang ialah jalan sebenar yang digunakan untuk membuat akaun pal
 
 | Fail | Baris | Apa ini |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,608 | Satu domain e-mel guna buang atau sementara setiap baris, huruf kecil dan disusun |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 219,610 | Satu domain e-mel guna buang atau sementara setiap baris, huruf kecil dan disusun |
 | [`metadata.json`](../metadata.json) | &mdash; | Kiraan terkini dan masa binaan dalam UTC, supaya skrip tahu betapa segar salinannya |
 
 ## Mula dengan pantas
