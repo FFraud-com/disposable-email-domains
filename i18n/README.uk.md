@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789196445" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789198238" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219 610 одноразових і тимчасових поштових доменів. Один простий перелік, що оновлюється цілодобово.</b></p>
 <p align="center"><sub>Ліцензія MIT &middot; без реєстрації, без ключа API, без обмежень на запити &middot; оновлено 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/uk.svg?v=1789196445" alt="Перевірити адресу безкоштовно на ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/uk.svg?v=1789198238" alt="Перевірити адресу безкоштовно на ffraud.com" width="540"></a></p>
 
 Одноразові скриньки — це і є той шлях, яким масово роблять фальшиві акаунти: зареєструватися, забрати посилання підтвердження, випалити безкоштовний тариф, повторити. Це відкрита база одноразової пошти, на якій працює [ffraud.com](https://ffraud.com): усі тимчасові й одноразові поштові домени, які ми змогли знайти, в одному текстовому файлі. Нові сервіси з'являються щодня, тож перелік перезбирається **кожні 30 хвилин**: те, що ви забираєте, живе просто зараз, а не є знімком минулого тижня. Без реєстрації, без ключа, без обмежень.
 
