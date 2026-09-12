@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789221655" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789223433" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219.617 wegwerp- en tijdelijke e-maildomeinen. Eén eenvoudige lijst, de klok rond ververst.</b></p>
 <p align="center"><sub>MIT-licentie &middot; geen registratie, geen API-sleutel, geen limieten &middot; bijgewerkt op 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/nl.svg?v=1789221655" alt="Controleer een adres gratis op ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/nl.svg?v=1789223433" alt="Controleer een adres gratis op ffraud.com" width="540"></a></p>
 
 Wegwerpmailboxen zijn precies de route waarlangs nepaccounts op grote schaal worden gemaakt: aanmelden, de bevestigingslink pakken, het gratis tegoed opmaken, opnieuw. Dit is de open wegwerpmaildatabase achter [ffraud.com](https://ffraud.com): elk tijdelijk en wegwerpmaildomein dat we kunnen vinden, in één tekstbestand. Er komen elke dag nieuwe diensten bij, dus de lijst wordt **elke 30 minuten** herbouwd: wat je ophaalt leeft nu, het is geen momentopname van vorige week. Geen registratie, geen sleutel, geen limieten.
 
