@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789239636" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789241442" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219 617 domaines de messagerie jetables et temporaires. Une liste simple, rafraîchie en continu.</b></p>
 <p align="center"><sub>Licence MIT &middot; sans inscription, sans clé d'API, sans limite de requêtes &middot; mis à jour le 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fr.svg?v=1789239636" alt="Vérifier une adresse gratuitement sur ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/fr.svg?v=1789241442" alt="Vérifier une adresse gratuitement sur ffraud.com" width="540"></a></p>
 
 Les boîtes jetables sont exactement la façon dont on fabrique des faux comptes à grande échelle : on s'inscrit, on récupère le lien de confirmation, on épuise l'offre gratuite, on recommence. Voici la base ouverte d'e-mails jetables derrière [ffraud.com](https://ffraud.com) : tous les domaines de messagerie temporaires et jetables que nous pouvons trouver, dans un seul fichier texte. De nouveaux services apparaissent chaque jour, donc la liste est reconstruite **toutes les 30 minutes** : ce que vous récupérez est vivant maintenant, pas une photo de la semaine dernière. Sans inscription, sans clé, sans limite.
 

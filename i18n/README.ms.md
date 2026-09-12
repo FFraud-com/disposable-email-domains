@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789239636" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789241442" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,617 domain e-mel guna buang dan sementara. Satu senarai ringkas, disegarkan sepanjang masa.</b></p>
 <p align="center"><sub>Lesen MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa had permintaan &middot; dikemas kini 12.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ms.svg?v=1789239636" alt="Semak satu alamat percuma di ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ms.svg?v=1789241442" alt="Semak satu alamat percuma di ffraud.com" width="540"></a></p>
 
 Peti masuk guna buang ialah jalan sebenar yang digunakan untuk membuat akaun palsu secara besar-besaran: daftar, ambil pautan pengesahan, habiskan kuota percuma, ulang semula. Inilah pangkalan data e-mel guna buang terbuka di sebalik [ffraud.com](https://ffraud.com): setiap domain mel sementara dan guna buang yang dapat kami jumpai, dalam satu fail teks. Perkhidmatan baharu muncul setiap hari, jadi senarai ini dibina semula **setiap 30 minit**: apa yang anda tarik hidup sekarang, bukan gambaran minggu lepas. Tanpa pendaftaran, tanpa kunci, tanpa had.
 
