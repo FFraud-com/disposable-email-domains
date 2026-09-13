@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789275650" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789277439" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219.617 domain email sekali pakai dan sementara. Satu daftar sederhana, disegarkan sepanjang waktu.</b></p>
 <p align="center"><sub>Lisensi MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa batas permintaan &middot; diperbarui 13.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/id.svg?v=1789275650" alt="Periksa satu alamat gratis di ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/id.svg?v=1789277439" alt="Periksa satu alamat gratis di ffraud.com" width="540"></a></p>
 
 Kotak masuk sekali pakai justru jalur yang dipakai untuk membuat akun palsu secara massal: daftar, ambil tautan konfirmasi, habiskan jatah gratis, ulangi. Ini basis data email sekali pakai terbuka yang menopang [ffraud.com](https://ffraud.com): setiap domain email sementara dan sekali pakai yang bisa kami temukan, dalam satu berkas teks. Layanan baru bermunculan tiap hari, jadi daftarnya dibangun ulang **tiap 30 menit**: yang Anda tarik hidup saat ini, bukan potret minggu lalu. Tanpa pendaftaran, tanpa kunci, tanpa batas.
 
