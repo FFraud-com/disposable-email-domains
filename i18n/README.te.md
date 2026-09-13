@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789266636" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789268448" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,617 ఒకసారి వాడే, తాత్కాలిక ఇమెయిల్ డొమైన్‌లు. ఒకే ఒక సాదా జాబితా, రేయింబవళ్లు తాజా చేయబడుతుంది.</b></p>
 <p align="center"><sub>MIT లైసెన్స్ &middot; నమోదు లేదు, API కీ లేదు, అభ్యర్థన పరిమితి లేదు &middot; నవీకరించబడింది 13.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/te.svg?v=1789266636" alt="ffraud.com లో ఒక చిరునామాను ఉచితంగా తనిఖీ చేయండి" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/te.svg?v=1789268448" alt="ffraud.com లో ఒక చిరునామాను ఉచితంగా తనిఖీ చేయండి" width="540"></a></p>
 
 పారేసే ఇన్‌బాక్స్‌లే నకిలీ ఖాతాలను పెద్ద ఎత్తున తయారు చేసే దారి: నమోదు చేయి, నిర్ధారణ లింక్ తీసుకో, ఉచిత పరిమితిని కాల్చేయి, మళ్లీ మొదలుపెట్టు. ఇది [ffraud.com](https://ffraud.com) వెనుక నిలిచిన బహిరంగ ఒకసారి వాడే ఇమెయిల్ డేటాబేస్: మేము కనుగొనగలిగిన ప్రతి తాత్కాలిక, పారేసే మెయిల్ డొమైన్, ఒకే టెక్స్ట్ ఫైల్‌లో. కొత్త సేవలు ప్రతిరోజూ పుట్టుకొస్తాయి, కాబట్టి జాబితా **ప్రతి 30 నిమిషాలకు** తిరిగి నిర్మించబడుతుంది: మీరు లాగేది ఇప్పుడు బతికే ఉంది, గత వారపు చిత్రం కాదు. నమోదు లేదు, కీ లేదు, పరిమితి లేదు.
 

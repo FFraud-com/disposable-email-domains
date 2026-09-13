@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789266636" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789268448" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>219,617 एकपटक प्रयोग हुने र अस्थायी इमेल डोमेन। एउटै सरल सूची, चौबीसै घण्टा ताजा गरिन्छ।</b></p>
 <p align="center"><sub>MIT इजाजतपत्र &middot; दर्ता छैन, API साँचो छैन, अनुरोध सीमा छैन &middot; अद्यावधिक 13.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ne.svg?v=1789266636" alt="ffraud.com मा एउटा ठेगाना निःशुल्क जाँच्नुहोस्" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ne.svg?v=1789268448" alt="ffraud.com मा एउटा ठेगाना निःशुल्क जाँच्नुहोस्" width="540"></a></p>
 
 फालिने इनबक्सहरू नै नक्कली खाता ठूलो सङ्ख्यामा बनाइने बाटो हुन्: दर्ता गर, पुष्टि लिंक टिप, निःशुल्क सीमा जलाऊ, फेरि सुरु गर। यो [ffraud.com](https://ffraud.com) पछाडि उभिएको खुला एकपटक प्रयोग हुने इमेल डेटाबेस हो: हामीले भेट्टाउन सक्ने हरेक अस्थायी र फालिने मेल डोमेन, एउटै पाठ फाइलमा। नयाँ सेवाहरू हरेक दिन उम्रन्छन्, त्यसैले सूची **हरेक ३० मिनेटमा** पुनर्निर्माण हुन्छ: तपाईंले तान्ने कुरा अहिले जीवित छ, गत हप्ताको तस्बिर होइन। दर्ता छैन, साँचो छैन, सीमा छैन।
 
