@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789270232" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789272039" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"><b>일회용, 임시, 쓰고 버리는 이메일 도메인 219,617개. 단순한 목록 하나를 24시간 갱신합니다.</b></p>
 <p align="center"><sub>MIT 라이선스 &middot; 가입 불필요, API 키 불필요, 요청 제한 없음 &middot; 업데이트 13.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ko.svg?v=1789270232" alt="ffraud.com에서 주소를 무료로 검사" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ko.svg?v=1789272039" alt="ffraud.com에서 주소를 무료로 검사" width="540"></a></p>
 
 임시 메일함은 가짜 계정이 대량으로 만들어지는 바로 그 경로입니다. 가입하고, 확인 링크를 받고, 무료 한도를 태우고, 반복합니다. 이것은 [ffraud.com](https://ffraud.com)을 떠받치는 공개 일회용 이메일 데이터베이스로, 저희가 찾을 수 있는 모든 임시·일회용 메일 도메인이 하나의 텍스트 파일에 담겨 있습니다. 새 일회용 서비스는 매일 생기기 때문에 이 목록은 **30분마다** 다시 만들어집니다. 받아 가는 것은 지금 살아 있는 것이지 지난주의 스냅숏이 아닙니다. 가입도, API 키도, 요청 제한도 없습니다.
 
