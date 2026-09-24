@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790289076" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790291056" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Web-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Web"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Jednorazové_domény-220 635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednorazové domény"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Jednorazové_domény-220 668-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednorazové domény"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Škodlivé_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Škodlivé IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Prestavba-každých_30_minút-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Prestavba"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Bezplatné_API-bez_kľúča-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Bezplatné API"></a>
@@ -15,15 +15,15 @@
 
 # Jednorazové e-mailové domény, prestavované každých 30 minút
 
-<p align="center"><b>220 635 jednorazových a dočasných e-mailových domén. Jeden jednoduchý zoznam, obnovovaný nepretržite.</b></p>
+<p align="center"><b>220 668 jednorazových a dočasných e-mailových domén. Jeden jednoduchý zoznam, obnovovaný nepretržite.</b></p>
 <p align="center"><sub>Licencia MIT &middot; bez registrácie, bez API kľúča, bez limitov na požiadavky &middot; aktualizované 24.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sk.svg?v=1790289076" alt="Overiť adresu zadarmo na ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sk.svg?v=1790291056" alt="Overiť adresu zadarmo na ffraud.com" width="540"></a></p>
 
 Jednorazové schránky sú presne tá cesta, ktorou sa vo veľkom vyrábajú falošné účty: zaregistrovať sa, zobrať potvrdzovací odkaz, spáliť bezplatný balík, znova. Toto je otvorená databáza jednorazových e-mailov za [ffraud.com](https://ffraud.com): každá dočasná a jednorazová poštová doména, ktorú dokážeme nájsť, v jednom textovom súbore. Nové služby vznikajú každý deň, takže sa zoznam **každých 30 minút** prestavuje: čo si stiahnete, žije práve teraz, nie je to snímka z minulého týždňa. Bez registrácie, bez kľúča, bez limitov.
 
 ## V skratke
 
-- **220 635** jednorazových a dočasných e-mailových domén, jedna na riadok, zoradené, pripravené na načítanie do `Set`
+- **220 668** jednorazových a dočasných e-mailových domén, jedna na riadok, zoradené, pripravené na načítanie do `Set`
 - Prestavuje sa a publikuje **každých 30 minút**. História commitov je záznam zmien a [`metadata.json`](metadata.json) nesie presný čas zostavenia
 - Detekcia sa nekončí pri zozname: jadro za [ffraud.com](https://ffraud.com) rozpozná jednorazové služby aj podľa ich **poštovej infraštruktúry**, takže zachytí úplne novú doménu v deň, keď sa objaví, skôr než ju má akýkoľvek zoznam
 - Bežní a platení poskytovatelia pošty sú zámerne **vylúčení**, aby si skutočného zákazníka na vlastnej doméne nikto nepomýlil s jednorazovou službou
@@ -46,7 +46,7 @@ Načítajte tento zoznam a blokujte známe jednorazové domény pri registrácii
 
 | Súbor | Riadkov | Čo to je |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 635 | Jedna jednorazová alebo dočasná e-mailová doména na riadok, malými písmenami a zoradené |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 668 | Jedna jednorazová alebo dočasná e-mailová doména na riadok, malými písmenami a zoradené |
 | [`metadata.json`](../metadata.json) | &mdash; | Aktuálny počet a čas zostavenia v UTC, aby skript vedel, akú čerstvú kópiu má |
 
 ## Rýchly štart

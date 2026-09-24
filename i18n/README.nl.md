@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790289076" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790291056" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Website-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Website"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Wegwerpdomeinen-220.635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Wegwerpdomeinen"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Wegwerpdomeinen-220.668-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Wegwerpdomeinen"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Kwaadaardige_IPs-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Kwaadaardige IPs"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Herbouwd-elke_30_minuten-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Herbouwd"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Gratis_API-zonder_sleutel-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Gratis API"></a>
@@ -15,15 +15,15 @@
 
 # Wegwerpmaildomeinen, elke 30 minuten herbouwd
 
-<p align="center"><b>220.635 wegwerp- en tijdelijke e-maildomeinen. Eén eenvoudige lijst, de klok rond ververst.</b></p>
+<p align="center"><b>220.668 wegwerp- en tijdelijke e-maildomeinen. Eén eenvoudige lijst, de klok rond ververst.</b></p>
 <p align="center"><sub>MIT-licentie &middot; geen registratie, geen API-sleutel, geen limieten &middot; bijgewerkt op 24.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/nl.svg?v=1790289076" alt="Controleer een adres gratis op ffraud.com" width="540"></a></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/nl.svg?v=1790291056" alt="Controleer een adres gratis op ffraud.com" width="540"></a></p>
 
 Wegwerpmailboxen zijn precies de route waarlangs nepaccounts op grote schaal worden gemaakt: aanmelden, de bevestigingslink pakken, het gratis tegoed opmaken, opnieuw. Dit is de open wegwerpmaildatabase achter [ffraud.com](https://ffraud.com): elk tijdelijk en wegwerpmaildomein dat we kunnen vinden, in één tekstbestand. Er komen elke dag nieuwe diensten bij, dus de lijst wordt **elke 30 minuten** herbouwd: wat je ophaalt leeft nu, het is geen momentopname van vorige week. Geen registratie, geen sleutel, geen limieten.
 
 ## In het kort
 
-- **220.635** wegwerp- en tijdelijke e-maildomeinen, één per regel, gesorteerd, klaar om in een `Set` te laden
+- **220.668** wegwerp- en tijdelijke e-maildomeinen, één per regel, gesorteerd, klaar om in een `Set` te laden
 - **Elke 30 minuten** herbouwd en gepubliceerd. De commitgeschiedenis is het wijzigingslogboek, en [`metadata.json`](metadata.json) bevat het exacte bouwtijdstip
 - De detectie stopt niet bij de lijst: de engine achter [ffraud.com](https://ffraud.com) herkent wegwerpdiensten ook aan hun **mailinfrastructuur**, en vangt daarmee een gloednieuw domein op de dag dat het verschijnt, voordat het op enige lijst staat
 - Gangbare en betaalde mailaanbieders zijn bewust **uitgesloten**, zodat een echte klant op zijn eigen domein nooit voor een wegwerpdienst wordt aangezien
@@ -46,7 +46,7 @@ Laad deze lijst om bekende wegwerpdomeinen bij de registratie te blokkeren. Roep
 
 | Bestand | Regels | Wat het is |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.635 | Eén wegwerp- of tijdelijk e-maildomein per regel, in kleine letters en gesorteerd |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.668 | Eén wegwerp- of tijdelijk e-maildomein per regel, in kleine letters en gesorteerd |
 | [`metadata.json`](../metadata.json) | &mdash; | De actuele telling en het bouwtijdstip in UTC, zodat een script weet hoe vers zijn kopie is |
 
 ## Snel beginnen
