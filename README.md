@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789905643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790250934" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Website-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Website"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Disposable_domains-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Disposable domains"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Disposable_domains-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Disposable domains"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Malicious_IPs-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Malicious IPs"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Rebuilt-every_30_minutes-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Rebuilt"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Free_API-no_key-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Free API"></a>
@@ -15,26 +15,38 @@
 
 # Disposable email domains, rebuilt every 30 minutes
 
-<p align="center"><b>220,249 disposable, temporary and throwaway email domains. One plain list, refreshed around the clock.</b></p>
-<p align="center"><sub>MIT licensed &middot; no signup, no API key, no rate limits &middot; updated 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/en.svg?v=1789905643" alt="Check an address free on ffraud.com" width="540"></a></p>
+<p align="center"><b>220,635 disposable, temporary and throwaway email domains. One plain list, refreshed around the clock.</b></p>
+<p align="center"><sub>MIT licensed &middot; no signup, no API key, no rate limits &middot; updated 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/en.svg?v=1790250934" alt="Check an address free on ffraud.com" width="540"></a></p>
 
 Throwaway inboxes are how fake accounts get made at scale: sign up, grab the confirmation link, burn the free tier, repeat. This is the open disposable-email database behind [ffraud.com](https://ffraud.com), every temporary, disposable and throwaway mail domain we can find, in one plain text file. New throwaway services appear every single day, so the list is rebuilt **every 30 minutes**: what you pull is what is live right now, not a snapshot from last week. No signup, no API key, no rate limits.
 
 ## Quick facts
 
-- **220,249** disposable and temporary email domains, one per line, sorted, ready to load into a `Set`
+- **220,635** disposable and temporary email domains, one per line, sorted, ready to load into a `Set`
 - Rebuilt and pushed **every 30 minutes**. The commit history is the changelog, and [`metadata.json`](metadata.json) carries the exact build time
 - Detection goes past the list itself: the engine behind [ffraud.com](https://ffraud.com) also recognises throwaway services by their **mail infrastructure**, which catches a brand-new domain on the day it appears, before any list has it
 - Mainstream and paid mail providers are deliberately **excluded**, so a real customer on their own domain is never mistaken for a throwaway
 - **MIT licensed**, commercial use included, no attribution required
 - One plain text file. No archive, no schema, no client library
 
+## The list, or the API?
+
+This list holds every disposable domain we know. The [free API](https://ffraud.com/docs/email) checks a whole address and catches more:
+
+|  | This list | The API |
+|------|------|------|
+| **New throwaway services** | Once they are on the list | On day one, recognised by their mail servers |
+| **The address itself** | Not checked | Format, role addresses, reported spammers |
+| **Phishing domains** | Not included | Flagged by the domain check |
+
+Load this list to block known throwaway domains at signup. Call the API when you want the verdict on a specific address. Both are free.
+
 ## What's inside
 
 | File | Rows | What it is |
 |------|------:|------|
-| [`disposable-email-domains.txt`](disposable-email-domains.txt) | 220,249 | One disposable or temporary email domain per line, lowercased and sorted |
+| [`disposable-email-domains.txt`](disposable-email-domains.txt) | 220,635 | One disposable or temporary email domain per line, lowercased and sorted |
 | [`metadata.json`](metadata.json) | &mdash; | The live count and the UTC build time, so a script can tell how fresh its copy is |
 
 ## Quick start

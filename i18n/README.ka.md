@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789905643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790250934" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/ვებგვერდი-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ვებგვერდი"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ერთჯერადი_დომენები-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ერთჯერადი დომენები"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/ერთჯერადი_დომენები-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ერთჯერადი დომენები"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/მავნე_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="მავნე IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/ხელახლა_შენება-ყოველ_30_წუთში-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="ხელახლა შენება"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/უფასო_API-გასაღების_გარეშე-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="უფასო API"></a>
@@ -15,26 +15,38 @@
 
 # ერთჯერადი ელფოსტის დომენები, ხელახლა შენდება ყოველ 30 წუთში
 
-<p align="center"><b>220,249 ერთჯერადი და დროებითი ელფოსტის დომენი. ერთი მარტივი სია, განახლებული დღე-ღამის განმავლობაში.</b></p>
-<p align="center"><sub>MIT ლიცენზია &middot; რეგისტრაციის გარეშე, API გასაღების გარეშე, მოთხოვნების ლიმიტის გარეშე &middot; განახლდა 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ka.svg?v=1789905643" alt="შეამოწმეთ მისამართი უფასოდ ffraud.com-ზე" width="540"></a></p>
+<p align="center"><b>220,635 ერთჯერადი და დროებითი ელფოსტის დომენი. ერთი მარტივი სია, განახლებული დღე-ღამის განმავლობაში.</b></p>
+<p align="center"><sub>MIT ლიცენზია &middot; რეგისტრაციის გარეშე, API გასაღების გარეშე, მოთხოვნების ლიმიტის გარეშე &middot; განახლდა 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ka.svg?v=1790250934" alt="შეამოწმეთ მისამართი უფასოდ ffraud.com-ზე" width="540"></a></p>
 
 გასაყრელი შემოსულების ყუთები სწორედ ის გზაა, რომლითაც ყალბი ანგარიშები მასობრივად კეთდება: დარეგისტრირდი, აიღე დადასტურების ბმული, დაწვი უფასო ლიმიტი, ისევ თავიდან. ეს არის ღია ერთჯერადი ელფოსტის ბაზა, რომელიც [ffraud.com](https://ffraud.com)-ს უდგას უკან: ყველა დროებითი და გასაყრელი საფოსტო დომენი, რომლის პოვნაც შეგვიძლია, ერთ ტექსტურ ფაილში. ახალი სერვისები ყოველდღე ჩნდება, ამიტომ სია **ყოველ 30 წუთში** ხელახლა შენდება: ის, რასაც იღებთ, ახლა ცოცხალია, და არა გასული კვირის სურათი. რეგისტრაციის გარეშე, გასაღების გარეშე, ლიმიტების გარეშე.
 
 ## მოკლედ
 
-- **220,249** ერთჯერადი და დროებითი ელფოსტის დომენი, თითო სტრიქონზე ერთი, დახარისხებული, მზად `Set`-ში ჩასატვირთად
+- **220,635** ერთჯერადი და დროებითი ელფოსტის დომენი, თითო სტრიქონზე ერთი, დახარისხებული, მზად `Set`-ში ჩასატვირთად
 - **ყოველ 30 წუთში** ხელახლა შენდება და ქვეყნდება. commit-ების ისტორია არის ცვლილებების ჩანაწერი, ხოლო [`metadata.json`](metadata.json) ზუსტ აწყობის დროს ატარებს
 - ამოცნობა სიაზე არ ჩერდება: [ffraud.com](https://ffraud.com)-ის უკან მდგომი ძრავა ერთჯერად სერვისებს მათი **საფოსტო ინფრასტრუქტურითაც** ცნობს და ასე სულ ახალ დომენს მისი გამოჩენის დღესვე იჭერს, სანამ ის რომელიმე სიაში მოხვდებოდეს
 - ფართოდ გავრცელებული და ფასიანი საფოსტო მომწოდებლები განზრახ **გამორიცხულია**, რომ საკუთარ დომენზე მყოფი ნამდვილი კლიენტი არასოდეს არ ჩაითვალოს ერთჯერად სერვისად
 - **MIT ლიცენზია**, კომერციული გამოყენების ჩათვლით, ავტორის მითითება არ არის საჭირო
 - ერთადერთი ტექსტური ფაილი. არქივი არ არის, სქემა არ არის, კლიენტის ბიბლიოთეკა არ არის
 
+## სია თუ API?
+
+ეს სია შეიცავს ჩვენთვის ცნობილ ყველა ერთჯერად დომენს. [უფასო API](https://ffraud.com/docs/email) ამოწმებს მთლიან მისამართს და მეტს იჭერს:
+
+|  | ეს სია | API |
+|------|------|------|
+| **ახალი ერთჯერადი სერვისები** | სიაში მოხვედრის შემდეგ | პირველივე დღიდან, მათი ფოსტის სერვერებით ამოცნობილი |
+| **თავად მისამართი** | არ მოწმდება | ფორმატი, როლური მისამართები, დასმენილი სპამერები |
+| **ფიშინგის დომენები** | არ შედის | მოინიშნება დომენის შემოწმებით |
+
+ჩატვირთეთ ეს სია, რომ რეგისტრაციისას ცნობილი ერთჯერადი დომენები დაბლოკოთ. გამოიძახეთ API, როცა კონკრეტულ მისამართზე ვერდიქტი გჭირდებათ. ორივე უფასოა.
+
 ## რა არის შიგნით
 
 | ფაილი | სტრიქონი | რა არის ეს |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | თითო სტრიქონზე ერთი ერთჯერადი ან დროებითი ელფოსტის დომენი, პატარა ასოებით და დახარისხებული |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | თითო სტრიქონზე ერთი ერთჯერადი ან დროებითი ელფოსტის დომენი, პატარა ასოებით და დახარისხებული |
 | [`metadata.json`](../metadata.json) | &mdash; | მიმდინარე რაოდენობა და აწყობის დრო UTC-ში, რომ სკრიპტმა იცოდეს, რამდენად ახალია მისი ასლი |
 
 ## სწრაფი დაწყება

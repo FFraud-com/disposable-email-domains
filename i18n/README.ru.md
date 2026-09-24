@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789905643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790250934" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Сайт-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Сайт"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Одноразовые_домены-220 249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Одноразовые домены"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Одноразовые_домены-220 635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Одноразовые домены"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Вредоносные_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Вредоносные IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Пересборка-каждые_30_минут-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Пересборка"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Бесплатный_API-без_ключа-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Бесплатный API"></a>
@@ -15,26 +15,38 @@
 
 # Одноразовые почтовые домены, пересобираются каждые 30 минут
 
-<p align="center"><b>220 249 одноразовых и временных почтовых доменов. Один простой список, обновляемый круглосуточно.</b></p>
-<p align="center"><sub>Лицензия MIT &middot; без регистрации, без ключа, без ограничений на запросы &middot; обновлено 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ru.svg?v=1789905643" alt="Бесплатно проверить адрес на ffraud.com" width="540"></a></p>
+<p align="center"><b>220 635 одноразовых и временных почтовых доменов. Один простой список, обновляемый круглосуточно.</b></p>
+<p align="center"><sub>Лицензия MIT &middot; без регистрации, без ключа, без ограничений на запросы &middot; обновлено 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ru.svg?v=1790250934" alt="Бесплатно проверить адрес на ffraud.com" width="540"></a></p>
 
 Одноразовые ящики — это и есть тот способ, которым фейковые аккаунты делают массово: зарегистрироваться, забрать ссылку подтверждения, выжечь бесплатный тариф, повторить. Это открытая база одноразовой почты, на которой работает [ffraud.com](https://ffraud.com): все временные и одноразовые почтовые домены, какие мы смогли найти, в одном текстовом файле. Новые одноразовые сервисы появляются каждый день, поэтому список пересобирается **каждые 30 минут**: вы забираете то, что живо прямо сейчас, а не снимок прошлой недели. Без регистрации, без ключа, без ограничений.
 
 ## Коротко о главном
 
-- **220 249** одноразовых и временных почтовых доменов, по одному в строке, отсортированы, готовы к загрузке в `Set`
+- **220 635** одноразовых и временных почтовых доменов, по одному в строке, отсортированы, готовы к загрузке в `Set`
 - Пересобирается и публикуется **каждые 30 минут**. История коммитов и есть журнал изменений, а точное время сборки лежит в [`metadata.json`](metadata.json)
 - Обнаружение не ограничивается списком: движок за [ffraud.com](https://ffraud.com) распознаёт одноразовые сервисы ещё и по их **почтовой инфраструктуре**, а значит ловит совершенно новый домен в день его появления, раньше любого списка
 - Массовые и платные почтовые провайдеры намеренно **исключены**, поэтому настоящий клиент на своём домене никогда не будет принят за одноразовый сервис
 - **Лицензия MIT**, коммерческое использование включено, указание авторства не требуется
 - Один текстовый файл. Ни архива, ни схемы, ни клиентской библиотеки
 
+## Список или API?
+
+В этом списке каждый известный нам одноразовый домен. [Бесплатный API](https://ffraud.com/docs/email) проверяет адрес целиком и ловит больше:
+
+|  | Этот список | API |
+|------|------|------|
+| **Новые одноразовые сервисы** | Только когда они попадут в список | С первого дня, распознаются по почтовым серверам |
+| **Сам адрес** | Не проверяется | Формат, ролевые адреса, спамеры из жалоб |
+| **Фишинговые домены** | Не входят | Помечаются проверкой домена |
+
+Загрузите этот список, чтобы блокировать известные одноразовые домены при регистрации. Вызывайте API, когда нужен вердикт по конкретному адресу. И то и другое бесплатно.
+
 ## Что внутри
 
 | Файл | Строк | Что это |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 249 | По одному одноразовому или временному почтовому домену в строке, в нижнем регистре и отсортированные |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 635 | По одному одноразовому или временному почтовому домену в строке, в нижнем регистре и отсортированные |
 | [`metadata.json`](../metadata.json) | &mdash; | Актуальный счётчик и время сборки в UTC, чтобы скрипт понимал, насколько свежа его копия |
 
 ## Быстрый старт

@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789905643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790250934" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Laman_web-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Laman web"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domain_guna_buang-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain guna buang"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domain_guna_buang-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domain guna buang"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP_berniat_jahat-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP berniat jahat"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Dibina_semula-setiap_30_minit-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Dibina semula"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_percuma-tanpa_kunci-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API percuma"></a>
@@ -15,26 +15,38 @@
 
 # Domain e-mel guna buang, dibina semula setiap 30 minit
 
-<p align="center"><b>220,249 domain e-mel guna buang dan sementara. Satu senarai ringkas, disegarkan sepanjang masa.</b></p>
-<p align="center"><sub>Lesen MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa had permintaan &middot; dikemas kini 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ms.svg?v=1789905643" alt="Semak satu alamat percuma di ffraud.com" width="540"></a></p>
+<p align="center"><b>220,635 domain e-mel guna buang dan sementara. Satu senarai ringkas, disegarkan sepanjang masa.</b></p>
+<p align="center"><sub>Lesen MIT &middot; tanpa pendaftaran, tanpa kunci API, tanpa had permintaan &middot; dikemas kini 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/ms.svg?v=1790250934" alt="Semak satu alamat percuma di ffraud.com" width="540"></a></p>
 
 Peti masuk guna buang ialah jalan sebenar yang digunakan untuk membuat akaun palsu secara besar-besaran: daftar, ambil pautan pengesahan, habiskan kuota percuma, ulang semula. Inilah pangkalan data e-mel guna buang terbuka di sebalik [ffraud.com](https://ffraud.com): setiap domain mel sementara dan guna buang yang dapat kami jumpai, dalam satu fail teks. Perkhidmatan baharu muncul setiap hari, jadi senarai ini dibina semula **setiap 30 minit**: apa yang anda tarik hidup sekarang, bukan gambaran minggu lepas. Tanpa pendaftaran, tanpa kunci, tanpa had.
 
 ## Ringkasnya
 
-- **220,249** domain e-mel guna buang dan sementara, satu setiap baris, disusun, sedia dimuatkan ke dalam satu `Set`
+- **220,635** domain e-mel guna buang dan sementara, satu setiap baris, disusun, sedia dimuatkan ke dalam satu `Set`
 - Dibina semula dan diterbitkan **setiap 30 minit**. Sejarah commit ialah log perubahannya, dan [`metadata.json`](metadata.json) membawa masa binaan yang tepat
 - Pengesanan tidak berhenti pada senarai: enjin di sebalik [ffraud.com](https://ffraud.com) turut mengenali perkhidmatan guna buang daripada **infrastruktur mel** mereka, lalu menangkap domain yang baharu sama sekali pada hari ia muncul, sebelum mana-mana senarai memilikinya
 - Pembekal mel arus perdana dan berbayar sengaja **dikecualikan**, supaya pelanggan sebenar pada domain sendiri tidak pernah disangka perkhidmatan guna buang
 - **Lesen MIT**, termasuk penggunaan komersial, tanpa keperluan pengiktirafan
 - Satu fail teks sahaja. Tiada arkib, tiada skema, tiada pustaka klien
 
+## Senarai atau API?
+
+Senarai ini memuatkan setiap domain pakai buang yang kami ketahui. [API percuma](https://ffraud.com/docs/email) memeriksa alamat penuh dan menangkap lebih banyak:
+
+|  | Senarai ini | API |
+|------|------|------|
+| **Perkhidmatan pakai buang baharu** | Selepas masuk senarai | Dari hari pertama, dikenali melalui pelayan mel mereka |
+| **Alamat itu sendiri** | Tidak diperiksa | Format, alamat peranan, penghantar spam yang dilaporkan |
+| **Domain pancingan data** | Tidak termasuk | Ditanda oleh semakan domain |
+
+Muatkan senarai ini untuk menyekat domain pakai buang yang dikenali semasa pendaftaran. Panggil API apabila anda mahukan keputusan bagi alamat tertentu. Kedua-duanya percuma.
+
 ## Apa yang ada di dalam
 
 | Fail | Baris | Apa ini |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | Satu domain e-mel guna buang atau sementara setiap baris, huruf kecil dan disusun |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | Satu domain e-mel guna buang atau sementara setiap baris, huruf kecil dan disusun |
 | [`metadata.json`](../metadata.json) | &mdash; | Kiraan terkini dan masa binaan dalam UTC, supaya skrip tahu betapa segar salinannya |
 
 ## Mula dengan pantas

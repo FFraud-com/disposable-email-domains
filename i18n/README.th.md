@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789905643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790250934" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/เว็บไซต์-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="เว็บไซต์"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/โดเมนใช้แล้วทิ้ง-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="โดเมนใช้แล้วทิ้ง"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/โดเมนใช้แล้วทิ้ง-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="โดเมนใช้แล้วทิ้ง"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/IP_ที่เป็นอันตราย-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="IP ที่เป็นอันตราย"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/สร้างใหม่-ทุก_30_นาที-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="สร้างใหม่"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/API_ฟรี-ไม่ต้องใช้คีย์-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="API ฟรี"></a>
@@ -15,26 +15,38 @@
 
 # โดเมนอีเมลใช้แล้วทิ้ง สร้างใหม่ทุก 30 นาที
 
-<p align="center"><b>โดเมนอีเมลใช้แล้วทิ้งและชั่วคราว 220,249 รายการ รายการเดียวเรียบง่าย รีเฟรชตลอดทั้งวัน</b></p>
-<p align="center"><sub>สัญญาอนุญาต MIT &middot; ไม่ต้องสมัคร ไม่ต้องใช้คีย์ API ไม่จำกัดจำนวนคำขอ &middot; อัปเดตเมื่อ 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/th.svg?v=1789905643" alt="ตรวจสอบที่อยู่ฟรีบน ffraud.com" width="540"></a></p>
+<p align="center"><b>โดเมนอีเมลใช้แล้วทิ้งและชั่วคราว 220,635 รายการ รายการเดียวเรียบง่าย รีเฟรชตลอดทั้งวัน</b></p>
+<p align="center"><sub>สัญญาอนุญาต MIT &middot; ไม่ต้องสมัคร ไม่ต้องใช้คีย์ API ไม่จำกัดจำนวนคำขอ &middot; อัปเดตเมื่อ 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/th.svg?v=1790250934" alt="ตรวจสอบที่อยู่ฟรีบน ffraud.com" width="540"></a></p>
 
 กล่องจดหมายใช้แล้วทิ้งคือเส้นทางที่ทำให้บัญชีปลอมถูกผลิตขึ้นเป็นจำนวนมาก: สมัคร รับลิงก์ยืนยัน เผาโควตาฟรี แล้วทำซ้ำ นี่คือฐานข้อมูลอีเมลใช้แล้วทิ้งแบบเปิดที่อยู่เบื้องหลัง [ffraud.com](https://ffraud.com) รวมทุกโดเมนอีเมลชั่วคราวและใช้แล้วทิ้งที่เราหาเจอ ไว้ในไฟล์ข้อความไฟล์เดียว บริการใหม่ผุดขึ้นทุกวัน รายการนี้จึงถูกสร้างใหม่**ทุก 30 นาที** สิ่งที่คุณดึงไปยังมีชีวิตอยู่ในขณะนี้ ไม่ใช่ภาพนิ่งจากสัปดาห์ที่แล้ว ไม่ต้องสมัคร ไม่ต้องใช้คีย์ ไม่มีขีดจำกัด
 
 ## สรุปตัวเลข
 
-- โดเมนอีเมลใช้แล้วทิ้งและชั่วคราว **220,249** รายการ บรรทัดละหนึ่งรายการ เรียงลำดับแล้ว พร้อมโหลดเข้า `Set` ได้เลย
+- โดเมนอีเมลใช้แล้วทิ้งและชั่วคราว **220,635** รายการ บรรทัดละหนึ่งรายการ เรียงลำดับแล้ว พร้อมโหลดเข้า `Set` ได้เลย
 - สร้างใหม่และเผยแพร่**ทุก 30 นาที** ประวัติ commit คือบันทึกการเปลี่ยนแปลง และ [`metadata.json`](metadata.json) เก็บเวลาสร้างที่แม่นยำไว้
 - การตรวจจับไม่ได้หยุดอยู่แค่รายการนี้: เอนจินเบื้องหลัง [ffraud.com](https://ffraud.com) ยังรู้จักบริการใช้แล้วทิ้งจาก**โครงสร้างพื้นฐานทางอีเมล**ของมันด้วย จึงจับโดเมนที่เพิ่งเกิดใหม่ได้ตั้งแต่วันที่มันโผล่ขึ้นมา ก่อนที่รายการใดจะมีมันเสียอีก
 - ผู้ให้บริการอีเมลกระแสหลักและแบบเสียเงินถูก**กันออกไป**โดยตั้งใจ เพื่อไม่ให้ลูกค้าตัวจริงที่ใช้โดเมนของตัวเองถูกเข้าใจผิดว่าเป็นบริการใช้แล้วทิ้ง
 - **สัญญาอนุญาต MIT** รวมการใช้เชิงพาณิชย์ ไม่ต้องให้เครดิต
 - ไฟล์ข้อความไฟล์เดียว ไม่มีไฟล์บีบอัด ไม่มีสคีมา ไม่มีไลบรารีฝั่งไคลเอนต์
 
+## รายการ หรือ API?
+
+รายการนี้มีโดเมนใช้แล้วทิ้งทุกโดเมนที่เรารู้จัก [API ฟรี](https://ffraud.com/docs/email) ตรวจสอบที่อยู่ทั้งหมดและจับได้มากกว่า:
+
+|  | รายการนี้ | API |
+|------|------|------|
+| **บริการใช้แล้วทิ้งรายใหม่** | เมื่ออยู่ในรายการแล้ว | ตั้งแต่วันแรก จดจำได้จากเซิร์ฟเวอร์อีเมล |
+| **ตัวที่อยู่เอง** | ไม่ได้ตรวจ | รูปแบบ ที่อยู่ตามบทบาท ผู้ส่งสแปมที่ถูกรายงาน |
+| **โดเมนฟิชชิง** | ไม่รวม | ถูกทำเครื่องหมายโดยการตรวจโดเมน |
+
+โหลดรายการนี้เพื่อบล็อกโดเมนใช้แล้วทิ้งที่รู้จักตอนสมัคร เรียก API เมื่อต้องการคำตัดสินสำหรับที่อยู่ใดที่อยู่หนึ่ง ทั้งสองอย่างฟรี
+
 ## ข้างในมีอะไร
 
 | ไฟล์ | แถว | คืออะไร |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | โดเมนอีเมลใช้แล้วทิ้งหรือชั่วคราวบรรทัดละหนึ่งรายการ เป็นตัวพิมพ์เล็กและเรียงลำดับแล้ว |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | โดเมนอีเมลใช้แล้วทิ้งหรือชั่วคราวบรรทัดละหนึ่งรายการ เป็นตัวพิมพ์เล็กและเรียงลำดับแล้ว |
 | [`metadata.json`](../metadata.json) | &mdash; | จำนวนล่าสุดและเวลาสร้างแบบ UTC เพื่อให้สคริปต์รู้ว่าสำเนาของตัวเองใหม่แค่ไหน |
 
 ## เริ่มใช้อย่างรวดเร็ว

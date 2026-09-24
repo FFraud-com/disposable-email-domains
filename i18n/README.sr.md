@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789905643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790250934" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sajt-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sajt"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Jednokratni_domeni-220.249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednokratni domeni"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Jednokratni_domeni-220.635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Jednokratni domeni"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Zlonamerni_IP--ovi-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zlonamerni IP-ovi"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Ponovna_izgradnja-na_svakih_30_minuta-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Ponovna izgradnja"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Besplatni_API-bez_ključa-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Besplatni API"></a>
@@ -15,26 +15,38 @@
 
 # Jednokratni imejl domeni, ponovo izgrađeni na svakih 30 minuta
 
-<p align="center"><b>220.249 jednokratnih i privremenih imejl domena. Jedan jednostavan spisak, osvežavan danonoćno.</b></p>
-<p align="center"><sub>MIT licenca &middot; bez registracije, bez API ključa, bez ograničenja zahteva &middot; ažurirano 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sr.svg?v=1789905643" alt="Proverite adresu besplatno na ffraud.com" width="540"></a></p>
+<p align="center"><b>220.635 jednokratnih i privremenih imejl domena. Jedan jednostavan spisak, osvežavan danonoćno.</b></p>
+<p align="center"><sub>MIT licenca &middot; bez registracije, bez API ključa, bez ograničenja zahteva &middot; ažurirano 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sr.svg?v=1790250934" alt="Proverite adresu besplatno na ffraud.com" width="540"></a></p>
 
 Jednokratna sandučad upravo su put kojim se lažni nalozi proizvode u velikom broju: registruj se, uzmi link za potvrdu, potroši besplatni paket, ponovi. Ovo je otvorena baza jednokratnih imejlova iza [ffraud.com](https://ffraud.com): svaki privremeni i jednokratni poštanski domen koji uspemo da pronađemo, u jednom tekstualnom fajlu. Nove usluge niču svakog dana, pa se spisak **na svakih 30 minuta** iznova gradi: ono što povučete živi sada, nije snimak od prošle nedelje. Bez registracije, bez ključa, bez ograničenja.
 
 ## Ukratko
 
-- **220.249** jednokratnih i privremenih imejl domena, jedan po redu, poređani, spremni za učitavanje u `Set`
+- **220.635** jednokratnih i privremenih imejl domena, jedan po redu, poređani, spremni za učitavanje u `Set`
 - Ponovo se gradi i objavljuje **na svakih 30 minuta**. Istorija komitova je zapisnik izmena, a [`metadata.json`](metadata.json) nosi tačno vreme izgradnje
 - Otkrivanje ne staje na spisku: motor iza [ffraud.com](https://ffraud.com) prepoznaje jednokratne usluge i po njihovoj **poštanskoj infrastrukturi**, pa hvata sasvim nov domen onog dana kada se pojavi, pre nego što ga ijedan spisak ima
 - Uobičajeni i plaćeni provajderi pošte namerno su **izostavljeni**, kako pravi klijent na sopstvenom domenu nikada ne bi bio zamenjen za jednokratnu uslugu
 - **MIT licenca**, uključujući komercijalnu upotrebu, bez obaveznog navođenja autora
 - Jedan jedini tekstualni fajl. Bez arhive, bez šeme, bez klijentske biblioteke
 
+## Lista ili API?
+
+Ova lista sadrži svaki jednokratni domen koji poznajemo. [Besplatni API](https://ffraud.com/docs/email) proverava celu adresu i hvata više:
+
+|  | Ova lista | API |
+|------|------|------|
+| **Novi jednokratni servisi** | Tek kada dospeju na listu | Od prvog dana, prepoznati po mejl serverima |
+| **Sama adresa** | Ne proverava se | Format, adrese za uloge, prijavljeni spameri |
+| **Fišing domeni** | Nisu uključeni | Označava ih provera domena |
+
+Učitajte ovu listu da biste pri registraciji blokirali poznate jednokratne domene. Pozovite API kada želite presudu za konkretnu adresu. Oba su besplatna.
+
 ## Šta se nalazi unutra
 
 | Fajl | Redova | Šta je to |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.249 | Jedan jednokratni ili privremeni imejl domen po redu, malim slovima i poređani |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220.635 | Jedan jednokratni ili privremeni imejl domen po redu, malim slovima i poređani |
 | [`metadata.json`](../metadata.json) | &mdash; | Trenutni broj i vreme izgradnje u UTC, da bi skripta znala koliko joj je kopija sveža |
 
 ## Brzi početak

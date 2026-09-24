@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789905643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790250934" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Sayt-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Sayt"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Birdəfəlik_domenlər-220 249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Birdəfəlik domenlər"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Birdəfəlik_domenlər-220 635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Birdəfəlik domenlər"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Zərərli_IP--lər-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Zərərli IP-lər"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Yenidən_qurulur-hər_30_dəqiqədən_bir-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Yenidən qurulur"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Pulsuz_API-açarsız-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Pulsuz API"></a>
@@ -15,26 +15,38 @@
 
 # Birdəfəlik e-poçt domenləri, hər 30 dəqiqədən bir yenidən qurulur
 
-<p align="center"><b>220 249 birdəfəlik və müvəqqəti e-poçt domeni. Bir sadə siyahı, gecə-gündüz təzələnir.</b></p>
-<p align="center"><sub>MIT lisenziyası &middot; qeydiyyatsız, API açarısız, sorğu limitisiz &middot; yeniləndi 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/az.svg?v=1789905643" alt="ffraud.com-da bir ünvanı pulsuz yoxlayın" width="540"></a></p>
+<p align="center"><b>220 635 birdəfəlik və müvəqqəti e-poçt domeni. Bir sadə siyahı, gecə-gündüz təzələnir.</b></p>
+<p align="center"><sub>MIT lisenziyası &middot; qeydiyyatsız, API açarısız, sorğu limitisiz &middot; yeniləndi 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/az.svg?v=1790250934" alt="ffraud.com-da bir ünvanı pulsuz yoxlayın" width="540"></a></p>
 
 Atılası gələnlər qutuları elə saxta hesabların kütləvi düzəldildiyi yoldur: qeydiyyatdan keç, təsdiq linkini götür, pulsuz həddi yandır, təzədən başla. Bu, [ffraud.com](https://ffraud.com) arxasında duran açıq birdəfəlik e-poçt bazasıdır: tapa bildiyimiz hər müvəqqəti və atılası poçt domeni, tək bir mətn faylında. Hər gün yeni xidmətlər çıxır, ona görə siyahı **hər 30 dəqiqədən bir** yenidən qurulur: çəkdiyiniz elə indi canlıdır, keçən həftədən qalma şəkil deyil. Qeydiyyatsız, açarsız, limitsiz.
 
 ## Qısaca
 
-- **220 249** birdəfəlik və müvəqqəti e-poçt domeni, hər sətirdə bir, sıralanmış, birbaşa `Set` içinə yüklənməyə hazır
+- **220 635** birdəfəlik və müvəqqəti e-poçt domeni, hər sətirdə bir, sıralanmış, birbaşa `Set` içinə yüklənməyə hazır
 - **Hər 30 dəqiqədən bir** yenidən qurulub yayımlanır. Commit tarixçəsi dəyişikliklərin qeydidir, [`metadata.json`](metadata.json) isə dəqiq yığım vaxtını daşıyır
 - Aşkarlama siyahı ilə bitmir: [ffraud.com](https://ffraud.com) arxasındakı mühərrik birdəfəlik xidmətləri **poçt infrastrukturundan** da tanıyır və beləcə tamam yeni domeni ortaya çıxdığı gün tutur, hələ heç bir siyahıda olmamışdan əvvəl
 - Kütləvi və ödənişli poçt təchizatçıları qəsdən **kənarda saxlanılır** ki, öz domenindəki əsl müştəri heç vaxt birdəfəlik xidmətlə qarışdırılmasın
 - **MIT lisenziyası**, kommersiya istifadəsi daxil, mənbə göstərmək tələb olunmur
 - Tək bir mətn faylı. Nə arxiv, nə sxem, nə müştəri kitabxanası
 
+## Siyahı, yoxsa API?
+
+Bu siyahıda bildiyimiz hər birdəfəlik domen var. [Pulsuz API](https://ffraud.com/docs/email) ünvanı bütövlükdə yoxlayır və daha çoxunu tutur:
+
+|  | Bu siyahı | API |
+|------|------|------|
+| **Yeni birdəfəlik xidmətlər** | Siyahıya düşəndən sonra | İlk gündən, poçt serverlərinə görə tanınır |
+| **Ünvanın özü** | Yoxlanılmır | Format, rol ünvanları, bildirilmiş spamçılar |
+| **Fişinq domenləri** | Daxil deyil | Domen yoxlaması ilə işarələnir |
+
+Qeydiyyat zamanı məlum birdəfəlik domenləri bloklamaq üçün bu siyahını yükləyin. Konkret ünvan üzrə hökm istədikdə API-ni çağırın. Hər ikisi pulsuzdur.
+
 ## İçəridə nə var
 
 | Fayl | Sətir | Nədir |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 249 | Hər sətirdə bir birdəfəlik və ya müvəqqəti e-poçt domeni, kiçik hərflərlə və sıralanmış |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 635 | Hər sətirdə bir birdəfəlik və ya müvəqqəti e-poçt domeni, kiçik hərflərlə və sıralanmış |
 | [`metadata.json`](../metadata.json) | &mdash; | Cari say və UTC-də yığım vaxtı, skript öz nüsxəsinin nə qədər təzə olduğunu bilsin deyə |
 
 ## Sürətli başlanğıc

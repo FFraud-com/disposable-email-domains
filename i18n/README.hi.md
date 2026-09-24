@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789905643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790250934" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/वेबसाइट-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="वेबसाइट"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/डिस्पोजेबल_डोमेन-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="डिस्पोजेबल डोमेन"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/डिस्पोजेबल_डोमेन-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="डिस्पोजेबल डोमेन"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/दुर्भावनापूर्ण_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="दुर्भावनापूर्ण IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/पुनर्निर्माण-हर_30_मिनट-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="पुनर्निर्माण"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/मुफ़्त_API-बिना_कुंजी-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="मुफ़्त API"></a>
@@ -15,26 +15,38 @@
 
 # डिस्पोजेबल ईमेल डोमेन, हर 30 मिनट में पुनर्निर्मित
 
-<p align="center"><b>220,249 डिस्पोजेबल और अस्थायी ईमेल डोमेन। एक सीधी-सादी सूची, चौबीसों घंटे ताज़ा होती हुई।</b></p>
-<p align="center"><sub>MIT लाइसेंस &middot; पंजीकरण नहीं, API कुंजी नहीं, अनुरोध सीमा नहीं &middot; अद्यतन 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hi.svg?v=1789905643" alt="ffraud.com पर एक पता मुफ़्त जाँचें" width="540"></a></p>
+<p align="center"><b>220,635 डिस्पोजेबल और अस्थायी ईमेल डोमेन। एक सीधी-सादी सूची, चौबीसों घंटे ताज़ा होती हुई।</b></p>
+<p align="center"><sub>MIT लाइसेंस &middot; पंजीकरण नहीं, API कुंजी नहीं, अनुरोध सीमा नहीं &middot; अद्यतन 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/hi.svg?v=1790250934" alt="ffraud.com पर एक पता मुफ़्त जाँचें" width="540"></a></p>
 
 फेंकने लायक इनबॉक्स ही वह रास्ता है जिससे बड़े पैमाने पर नक़ली खाते बनते हैं: साइनअप करो, पुष्टि लिंक उठाओ, मुफ़्त सीमा जला दो, फिर वही दोहराओ। यह [ffraud.com](https://ffraud.com) के पीछे खड़ा खुला डिस्पोजेबल ईमेल डेटाबेस है: हर अस्थायी और फेंकने लायक मेल डोमेन जो हमें मिल सका, एक ही टेक्स्ट फ़ाइल में। नई सेवाएँ रोज़ आती हैं, इसलिए सूची **हर 30 मिनट** में दोबारा बनती है: आप जो खींचते हैं वह इसी वक़्त ज़िंदा है, पिछले हफ़्ते की तस्वीर नहीं। न पंजीकरण, न कुंजी, न कोई सीमा।
 
 ## संक्षेप में
 
-- **220,249** डिस्पोजेबल और अस्थायी ईमेल डोमेन, हर पंक्ति में एक, क्रमबद्ध, सीधे किसी `Set` में लोड करने लायक
+- **220,635** डिस्पोजेबल और अस्थायी ईमेल डोमेन, हर पंक्ति में एक, क्रमबद्ध, सीधे किसी `Set` में लोड करने लायक
 - **हर 30 मिनट** में दोबारा बनाकर प्रकाशित किया जाता है। कमिट इतिहास ही बदलावों का रिकॉर्ड है, और [`metadata.json`](metadata.json) में बिल्ड का सटीक समय रहता है
 - पहचान सिर्फ़ सूची तक सीमित नहीं: [ffraud.com](https://ffraud.com) के पीछे का इंजन डिस्पोजेबल सेवाओं को उनके **मेल ढाँचे** से भी पहचान लेता है, जिससे बिल्कुल नया डोमेन उसी दिन पकड़ा जाता है जिस दिन वह सामने आता है, किसी भी सूची में आने से पहले
 - बड़े और सशुल्क मेल प्रदाता जानबूझकर **बाहर रखे गए हैं**, ताकि अपने डोमेन पर बैठा कोई असली ग्राहक कभी डिस्पोजेबल सेवा समझा न जाए
 - **MIT लाइसेंस**, व्यावसायिक उपयोग सहित, श्रेय देना अनिवार्य नहीं
 - एक ही टेक्स्ट फ़ाइल। न कोई संग्रह, न स्कीमा, न क्लाइंट लाइब्रेरी
 
+## सूची या API?
+
+इस सूची में हर वह डिस्पोज़ेबल डोमेन है जिसे हम जानते हैं। [मुफ़्त API](https://ffraud.com/docs/email) पूरे पते की जाँच करता है और ज़्यादा पकड़ता है:
+
+|  | यह सूची | API |
+|------|------|------|
+| **नई डिस्पोज़ेबल सेवाएँ** | सूची में आने के बाद | पहले दिन से, उनके मेल सर्वर से पहचानी जाती हैं |
+| **पता ख़ुद** | जाँचा नहीं जाता | फ़ॉर्मेट, रोल पते, रिपोर्ट किए गए स्पैमर |
+| **फ़िशिंग डोमेन** | शामिल नहीं | डोमेन जाँच से चिह्नित |
+
+साइनअप पर ज्ञात डिस्पोज़ेबल डोमेन ब्लॉक करने के लिए यह सूची लोड करें। किसी खास पते पर फ़ैसला चाहिए तो API को कॉल करें। दोनों मुफ़्त हैं।
+
 ## इसमें क्या है
 
 | फ़ाइल | पंक्तियाँ | यह क्या है |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | हर पंक्ति में एक डिस्पोजेबल या अस्थायी ईमेल डोमेन, छोटे अक्षरों में और क्रमबद्ध |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | हर पंक्ति में एक डिस्पोजेबल या अस्थायी ईमेल डोमेन, छोटे अक्षरों में और क्रमबद्ध |
 | [`metadata.json`](../metadata.json) | &mdash; | मौजूदा गिनती और UTC में बिल्ड का समय, ताकि कोई स्क्रिप्ट जान सके उसकी प्रति कितनी ताज़ा है |
 
 ## जल्दी शुरू करें

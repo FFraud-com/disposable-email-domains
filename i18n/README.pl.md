@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789905643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790250934" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/Strona-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Strona"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domeny_jednorazowe-220 249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domeny jednorazowe"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/Domeny_jednorazowe-220 635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Domeny jednorazowe"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/Złośliwe_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Złośliwe IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/Przebudowa-co_30_minut-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Przebudowa"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/Darmowe_API-bez_klucza-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="Darmowe API"></a>
@@ -15,26 +15,38 @@
 
 # Jednorazowe domeny pocztowe, przebudowywane co 30 minut
 
-<p align="center"><b>220 249 jednorazowych i tymczasowych domen pocztowych. Jedna prosta lista, odświeżana przez całą dobę.</b></p>
-<p align="center"><sub>Licencja MIT &middot; bez rejestracji, bez klucza API, bez limitów zapytań &middot; zaktualizowano 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/pl.svg?v=1789905643" alt="Sprawdź adres za darmo na ffraud.com" width="540"></a></p>
+<p align="center"><b>220 635 jednorazowych i tymczasowych domen pocztowych. Jedna prosta lista, odświeżana przez całą dobę.</b></p>
+<p align="center"><sub>Licencja MIT &middot; bez rejestracji, bez klucza API, bez limitów zapytań &middot; zaktualizowano 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/pl.svg?v=1790250934" alt="Sprawdź adres za darmo na ffraud.com" width="540"></a></p>
 
 Jednorazowe skrzynki to dokładnie ta droga, którą masowo powstają fałszywe konta: rejestracja, odbiór linku potwierdzającego, wypalenie darmowego pakietu, od nowa. To otwarta baza poczty jednorazowej stojąca za [ffraud.com](https://ffraud.com): każda tymczasowa i jednorazowa domena pocztowa, jaką potrafimy znaleźć, w jednym pliku tekstowym. Nowe usługi pojawiają się codziennie, więc lista jest przebudowywana **co 30 minut**: to, co pobierasz, żyje teraz, a nie jest zdjęciem sprzed tygodnia. Bez rejestracji, bez klucza, bez limitów.
 
 ## W skrócie
 
-- **220 249** jednorazowych i tymczasowych domen pocztowych, po jednej w wierszu, posortowanych, gotowych do wczytania w `Set`
+- **220 635** jednorazowych i tymczasowych domen pocztowych, po jednej w wierszu, posortowanych, gotowych do wczytania w `Set`
 - Przebudowywana i publikowana **co 30 minut**. Historia commitów jest dziennikiem zmian, a [`metadata.json`](metadata.json) zawiera dokładny czas budowy
 - Wykrywanie nie kończy się na liście: silnik za [ffraud.com](https://ffraud.com) rozpoznaje usługi jednorazowe także po ich **infrastrukturze pocztowej**, dzięki czemu łapie zupełnie nową domenę w dniu jej pojawienia się, zanim trafi na jakąkolwiek listę
 - Popularni i płatni dostawcy poczty są celowo **wykluczeni**, żeby prawdziwy klient na własnej domenie nigdy nie został wzięty za usługę jednorazową
 - **Licencja MIT**, użycie komercyjne w zestawie, bez obowiązku wskazania autorstwa
 - Jeden plik tekstowy. Bez archiwum, bez schematu, bez biblioteki klienckiej
 
+## Lista czy API?
+
+Ta lista zawiera każdą znaną nam domenę jednorazową. [Darmowe API](https://ffraud.com/docs/email) sprawdza cały adres i wychwytuje więcej:
+
+|  | Ta lista | API |
+|------|------|------|
+| **Nowe usługi jednorazowe** | Gdy już są na liście | Od pierwszego dnia, rozpoznane po serwerach pocztowych |
+| **Sam adres** | Nie jest sprawdzany | Format, adresy funkcyjne, zgłoszeni spamerzy |
+| **Domeny phishingowe** | Brak | Oznaczane przez sprawdzenie domeny |
+
+Załaduj tę listę, by blokować znane domeny jednorazowe przy rejestracji. Wywołaj API, gdy chcesz werdyktu dla konkretnego adresu. Oba są darmowe.
+
 ## Co jest w środku
 
 | Plik | Wierszy | Co to jest |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 249 | Po jednej jednorazowej lub tymczasowej domenie pocztowej w wierszu, małymi literami i posortowane |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220 635 | Po jednej jednorazowej lub tymczasowej domenie pocztowej w wierszu, małymi literami i posortowane |
 | [`metadata.json`](../metadata.json) | &mdash; | Aktualny licznik i czas budowy w UTC, żeby skrypt wiedział, jak świeża jest jego kopia |
 
 ## Szybki start

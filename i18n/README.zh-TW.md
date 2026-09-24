@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1789905643" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790250934" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
   <a href="https://ffraud.com"><img src="https://img.shields.io/badge/官網-ffraud.com-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="官網"></a>
-  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/拋棄式網域-220,249-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="拋棄式網域"></a>
+  <a href="https://ffraud.com/docs/open-data"><img src="https://img.shields.io/badge/拋棄式網域-220,635-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="拋棄式網域"></a>
   <a href="https://github.com/FFraud-com/ip-fraud-database"><img src="https://img.shields.io/badge/惡意_IP-0-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="惡意 IP"></a>
   <a href="https://github.com/FFraud-com/disposable-email-domains/commits/main"><img src="https://img.shields.io/badge/重建頻率-每_30_分鐘-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="重建頻率"></a>
   <a href="https://ffraud.com/docs"><img src="https://img.shields.io/badge/免費_API-免金鑰-e11d2c?style=for-the-badge&labelColor=0a0a0a" alt="免費 API"></a>
@@ -15,26 +15,38 @@
 
 # 拋棄式信箱網域，每 30 分鐘重建一次
 
-<p align="center"><b>220,249 個拋棄式、臨時、用完即丟的信箱網域。一份純粹的清單，全天候更新。</b></p>
-<p align="center"><sub>MIT 授權 &middot; 免註冊、免金鑰、無流量限制 &middot; 更新於 20.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/zh-TW.svg?v=1789905643" alt="在 ffraud.com 上免費檢測一個信箱" width="540"></a></p>
+<p align="center"><b>220,635 個拋棄式、臨時、用完即丟的信箱網域。一份純粹的清單，全天候更新。</b></p>
+<p align="center"><sub>MIT 授權 &middot; 免註冊、免金鑰、無流量限制 &middot; 更新於 24.09.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/zh-TW.svg?v=1790250934" alt="在 ffraud.com 上免費檢測一個信箱" width="540"></a></p>
 
 臨時收件匣正是大量製造假帳號的那條路：註冊、拿到確認連結、燒掉免費額度、再來一遍。這是 [ffraud.com](https://ffraud.com) 背後的開放拋棄式信箱資料庫，我們能找到的每一個臨時、拋棄式、用完即丟的郵件網域，都在一個純文字檔裡。新的臨時信箱服務每天都在冒出來，所以這份清單**每 30 分鐘**重建一次：你拉到的是此刻還活著的，不是上週的快照。免註冊、免金鑰、無流量限制。
 
 ## 關鍵數字
 
-- **220,249** 個拋棄式與臨時信箱網域，每行一個，已排序，可直接讀進 `Set`
+- **220,635** 個拋棄式與臨時信箱網域，每行一個，已排序，可直接讀進 `Set`
 - **每 30 分鐘**重建並推送一次。提交歷史就是變更紀錄，[`metadata.json`](metadata.json) 記錄了精確的建置時間
 - 辨識能力不只這份清單：[ffraud.com](https://ffraud.com) 背後的引擎還會透過**郵件基礎設施**認出臨時信箱服務，因此一個全新網域在出現的當天就能被抓到，比任何清單都早
 - 主流與付費郵件服務商被刻意**排除在外**，用自有網域的真實客戶絕不會被誤認成臨時信箱服務
 - **MIT 授權**，包含商業用途，無需署名
 - 一個純文字檔。沒有壓縮檔、沒有 schema、沒有用戶端函式庫
 
+## 用清單，還是用 API？
+
+這份清單收錄了我們知道的每一個拋棄式信箱網域。[免費 API](https://ffraud.com/docs/email) 會檢查完整的位址，能攔下更多：
+
+|  | 這份清單 | API |
+|------|------|------|
+| **新出現的拋棄式信箱服務** | 要等它們進入清單 | 第一天就能辨識，依據是其郵件伺服器 |
+| **位址本身** | 不檢查 | 格式、角色位址、被檢舉的垃圾郵件寄件者 |
+| **釣魚網域** | 不包含 | 由網域檢查標記 |
+
+註冊時載入這份清單，封鎖已知的拋棄式網域。需要對某個具體位址下結論時，呼叫 API。兩者都免費。
+
 ## 倉庫內容
 
 | 檔案 | 列數 | 說明 |
 |------|------:|------|
-| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,249 | 每行一個拋棄式或臨時信箱網域，全部小寫並已排序 |
+| [`disposable-email-domains.txt`](../disposable-email-domains.txt) | 220,635 | 每行一個拋棄式或臨時信箱網域，全部小寫並已排序 |
 | [`metadata.json`](../metadata.json) | &mdash; | 即時計數與 UTC 建置時間，讓腳本判斷自己這份副本有多新 |
 
 ## 快速開始
