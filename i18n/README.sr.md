@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790811097" alt="ffraud Disposable Email Domains" width="600"></a>
+  <a href="https://ffraud.com"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/banner.svg?v=1790812952" alt="ffraud Disposable Email Domains" width="600"></a>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 # Jednokratni imejl domeni, ponovo izgrađeni na svakih 30 minuta
 
 <p align="center"><b>221.483 jednokratnih i privremenih imejl domena. Jedan jednostavan spisak, osvežavan danonoćno.</b></p>
-<p align="center"><sub>MIT licenca &middot; bez registracije, bez API ključa, bez ograničenja zahteva &middot; ažurirano 30.09.2026</sub></p>
-<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sr.svg?v=1790811097" alt="Proverite adresu besplatno na ffraud.com" width="540"></a></p>
+<p align="center"><sub>MIT licenca &middot; bez registracije, bez API ključa, bez ograničenja zahteva &middot; ažurirano 01.10.2026</sub></p>
+<p align="center"><a href="https://ffraud.com/tools/email-blacklist-check"><img src="https://raw.githubusercontent.com/FFraud-com/disposable-email-domains/main/assets/cta/sr.svg?v=1790812952" alt="Proverite adresu besplatno na ffraud.com" width="540"></a></p>
 
 Jednokratna sandučad upravo su put kojim se lažni nalozi proizvode u velikom broju: registruj se, uzmi link za potvrdu, potroši besplatni paket, ponovi. Ovo je otvorena baza jednokratnih imejlova iza [ffraud.com](https://ffraud.com): svaki privremeni i jednokratni poštanski domen koji uspemo da pronađemo, u jednom tekstualnom fajlu. Nove usluge niču svakog dana, pa se spisak **na svakih 30 minuta** iznova gradi: ono što povučete živi sada, nije snimak od prošle nedelje. Bez registracije, bez ključa, bez ograničenja.
 
